@@ -80,6 +80,10 @@ module.exports = {
           '10%': { transform: 'scale(90%)' },
           '50%': { transform: 'scale(110%)' },
         },
+        blink: {
+          '0%, 100%': { opacity: '0' },
+          '50%': { opacity: '1' },
+        },
       },
       animation: {
         'accordion-down': 'accordion-down 400ms cubic-bezier(0.42, 0, 0, 1.00)',
@@ -88,6 +92,7 @@ module.exports = {
           'button-gradient 10s cubic-bezier(0.42, 0, 0, 1.00) infinite alternate',
         jumpyy:
           'jump-mod var(--tw-animate-duration, 500ms) var(--tw-animate-easing, ease) var(--tw-animate-delay, 0s) var(--tw-animate-iteration, 1) var(--tw-animate-fill, both)',
+        blink: 'blink 1s infinite steps(1,end)',
       },
       screens: {
         mdp: '930px',

@@ -19,6 +19,7 @@ import {
   AccordionItem,
   AccordionTrigger,
 } from '@/components/ui/accordion'
+import { Button } from '@/components/ui/button'
 import { SITE_NAME, SITE_URL } from '@/constants/constants'
 import { PaperData } from '@/types'
 
@@ -107,13 +108,16 @@ const PaperPage = async ({ params }: ParamsType): Promise<JSX.Element> => {
 
   return (
     <div className='py-6'>
-      <Link
-        href={'/research'}
-        className='group mb-10 flex w-fit items-center text-sm text-primary/80 transition-opacity hover:opacity-50'
-      >
-        <ArrowLeftIcon className='mr-1.5 transition-transform group-hover:-translate-x-1' />
-        <span>All Researches</span>
-      </Link>
+      <Button asChild variant='ghost'>
+        <Link
+          href={'/research'}
+          className='group mb-10 flex w-fit items-center text-sm text-primary/80'
+        >
+          <ArrowLeftIcon className='mr-1.5 transition-transform group-hover:-translate-x-1' />
+          <span>All Researches</span>
+        </Link>
+      </Button>
+
       <article className='flex flex-col md:grid md:grid-cols-[1fr_0.5fr]'>
         <div className='md:border-r md:pl-3 md:pr-6'>
           <h1 className='group mb-4 font-garamond text-4xl font-medium md:text-5xl'>

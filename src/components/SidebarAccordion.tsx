@@ -3,10 +3,11 @@
 import { useEffect, useState } from 'react'
 import { usePathname } from 'next/navigation'
 
-import { CollaspeIcon } from './Icons'
+import { CollaspeIcon, QueueListIcon } from './Icons'
 import SidebarItem from './SidebarItem'
 
 import { Accordion } from '@/components/ui/accordion'
+import { Button } from '@/components/ui/button'
 import { Separator } from '@/components/ui/separator'
 import { CategoryOptionsType, RecordType } from '@/types'
 
@@ -38,27 +39,27 @@ const SidebarAccordion = ({
         : ''
 
     if (!openedItems.includes(currentCategory) && currentCategory !== '') {
-      setOpenedItems([...openedItems, currentCategory])
+      // setOpenedItems([...openedItems, currentCategory])
     }
   }, [pathname, openedItems])
 
   return (
     <Accordion
-      className='relative flex h-full flex-col gap-3 overflow-hidden py-6 pr-4 lg:py-8 lg:pl-4 xl:gap-4'
+      className='relative flex h-full flex-col gap-3 overflow-hidden py-6 pr-4 lg:py-8 lg:pl-4 xl:gap-1'
       type='multiple'
       defaultValue={openedItems}
       value={openedItems}
       onValueChange={setOpenedItems}
     >
-      <div
-        role='button'
-        className='mb-2 flex items-center self-start text-muted-foreground transition-colors hover:text-muted-foreground/50'
+      <Button
+        variant='outline'
+        size='icon'
+        className='mb-2 flex items-center self-start text-muted-foreground'
         onClick={() => setOpenedItems([])}
       >
-        <CollaspeIcon />
-        <span className='ml-1 text-xs'>Collapse all</span>
+        <QueueListIcon />
         <span className='sr-only'>Collapse all</span>
-      </div>
+      </Button>
       {Object.keys(recordsMapZh).map((category: CategoryOptionsType) => (
         <SidebarItem
           key={category}

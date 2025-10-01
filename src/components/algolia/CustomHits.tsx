@@ -59,14 +59,14 @@ const HitItem = ({ hits, onHitClick }): JSX.Element => {
               <div className='ml-1 mr-2 flex items-center justify-center p-1 text-primary/60 sm:mr-2.5'>
                 {icon}
               </div>
-              <div className='flex flex-[1_1_0] flex-col gap-1'>
+              <div className='flex flex-[1_1_0] flex-col gap-0.5'>
                 <Highlight
                   hit={hit}
                   attribute='title'
                   className='Hit-label block'
                   classNames={{
                     highlighted: 'bg-transparent text-primary font-semibold',
-                    nonHighlighted: 'text-muted-foreground',
+                    nonHighlighted: 'text-foreground/80',
                     root: 'text-sm',
                   }}
                 />

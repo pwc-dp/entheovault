@@ -21,7 +21,7 @@ const LoadingSkeleton = () => {
 const VectorSearchResult = ({ searchResults, isLoading = false }) => {
   return (
     <>
-      <article className='md:min-h-30 relative overflow-y-scroll md:max-h-[50dvh]'>
+      <article className='md:min-h-30 relative overflow-y-scroll md:max-h-[57dvh]'>
         <div className='flex h-full gap-2 overflow-y-scroll md:flex-col md:gap-2.5'>
           {
             <>
@@ -69,7 +69,7 @@ const VectorSearchResult = ({ searchResults, isLoading = false }) => {
             </>
           }
         </div>
-        {searchResults?.length > 0 ? <FadingMaskBottom /> : null}
+        {/* {searchResults?.length > 0 ? <FadingMaskBottom /> : null} */}
       </article>
     </>
   )

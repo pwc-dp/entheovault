@@ -4,6 +4,7 @@ import Link from 'next/link'
 import { AspectRatio } from './ui/aspect-ratio'
 
 import { getAllRecords } from '@/api/general'
+import imgPsychedelicDatabaseIntro from '@/assets/psychedelic-database-intro.jpeg'
 import { Badge } from '@/components/ui/badge'
 import {
   Card,
@@ -47,7 +48,7 @@ const GridCard = async ({
           <div className='relative saturate-[0.15] transition-[filter] group-hover:saturate-100'>
             <AspectRatio ratio={21 / 9}>
               <Image
-                src={meta.imgUrl}
+                src={meta?.imgUrl || imgPsychedelicDatabaseIntro}
                 fill
                 alt='Image'
                 placeholder='blur'

@@ -147,7 +147,7 @@ const RecordPage = async ({ params }: ParamsType): Promise<JSX.Element> => {
             className='h-auto w-auto rounded-md object-cover object-center'
           />
         </AspectRatio>
-        <div className='px-2 leading-relaxed text-primary/70 md:px-3'>
+        <div className='px-2 leading-relaxed text-primary md:px-3'>
           {metaDescription ? (
             <span className='whitespace-break-spaces'>{metaDescription}</span>
           ) : (

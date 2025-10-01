@@ -60,6 +60,7 @@ const Header = ({
           <Link
             className='flex items-center gap-1 transition-opacity hover:opacity-40 md:gap-1.5'
             href={'/'}
+            title={`${SITE_NAME}`}
           >
             <PsychedelicDBIcon className='h-6 w-6 md:h-7 md:w-7' />
             <span className='font-garamond text-base sm:text-lg md:text-xl'>

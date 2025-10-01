@@ -76,7 +76,7 @@ const CategoryPage = async ({
           },
         ]}
       />
-      <h2 className='mb-6 text-3xl font-semibold md:text-5xl'>
+      <h2 className='mb-6 text-3xl font-semibold md:text-4xl'>
         {category.displayName}
       </h2>
       <div className='relative flex flex-col gap-4'>

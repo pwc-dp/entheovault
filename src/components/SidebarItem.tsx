@@ -49,7 +49,10 @@ const SidebarItem = ({
 
   return (
     <AccordionItem className='border-0' value={category}>
-      <AccordionTrigger className='py-0 text-left'>
+      <AccordionTrigger
+        className='py-0 text-left'
+        isOpen={openedItems.includes(category)}
+      >
         <Link
           prefetch={false}
           href={`/database/${category}?layout=${layout}`}

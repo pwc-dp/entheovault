@@ -825,9 +825,28 @@ export const GeminiIcon = ({ className }: Props): JSX.Element => {
       viewBox='0 0 24 24'
       fill='currentColor'
       xmlns='http://www.w3.org/2000/svg'
-      className={cn('h-5 w-5', className)}
+      className={cn('h-4 w-4', className)}
     >
       <path d='M12 23C12 19.9601 13.0735 17.3669 15.2204 15.2204C17.3669 13.0735 19.9601 12 23 12C19.9601 12 17.3669 10.9265 15.2204 8.77961C13.0735 6.63306 12 4.03985 12 1C12 4.03985 10.9265 6.63306 8.77961 8.77961C6.63306 10.9265 4.03985 12 1 12C4.03985 12 6.63306 13.0735 8.77961 15.2204C10.9265 17.3669 12 19.9601 12 23Z' />
+    </svg>
+  )
+}
+
+export const QueueListIcon = ({ className }: Props): JSX.Element => {
+  return (
+    <svg
+      xmlns='http://www.w3.org/2000/svg'
+      fill='none'
+      viewBox='0 0 24 24'
+      strokeWidth={1.5}
+      stroke='currentColor'
+      className={cn('size-5', className)}
+    >
+      <path
+        strokeLinecap='round'
+        strokeLinejoin='round'
+        d='M3.75 12h16.5m-16.5 3.75h16.5M3.75 19.5h16.5M5.625 4.5h12.75a1.875 1.875 0 0 1 0 3.75H5.625a1.875 1.875 0 0 1 0-3.75Z'
+      />
     </svg>
   )
 }

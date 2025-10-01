@@ -15,9 +15,29 @@ const CompletionLoadingSkeleton = () => {
   return (
     <>
       <div className='relative my-2'>
-        <span className='animate-spin'>🧠 </span>
-        Analysing...
+        <span className='animate-spin'>🧠</span>
+        <span className='ml-2 inline-flex'>
+          <span
+            className='animate-blink text-lg'
+            style={{ animationDelay: '0s' }}
+          >
+            .
+          </span>
+          <span
+            className='animate-blink text-lg'
+            style={{ animationDelay: '0.15s' }}
+          >
+            .
+          </span>
+          <span
+            className='animate-blink text-lg'
+            style={{ animationDelay: '0.30s' }}
+          >
+            .
+          </span>
+        </span>
       </div>
+
       <div className='flex flex-col gap-6'>
         <div className='space-y-2'>
           <Skeleton className='h-4 w-[60%]' />
@@ -65,6 +85,7 @@ const CompletionResult = ({
     completion,
     complete,
     isLoading: isCompletionLoading,
+    stop,
   } = useCompletion({
     api: '/apiv2/summarize-new',
     body: {
@@ -96,15 +117,21 @@ const CompletionResult = ({
     setWholeLoading(false)
   }, [completion, isCompletionLoading, setWholeLoading])
 
+  useEffect(() => {
+    return () => {
+      stop()
+    }
+  }, [stop])
+
   return (
     <div
       className={cn(
-        'prose relative flex-[1_1_0] overflow-y-scroll rounded-xl border-primary/10 bg-muted-foreground/5 px-3 pb-4 pt-4 dark:prose-invert prose-p:my-2 prose-strong:text-primary md:max-h-[50dvh] md:px-5 md:prose-p:my-4',
+        'prose relative flex-[1_1_0] overflow-y-scroll rounded-xl border-primary/10 bg-muted-foreground/5 px-3 pb-4 pt-4 dark:prose-invert prose-p:my-2 prose-strong:text-primary md:max-h-[57dvh] md:min-w-full md:px-5 md:prose-p:my-4',
         isCompletionLoading && 'animate-pulse select-none overflow-y-hidden',
       )}
     >
       <Badge className='bg-muted py-1.5 text-primary/80 hover:bg-muted'>
-        <span className='ml-1'>Summarize</span>
+        <span className=''>Summarize</span>
       </Badge>
       {wholeLoading && !isCompletionLoading && <CompletionLoadingSkeleton />}
       {

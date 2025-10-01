@@ -1,6 +1,6 @@
 'use client'
 
-import { useCallback, useEffect, useState } from 'react'
+import { useCallback, useEffect, useRef, useState } from 'react'
 import { ProseMirror, react } from '@nytimes/react-prosemirror'
 import posthog from 'posthog-js'
 import { history, redo, undo } from 'prosemirror-history'
@@ -8,14 +8,13 @@ import { keymap } from 'prosemirror-keymap'
 import { schema } from 'prosemirror-schema-basic'
 import { EditorState } from 'prosemirror-state'
 import { toast } from 'sonner'
-import useSWR from 'swr'
+import useSWR, { mutate } from 'swr'
 
 import { getEmbedding, queryVector } from '../utilities/paperDetail'
 import VectorSearchResult from './VectorSearchResult'
 
 import CompletionResult from '@/components/CompletionResult'
 import {
-  ChatGPTIcon,
   CubeTransparentIcon,
   GeminiIcon,
   TheEye,
@@ -46,6 +45,7 @@ const VectorSearch = () => {
   const [search, setSearch] = useState('')
   const [model, setModel] = useState<Models>('gemini-2.5-flash')
   const [mount, setMount] = useState<HTMLElement | null>(null)
+  // const recaptchaRef = useRef<InvisibleRecaptchaRef>(null)
   const [editorState, setEditorState] = useState<EditorState | null>(
     EditorState.create({
       schema,
@@ -105,9 +105,57 @@ const VectorSearch = () => {
       toast.warning('Please input prompt to search')
       return
     }
-
+    // Execute reCAPTCHA
+    // recaptchaRef.current?.execute()
     setDebouncedSearch(search)
   }, [search])
+
+  // const handleRecaptchaVerify = useCallback(
+  //   (token: string | null) => {
+  //     if (token) {
+  //       setDebouncedSearch(search)
+  //     } else {
+  //       toast.error('reCAPTCHA verification failed. Please try again.')
+  //     }
+  //   },
+  //   [search],
+  // )
+
+  const handleDialogOpenChange = useCallback(
+    (isOpen: boolean) => {
+      if (!isOpen && wholeLoading) {
+        // Dialog is being closed while loading, reset to default values
+        setWholeLoading(false)
+        setDebouncedSearch('')
+        setSearch('')
+        setCachedResults([])
+        localStorageHelper.remove('vector-search-result-cache')
+        localStorageHelper.remove('completion-cache')
+
+        setEditorState(
+          EditorState.create({
+            schema,
+            plugins: [
+              react(),
+              history(),
+              keymap({ 'Mod-z': undo, 'Mod-y': redo }),
+              placeholderPlugin(),
+            ],
+          }),
+        )
+
+        mutate(['vectorSearch', debouncedSearch], undefined, false)
+      }
+
+      // Reset reCAPTCHA when dialog is closed to ensure it works on next open
+      // if (!isOpen) {
+      //   recaptchaRef.current?.reset()
+      // }
+
+      setOpen(isOpen)
+    },
+    [wholeLoading, debouncedSearch],
+  )
 
   useEffect(() => {
     const handleKeyDown = (e: KeyboardEvent) => {
@@ -152,8 +200,8 @@ const VectorSearch = () => {
         <CubeTransparentIcon className='mr-2 animate-spin animate-duration-[3000ms] animate-infinite animate-ease-in-out' />
         PsycheLens
       </Button>
-      <Dialog open={open} onOpenChange={setOpen}>
-        <DialogContent className='flex min-h-[95dvh] max-w-[95%] flex-col gap-1.5 px-2 pb-2 pt-4 md:min-h-fit md:max-w-4xl md:p-6 md:px-5 md:py-[1.35rem] xl:max-w-5xl'>
+      <Dialog open={open} onOpenChange={handleDialogOpenChange}>
+        <DialogContent className='flex min-h-[95dvh] max-w-[95%] flex-col gap-1.5 px-2 pb-2 pt-4 md:min-h-fit md:max-w-4xl md:p-6 md:px-5 md:py-[1.35rem] xl:max-w-6xl'>
           <DialogHeader className='flex flex-col items-center'>
             <DialogTitle className='relative mb-5 mt-6 flex items-center justify-center font-garamond text-2xl md:mb-3 md:text-3xl'>
               <CubeTransparentIcon
@@ -174,12 +222,11 @@ const VectorSearch = () => {
               >
                 🤔
               </div>
-              {/* Expand your consciousness */}
             </DialogTitle>
           </DialogHeader>
           {/* Search input box */}
           <div className='order-last flex flex-col items-center md:order-none md:mb-6 md:mt-3'>
-            <div className='z-20 mx-auto flex w-full max-w-2xl flex-col rounded-2xl border border-muted-foreground/10 bg-secondary pb-2.5 pl-2 pr-2.5 pt-2.5 text-primary transition-colors focus-within:border-muted-foreground/60 sm:mx-0'>
+            <div className='z-20 mx-auto flex w-full max-w-2xl flex-col rounded-xl border border-muted-foreground/5 bg-secondary pb-2 pl-2 pr-2.5 pt-2.5 text-primary transition-colors focus-within:border-muted-foreground/60 sm:mx-0'>
               <div className='flex w-full justify-between'>
                 <div className='mb-2 mr-3 mt-1 max-h-96 min-h-[3.5rem] w-full flex-1 overflow-y-auto break-words pl-3.5 md:min-h-[4.5rem]'>
                   <ProseMirror
@@ -216,11 +263,11 @@ const VectorSearch = () => {
               >
                 <SelectTrigger
                   disabled
-                  className='h-7 w-max gap-1 rounded-[0.5rem] border-none bg-secondary px-1.5 py-3 text-primary/70 transition-colors hover:bg-primary-foreground'
+                  className='h-7 w-max gap-1 rounded-[0.5rem] border-none bg-secondary px-1.5 py-3 text-xs text-primary/70 transition-colors hover:bg-primary-foreground'
                 >
                   <SelectValue placeholder='Model' />
                 </SelectTrigger>
-                <SelectContent className='text-sm text-primary/70'>
+                <SelectContent className='text-primary/70'>
                   {/* <SelectItem
                     value='gpt-4o-mini'
                     className='transition-colors hover:bg-secondary disabled:cursor-not-allowed'
@@ -237,7 +284,7 @@ const VectorSearch = () => {
                     value='gemini-2.5-flash'
                     className='transition-colors hover:bg-secondary'
                   >
-                    <div className='grid grid-cols-[0.2fr_1fr] items-center gap-1'>
+                    <div className='grid grid-cols-[0.2fr_1fr] items-center gap-0.5'>
                       <GeminiIcon />
                       <span>{MODEL_MAP['gemini-2.5-flash']}</span>
                     </div>
@@ -245,6 +292,23 @@ const VectorSearch = () => {
                 </SelectContent>
               </Select>
             </div>
+            {/* <div className='mt-1 p-1 text-xs text-muted-foreground md:p-2'>
+              This site is protected by reCAPTCHA and the Google{' '}
+              <a
+                href='https://policies.google.com/privacy'
+                className='text-primary'
+              >
+                Privacy Policy
+              </a>{' '}
+              and{' '}
+              <a
+                href='https://policies.google.com/terms'
+                className='text-primary'
+              >
+                Terms of Service
+              </a>{' '}
+              apply.
+            </div> */}
             {error && (
               <div className='mt-0.5 pl-1.5 text-sm font-semibold text-red-400'>
                 Error performing search 😢 Please try again.
@@ -274,14 +338,20 @@ const VectorSearch = () => {
                 />
               </>
             ) : (
-              <div className='flex flex-col items-center text-primary/60 md:pb-8'>
-                <TheEye className='h-10 w-10' />
-                <span>Expand your consciousness</span>
+              <div className='flex flex-col items-center text-primary/60 md:pb-8 md:pt-8'>
+                <TheEye className='h-7 w-7' />
+                {/* <span className='text-sm text-primary/50'>Expand your consciousness</span> */}
               </div>
             )}
           </div>
         </DialogContent>
       </Dialog>
+      {/* <InvisibleRecaptcha
+        ref={recaptchaRef}
+        onVerify={handleRecaptchaVerify}
+        onError={handleRecaptchaError}
+        onExpired={handleRecaptchaError}
+      /> */}
     </>
   )
 }
