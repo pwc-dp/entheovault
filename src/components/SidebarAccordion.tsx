@@ -45,7 +45,7 @@ const SidebarAccordion = ({
 
   return (
     <Accordion
-      className='relative flex h-full flex-col gap-3 overflow-hidden py-6 pr-4 lg:py-8 lg:pl-4 xl:gap-1'
+      className='relative flex h-full flex-col gap-1 overflow-hidden py-6 pr-4 lg:py-8 lg:pl-4'
       type='multiple'
       defaultValue={openedItems}
       value={openedItems}

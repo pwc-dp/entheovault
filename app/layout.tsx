@@ -27,7 +27,7 @@ export const metadata: Metadata = {
   description: siteDescription,
   openGraph: {
     title: {
-      default: `${SITE_NAME_ZH} ${SITE_NAME} – 通往啟靈研究與知識的大門`,
+      default: `${SITE_NAME_ZH} ${SITE_NAME} – 通往啟靈研究與知識之門`,
       template: `%s – ${SITE_NAME_ZH} ${SITE_NAME}`,
     },
     description: siteDescription,
@@ -39,7 +39,7 @@ export const metadata: Metadata = {
   twitter: {
     card: 'summary_large_image',
     title: {
-      default: `${SITE_NAME_ZH} ${SITE_NAME} – 通往啟靈研究與知識的大門`,
+      default: `${SITE_NAME_ZH} ${SITE_NAME} – 通往啟靈研究與知識之門`,
       template: `%s – ${SITE_NAME_ZH} ${SITE_NAME}`,
     },
     description: siteDescription,
