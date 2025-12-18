@@ -65,7 +65,7 @@ const SidebarItem = ({
         </Link>
       </AccordionTrigger>
       <AccordionContent className='pl-2'>
-        <ol className='mt-5 flex flex-col gap-3 border-l text-base text-muted-foreground xl:gap-4'>
+        <ol className='mt-3 flex flex-col gap-3 border-l text-base text-muted-foreground xl:gap-4'>
           {records.map((item) => (
             <li key={item.id} onClick={onItemClicked}>
               <Link
