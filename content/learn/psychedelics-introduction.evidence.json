@@ -1,0 +1,73 @@
+{
+  "paper": {
+    "key": "nichols-2004-hallucinogens",
+    "title": "Hallucinogens",
+    "authors": ["David E. Nichols"],
+    "journal": "Pharmacology & Therapeutics",
+    "year": 2004,
+    "volume": "101",
+    "pages": "131–181",
+    "doi": "10.1016/j.pharmthera.2003.11.002",
+    "source": {
+      "filename": "2004_Nichols_22684_1.pdf",
+      "sha256": "cb87cbc391afd46d0ad5ca512211f26a239ff0ea825eee3f1134db5767595a59",
+      "pdfPageCount": 51
+    }
+  },
+  "evidence": [
+    {
+      "key": "nichols-2004-definition",
+      "source": {
+        "pdfPage": 1,
+        "section": "Abstract",
+        "quote": "Hallucinogens (psychedelics) are psychoactive substances that powerfully alter perception, mood, and a host of cognitive processes."
+      },
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "nichols-2004-perception",
+      "source": {
+        "pdfPage": 4,
+        "section": "1.1. Historical perspective",
+        "quote": "2. Perceptual symptoms: altered shapes and colors, diffi-\nculty in focusing on objects, sharpened sense of hearing,\nand rarely synesthesias.\n3. Psychic symptoms: alterations in mood (happy, sad, or\nirritable at varying times), tension, distorted time sense,\ndifficulty in expressing thoughts, depersonalization,\ndreamlike feelings, and visual hallucinations."
+      },
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "nichols-2004-classic",
+      "source": {
+        "pdfPage": 2,
+        "section": "1. Introduction",
+        "quote": "Hallucinogens, for the purposes of this review, will mean\nonly substances with psychopharmacology resembling that\nof the natural products mescaline and psilocybin and the\nsemisynthetic substance known as lysergic acid diethyla-\nmide (LSD-25). More specifically, now that there is appre-\nciation of their probable molecular mechanism of action, we\nshall review those substances that principally exert their\ncentral nervous system (CNS) effects by an agonist (or\npartial agonist) action at serotonin (5-HT)\n2A receptors."
+      },
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "nichols-2004-mdma",
+      "source": {
+        "pdfPage": 2,
+        "section": "1. Introduction",
+        "quote": "MDMA has unique psychopharmacology, how-\never, appearing to have major components of action that\ninvolve interaction with monoamine uptake transporters,\nand does not properly fit within the hallucinogen classifi-\ncation (Nichols & Oberlender, 1990; Nichols, 1994; Bank-\nson & Cunningham, 2001; O’Leary et al., 2001) . Thus, one"
+      },
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "nichols-2004-ketamine",
+      "source": {
+        "pdfPage": 33,
+        "section": "5. Clinical relevance of serotonin 2A receptors",
+        "quote": "A hyperfrontal metabolic pattern also\noccurs in humans following administration of subanesthetic\ndoses of the noncompetitive NMDA antagonist ketamine\n(V ollenweider et al., 1997a)"
+      },
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "nichols-2004-naming",
+      "source": {
+        "pdfPage": 2,
+        "section": "1. Introduction",
+        "quote": "What are hallucinogens? This term was originally coined\nbecause of the notion that these substances produce halluci-\nnations, an effect, however, that they do not ordinarily elicit,\nat least at typical dosages. Thus, that name is a misnomer."
+      },
+      "reviewStatus": "reviewed"
+    }
+  ]
+}

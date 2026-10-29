@@ -13,6 +13,7 @@ const SearchButton = ({ onButtonClick, className }: Props): JSX.Element => {
       <div className='search-button-bg absolute -inset-0.5 -z-10 rounded-lg opacity-60 blur transition group-hover:blur-md' />
       <button
         type='button'
+        aria-label='搜尋資料庫'
         className={cn(
           'flex h-9 items-center justify-between rounded-sm bg-input px-4 ring-1 ring-muted/50',
           'search-button-bg animate-button-gradient bg-[length:200%_200%]',

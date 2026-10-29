@@ -2,6 +2,8 @@
 import { ImageResponse } from 'next/og'
 import { NextRequest } from 'next/server'
 
+import { SITE_NAME } from '@/constants/constants'
+
 // Route segment config
 export const runtime = 'nodejs'
 
@@ -78,7 +80,7 @@ export async function GET(request: NextRequest) {
               {title}
             </div>
             <div tw='leading-tight text-lg' style={{ fontFamily: 'Roboto' }}>
-              Research / PsycheVault
+              {`Research / ${SITE_NAME}`}
             </div>
           </div>
         </div>

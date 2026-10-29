@@ -1,19 +1,30 @@
 import clsx from 'clsx'
 import type { Metadata } from 'next'
+import dynamic from 'next/dynamic'
 import localFont from 'next/font/local'
 import { NuqsAdapter } from 'nuqs/adapters/next/app'
 
 import './globals.css'
 import CategoriedHeader from '@/components/CategoriedHeader'
-import { PostHogProvider } from '@/components/PostHogProvider'
+import HomeShader from '@/components/Shader'
 import { ThemeProvider } from '@/components/ThemeProvider'
-import { Toaster } from '@/components/ui/sonner'
 import {
   SITE_META_KEYWORDS,
   SITE_NAME,
   SITE_NAME_ZH,
+  SITE_OG_IMAGES,
   SITE_URL,
 } from '@/constants/constants'
+
+const PostHogInit = dynamic(
+  () => import('@/components/PostHogProvider').then((mod) => mod.PostHogInit),
+  { ssr: false },
+)
+
+const Toaster = dynamic(
+  () => import('@/components/ui/sonner').then((mod) => mod.Toaster),
+  { ssr: false },
+)
 
 const siteDescription = `${SITE_NAME_ZH} ${SITE_NAME} – 致力於推廣啟靈物質的研究、治療與應用。平台收錄研究論文、教育資源與專業見解，旨在推動大眾深入理解啟靈藥物對心理健康、個人成長與社會福祉的正向影響。本資料庫由台灣啟靈意識研究學會維護與管理。`
 
@@ -35,6 +46,7 @@ export const metadata: Metadata = {
     siteName: SITE_NAME,
     locale: 'zh_TW',
     type: 'website',
+    images: [SITE_OG_IMAGES.default],
   },
   twitter: {
     card: 'summary_large_image',
@@ -43,6 +55,7 @@ export const metadata: Metadata = {
       template: `%s – ${SITE_NAME_ZH} ${SITE_NAME}`,
     },
     description: siteDescription,
+    images: [SITE_OG_IMAGES.default],
   },
 }
 
@@ -83,20 +96,17 @@ export default function RootLayout({
       className={clsx(garamond.variable)}
     >
       <body className='relative flex min-h-[100dvh] flex-col font-noto antialiased'>
-        <PostHogProvider>
-          <ThemeProvider
-            attribute='class'
-            defaultTheme='light'
-            disableTransitionOnChange
-          >
-            <CategoriedHeader />
-            <NuqsAdapter>{children}</NuqsAdapter>
-            <Toaster />
-            <div id='sheet-portal-container'>
-              <div></div>
-            </div>
-          </ThemeProvider>
-        </PostHogProvider>
+        <ThemeProvider
+          attribute='class'
+          defaultTheme='light'
+          disableTransitionOnChange
+        >
+          <HomeShader />
+          <CategoriedHeader />
+          <NuqsAdapter>{children}</NuqsAdapter>
+          <Toaster />
+        </ThemeProvider>
+        <PostHogInit />
       </body>
     </html>
   )

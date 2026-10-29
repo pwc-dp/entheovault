@@ -1,0 +1,1497 @@
+{
+  "schemaVersion": 1,
+  "slug": "psilocybin",
+  "revision": 2,
+  "updatedAt": "2026-10-29",
+  "scopeNote": "依使用者提供八份PDF的七篇不同文獻撰寫。癌症兩年追蹤兩份PDF為同一研究，與團體訪談同一母試驗；AUD人格次級分析與綜述所述AUD試驗重疊。主要區分綜述轉述、原始隨機試驗、開放式及長期觀察、質性訪談與支持模型。未獨立讀取綜述內所有原始試驗，未補造文化史、監管狀態或未核實療效比較。臨床模型與統計疑點記入個別限制與內部審閱紀錄，不於公開頁首展示。 另納入ScholarAPI取得並核對的Carhart-Harris 2012記憶研究（含封面8頁）與Yu 2008代謝綜述（12頁）。記憶研究分開保留15／13／10人及追蹤分析分母；Yu僅轉述psilocybin專屬代謝段落，不將其他物質的DDI寫為psilocybin風險。",
+  "papers": [
+    {
+      "key": "agrawal-2025-cancer-followup",
+      "doi": "10.1002/cncr.35889",
+      "title": "Long-term benefits of single-dose psilocybin in depressed patients with cancer",
+      "authors": [
+        "Manish Agrawal",
+        "Kim Roddy",
+        "Betsy Jenkins",
+        "Celia Leeks",
+        "Ezekiel Emanuel"
+      ],
+      "journal": "Cancer",
+      "year": 2025,
+      "slug": "long-term-benefits-of-single-dose-psilocybin-in-depressed-patients-with-cancer",
+      "cmsId": "68a82708ca6ad53e49f4a965",
+      "source": {
+        "filename": "doi.org:10.1002:cncr.35889.pdf",
+        "sha256": "e75d873ae0e020c3b2c53d3767b52523e7377800f8b7820875b27e1f66eeb8aa",
+        "pdfPageCount": 5
+      }
+    },
+    {
+      "key": "lewis-2025-healthcare",
+      "doi": "10.1371/journal.pmed.1004519",
+      "title": "Psilocybin-assisted group psychotherapy and mindfulness-based stress reduction for frontline healthcare provider COVID-19-related depression and burnout: A randomized controlled trial",
+      "authors": [
+        "Benjamin R. Lewis",
+        "John Hendrick",
+        "Kevin Byrne",
+        "Madeleine Odette",
+        "Chaorong Wu",
+        "Eric L. Garland"
+      ],
+      "journal": "PLOS Medicine",
+      "year": 2025,
+      "slug": "psilocybin-assisted-group-psychotherapy-and-mindfulness-based-stress-reduction-for-frontline-healthcare-provider-covid-19-related-depression-and-burnout-a-randomized-controlled-trial",
+      "cmsId": "68e3ab9f4a4d7f9330fd3a45",
+      "source": {
+        "filename": "10.1371:journal.pmed.1004519.pdf",
+        "sha256": "2fcef30c69b31bf15781895fed9edb9c7bc3d0a987c3b9de8014fc101c8a806d",
+        "pdfPageCount": 21
+      }
+    },
+    {
+      "key": "beaussant-2024-acceptability",
+      "doi": "10.1002/cncr.35024",
+      "title": "Acceptability of psilocybin-assisted group therapy in patients with cancer and major depressive disorder: Qualitative analysis",
+      "authors": [
+        "Yvan Beaussant",
+        "Elise Tarbi",
+        "Kabir Nigam",
+        "Skye Miner",
+        "Zachary Sager",
+        "Justin J. Sanders",
+        "Michael Ljuslin",
+        "Benjamin Guérin",
+        "Paul Thambi",
+        "James A. Tulsky",
+        "Manish Agrawal"
+      ],
+      "journal": "Cancer",
+      "year": 2024,
+      "slug": "acceptability-of-psilocybin-assisted-group-therapy-in-patients-with-cancer-and-major-depressive-disorder-qualitative-analysis",
+      "cmsId": "68e353a84a4d7f9330fd39fd",
+      "source": {
+        "filename": "doi.org:10.1002:cncr.35024.pdf",
+        "sha256": "1798f622f967427e349cedb20acee8977578d1d84dfa0db791695d3785440b09",
+        "pdfPageCount": 11
+      }
+    },
+    {
+      "key": "kirlic-2025-support-model",
+      "doi": "10.1176/appi.ajp.20230884",
+      "title": "Compass Psychological Support Model for COMP360 Psilocybin Treatment of Serious Mental Health Conditions",
+      "authors": [
+        "Namik Kirlić",
+        "Molly Lennard-Jones",
+        "Merve Atli",
+        "Ekaterina Malievskaia",
+        "Nadav L. Modlin",
+        "Stephanie Knatz Peck",
+        "Alice Gaillard",
+        "Guy M. Goodwin",
+        "Don Koelpin"
+      ],
+      "journal": "American Journal of Psychiatry",
+      "year": 2025,
+      "slug": "compass-psychological-support-model-for-comp360-psilocybin-treatment-of-serious-mental-health-conditions",
+      "cmsId": "68aed2da8551e2c378ebb00a",
+      "source": {
+        "filename": "10.1176:appi.ajp.20230884.pdf",
+        "sha256": "ea3b5c23032daf299e5dca70fd406aceb82a6bda0794a62d8e691d68853fa2a9",
+        "pdfPageCount": 7
+      }
+    },
+    {
+      "key": "fonzo-2025-psilocybin-review",
+      "doi": "10.1176/appi.ajp.20230682",
+      "title": "Psilocybin: From Psychiatric Pariah to Perceived Panacea",
+      "authors": [
+        "Gregory A. Fonzo",
+        "Aaron S. Wolfgang",
+        "Bryan R. Barksdale",
+        "John H. Krystal",
+        "Linda L. Carpenter",
+        "Nina V. Kraguljac",
+        "Adrienne Grzenda",
+        "William M. McDonald",
+        "Alik S. Widge",
+        "Carolyn I. Rodriguez",
+        "Charles B. Nemeroff"
+      ],
+      "journal": "American Journal of Psychiatry",
+      "year": 2025,
+      "slug": "psilocybin-from-psychiatric-pariah-to-perceived-panacea",
+      "cmsId": "68aed1a48551e2c378ebafb0",
+      "source": {
+        "filename": "10.1176:appi.ajp.20230682.pdf",
+        "sha256": "f261e5169f20164bc99f1f7f178de07687dc9556e7b7f73178dc4a014ca3d4b2",
+        "pdfPageCount": 25
+      }
+    },
+    {
+      "key": "pagni-2025-personality",
+      "doi": "10.1176/appi.ajp.20230887",
+      "title": "Multidimensional Personality Changes Following Psilocybin-Assisted Therapy in Patients With Alcohol Use Disorder: Results From a Double-Blind, Placebo-Controlled Clinical Trial",
+      "authors": [
+        "Broc A. Pagni",
+        "Richard J. Zeifman",
+        "Sarah E. Mennenga",
+        "Brennan M. Carrithers",
+        "Noam Goldway",
+        "Snehal Bhatt",
+        "Kelley C. O’Donnell",
+        "Stephen Ross",
+        "Michael P. Bogenschutz"
+      ],
+      "journal": "American Journal of Psychiatry",
+      "year": 2025,
+      "slug": "multidimensional-personality-changes-following-psilocybin-assisted-therapy-in-patients-with-alcohol-use-disorder-results-from-a-double-blind-placebo-controlled-clinical-trial",
+      "cmsId": "68aebb388551e2c378ebaf50",
+      "source": {
+        "filename": "10.1176:appi.ajp.20230887.pdf",
+        "sha256": "f7a4705c4a413b28792510adb5f3c49cde37ec12de9bfb4d7eb3e173ad453de7",
+        "pdfPageCount": 12
+      }
+    },
+    {
+      "key": "aaronson-2025-severe-trd",
+      "doi": "10.1176/appi.ajp.20231063",
+      "title": "Single-Dose Psilocybin for Depression With Severe Treatment Resistance: An Open-Label Trial",
+      "authors": [
+        "Scott T. Aaronson",
+        "Andrew van der Vaart",
+        "Tammy Miller",
+        "Jeffrey LaPratt",
+        "Kimberly Swartz",
+        "Audrey Shoultz",
+        "Margo Lauterbach",
+        "Trisha Suppes",
+        "Harold A. Sackeim"
+      ],
+      "journal": "American Journal of Psychiatry",
+      "year": 2025,
+      "slug": "single-dose-psilocybin-for-depression-with-severe-treatment-resistance-an-open-label-trial",
+      "cmsId": "68aeb9b88551e2c378ebaf40",
+      "source": {
+        "filename": "10.1176:appi.ajp.20231063.pdf",
+        "sha256": "14b69099fdd0879ea0c02c91c5ca78e4075d670acb4b31bd2c1be7e2319d5462",
+        "pdfPageCount": 10
+      }
+    },
+    {
+      "key": "carhart-harris-2012-memory",
+      "doi": "10.1192/bjp.bp.111.103309",
+      "title": "Implications for psychedelic-assisted psychotherapy: functional magnetic resonance imaging study with psilocybin",
+      "authors": [
+        "R. L. Carhart-Harris",
+        "R. Leech",
+        "T. M. Williams",
+        "D. Erritzoe",
+        "N. Abbasi",
+        "T. Bargiotas",
+        "P. Hobden",
+        "D. J. Sharp",
+        "J. Evans",
+        "A. Feilding",
+        "R. G. Wise",
+        "D. J. Nutt"
+      ],
+      "journal": "The British Journal of Psychiatry",
+      "year": 2012,
+      "slug": "implications-for-psychedelic-assisted-psychotherapy-functional-magnetic-resonance-imaging-study-with-psilocybin",
+      "source": {
+        "filename": "10.1192:bjp.bp.111.103309.pdf",
+        "sha256": "18f3cbb3bad339bf54ac4bc2a72e6c40be9cfe48cf11deb926ec669336ca75a7",
+        "pdfPageCount": 8
+      },
+      "cmsId": "6ae36904b5ffbc262e831ba1"
+    },
+    {
+      "key": "yu-2008-metabolism",
+      "doi": "10.1208/s12248-008-9028-5",
+      "title": "Indolealkylamines: Biotransformations and Potential Drug–Drug Interactions",
+      "authors": ["Ai-Ming Yu"],
+      "journal": "The AAPS Journal",
+      "year": 2008,
+      "slug": "indolealkylamines-biotransformations-and-potential-drug-drug-interactions",
+      "source": {
+        "filename": "10.1208:s12248-008-9028-5.pdf",
+        "sha256": "3b16bf2d991df7a2776dad9a0a9a903a34d5333ed3bbca8acc7e806caebf6cdc",
+        "pdfPageCount": 12
+      },
+      "cmsId": "6ae36904b5ffbc262e831ba5"
+    }
+  ],
+  "evidence": [
+    {
+      "key": "fonzo-2025-identity",
+      "paperKey": "fonzo-2025-psilocybin-review",
+      "substances": ["psilocybin"],
+      "sections": ["basics"],
+      "kind": "background",
+      "statement": "真菌中的psilocybin攝入後轉換為psilocin，涉及5-HT2A受體；感官、情緒、注意與自我感改變通常四至六小時。",
+      "source": {
+        "pdfPage": 1,
+        "section": "Introduction",
+        "quote": "Psilocybin is an indolylalkylamine (O-phosphoryl-4-hydroxy - \nN,N-dimethyltryptamine) psychedelic prodrug produced by \nmore than 200 species of fungi ( 1 ) distributed across all con -\ntinents (ex cept Antarctica). It is rapidly dephosphorylated \nupon ingestion to its active metabolite, psilocin (4-hydroxy - \nN,N-dimethyltryptamine) ( 2 ), the chemical moiety responsible \nfor psychoactive effects. Psilocin is a lipophilic compound \nthat produces hallucinatory effects via functionally selective \nagonism of the serotonin (5-HT) 2A receptor ( 3 ). Agonism \noccurs at numerous other monoamine receptors (including \n5-HT\n1A\n, 5-HT\n2B\n, and 5-HT\n2C \nreceptors), which may con -\ntribute distinctive effects relative to other psychedelics and \nnonpsychedelic 5-HT\n2A \nagonists ( 4 , 5 ).\nPsilocybin ingestion induces transient and highly variable \neffects across cognitive, affective, and perceptual domains. \nThe 4–6 hour time course of subjective effects closely \nmirrors the bioa vailability of active compounds, plasma half- \nlife, and duration of time the drug occupies the 5-HT\n2A \nreceptor ( 6 , 7 ). Reported effects include acute changes in \nemotional processing; alterations in sense of self; changes in \nsensory perception (including visual and auditory illusions, \ndistortions, and/or hallucinations); psychomotor slowing; \nshifts in attention, w orking memory , and execut ive function; \nand, at times, profound states of consciousness, termed \n“mystical e xperiences,” characterized by a sense of unity , \nineffability , and deep reverence for life, oneself, and the \nworld ( 8 – 10 )."
+      },
+      "study": {
+        "design": "literature-review",
+        "context": "review",
+        "population": "檢索1998年1月至2023年11月，21項不同臨床試驗、26篇報告",
+        "sampleSize": null,
+        "exposure": "psilocybin搭配心理支持／治療，不同疾病與劑量方案",
+        "comparator": "依子試驗：安慰劑、低劑量psilocybin、niacin、diphenhydramine、escitalopram等",
+        "timeframe": "依各試驗急性及長期評估；不是2025年之後研究的完整更新",
+        "overlapFamily": "fonzo-2025-review-overlapping-trials"
+      },
+      "result": null,
+      "limitations": [
+        "此為有系統檢索的敘述性臨床綜述，未以統合分析產生合併效應量。",
+        "正文轉述其中原始試驗，不冒稱已獨立讀取所有原始試驗。",
+        "多項試驗有盲法失敗、期待效應、樣本與族群篩選問題；不是所有疾病或所有比較組皆陽性。",
+        "與Pagni次級分析的AUD原試驗重疊，不能加總為獨立驗證。",
+        "未查核本綜述之後監管狀態，不把試驗信號寫成正式核准或既定標準療法。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "fonzo-2025-support",
+      "paperKey": "fonzo-2025-psilocybin-review",
+      "substances": ["psilocybin"],
+      "sections": ["basics"],
+      "kind": "background",
+      "statement": "心理支持包含準備、給藥陪伴與整合，不同研究方式不同。",
+      "source": {
+        "pdfPage": 2,
+        "section": "Introduction: Psychological support",
+        "quote": "co- therapist team ( 12 – 14 ). During the first phase (prepara -\ntion), the patient meets with the therapist(s) for psycho -\neducation and informed consent. In the second phase \n(dosing), psilocybin is administered, and the patient is en -\ncouraged to rest in a comfortable position, wear headphones \nand eyeshades, and focus their attention inward. Sessions \ntypically commence in the morning to accommodate the full \nduration of psilocybin’s effects, with a peak onset of effects \nat 60–90 minutes after ingestion. After the effects of psi -\nlocybin ha ve abated, the participant is released into the care \nof a relative or friend or observed overnight in an aftercare \nsetting. In the third phase (integration), the patient meets \nwith the therapist(s) for a debriefing to discuss the e xpe -\nrience, adverse effects, and/or safety issues. Therapist(s) \nmay offer additional guidance to aid the participant in \ncoming to a subjective sense of insight regarding the ex -\nperience ( 15 ). The process typically occurs over the course \nof 1–4 we eks, depending on the number of planned dosing \nsessions ( 12 – 14 )."
+      },
+      "study": {
+        "design": "literature-review",
+        "context": "review",
+        "population": "檢索1998年1月至2023年11月，21項不同臨床試驗、26篇報告",
+        "sampleSize": null,
+        "exposure": "psilocybin搭配心理支持／治療，不同疾病與劑量方案",
+        "comparator": "依子試驗：安慰劑、低劑量psilocybin、niacin、diphenhydramine、escitalopram等",
+        "timeframe": "依各試驗急性及長期評估；不是2025年之後研究的完整更新",
+        "overlapFamily": "fonzo-2025-review-overlapping-trials"
+      },
+      "result": null,
+      "limitations": [
+        "此為有系統檢索的敘述性臨床綜述，未以統合分析產生合併效應量。",
+        "正文轉述其中原始試驗，不冒稱已獨立讀取所有原始試驗。",
+        "多項試驗有盲法失敗、期待效應、樣本與族群篩選問題；不是所有疾病或所有比較組皆陽性。",
+        "與Pagni次級分析的AUD原試驗重疊，不能加總為獨立驗證。",
+        "未查核本綜述之後監管狀態，不把試驗信號寫成正式核准或既定標準療法。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "fonzo-2025-early-trials",
+      "paperKey": "fonzo-2025-psilocybin-review",
+      "substances": ["psilocybin"],
+      "sections": ["history"],
+      "kind": "background",
+      "statement": "綜述表1收錄2006強迫症開放式試驗及2011癌症焦慮／憂鬱安慰劑交叉試驗。",
+      "source": {
+        "pdfPage": 5,
+        "section": "Table 1",
+        "quote": "Obsessive- \ncompulsive \ndisorder \nMoreno et al., \n2006 ( 34 ) \nOpen-label trial 4 dosing sessions, 1 week \napart \nVery low (0.025 \nmg/kg), low (0.1 \nmg/kg), medium \n(0.2 mg/kg), high \n(0.3 mg/kg) \nNone \nAnxiety or \ndepression \ndue to cancer \nGrob et al., 2011 \n( 22 ) \nWithin-subject, \ndouble-blind, \nplacebo- \ncontrolled \ncrossover RCT \n2 dosing sessions, a few \nweeks apart \n0.2 mg/kg 250 mg niacin"
+      },
+      "study": {
+        "design": "literature-review",
+        "context": "review",
+        "population": "檢索1998年1月至2023年11月，21項不同臨床試驗、26篇報告",
+        "sampleSize": null,
+        "exposure": "psilocybin搭配心理支持／治療，不同疾病與劑量方案",
+        "comparator": "依子試驗：安慰劑、低劑量psilocybin、niacin、diphenhydramine、escitalopram等",
+        "timeframe": "依各試驗急性及長期評估；不是2025年之後研究的完整更新",
+        "overlapFamily": "fonzo-2025-review-overlapping-trials"
+      },
+      "result": null,
+      "limitations": [
+        "此為有系統檢索的敘述性臨床綜述，未以統合分析產生合併效應量。",
+        "正文轉述其中原始試驗，不冒稱已獨立讀取所有原始試驗。",
+        "多項試驗有盲法失敗、期待效應、樣本與族群篩選問題；不是所有疾病或所有比較組皆陽性。",
+        "與Pagni次級分析的AUD原試驗重疊，不能加總為獨立驗證。",
+        "未查核本綜述之後監管狀態，不把試驗信號寫成正式核准或既定標準療法。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "fonzo-2025-review-scope",
+      "paperKey": "fonzo-2025-psilocybin-review",
+      "substances": ["psilocybin"],
+      "sections": ["history", "related"],
+      "kind": "background",
+      "statement": "檢索1998年1月至2023年11月，整理21項不同試驗，包含MDD、癌症情緒、酒精與菸草使用障礙等。",
+      "source": {
+        "pdfPage": 1,
+        "section": "Abstract: Methods",
+        "quote": "Methods: PubMed was searched for English-language arti -\ncles from January 1998 to November 2023, using the search \nterm “psilocybin.” A total of 1,449 articles were identified and \nscreened through titles and abstracts. Of these, 21 unique \nopen-label or randomized controlled trials (RCTs) were \nidentified that examine psilocybin for the treatment of \nobsessive-compulsive and related disorders (N=2), anxiety/ \ndepression associated with a cancer diagnosis (N=5), major \ndepressive disorder (MDD; N=8), substance use disorders \n(N=4), anorexia (N=1), and demoralization (i.e., hopelessness, \nhelplessness, and poor coping) in AIDS survivors (N=1)."
+      },
+      "study": {
+        "design": "literature-review",
+        "context": "review",
+        "population": "檢索1998年1月至2023年11月，21項不同臨床試驗、26篇報告",
+        "sampleSize": null,
+        "exposure": "psilocybin搭配心理支持／治療，不同疾病與劑量方案",
+        "comparator": "依子試驗：安慰劑、低劑量psilocybin、niacin、diphenhydramine、escitalopram等",
+        "timeframe": "依各試驗急性及長期評估；不是2025年之後研究的完整更新",
+        "overlapFamily": "fonzo-2025-review-overlapping-trials"
+      },
+      "result": null,
+      "limitations": [
+        "此為有系統檢索的敘述性臨床綜述，未以統合分析產生合併效應量。",
+        "正文轉述其中原始試驗，不冒稱已獨立讀取所有原始試驗。",
+        "多項試驗有盲法失敗、期待效應、樣本與族群篩選問題；不是所有疾病或所有比較組皆陽性。",
+        "與Pagni次級分析的AUD原試驗重疊，不能加總為獨立驗證。",
+        "未查核本綜述之後監管狀態，不把試驗信號寫成正式核准或既定標準療法。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "pagni-2025-design",
+      "paperKey": "pagni-2025-personality",
+      "substances": ["psilocybin"],
+      "sections": ["benefits", "therapy"],
+      "kind": "background",
+      "statement": "95人AUD母試驗兩次給藥與十二週心理治療；人格基線及36週測量。",
+      "source": {
+        "pdfPage": 2,
+        "section": "Methods: Participants and Treatment / Experimental Design",
+        "quote": "Ninety -five adults with AUD were randomized to receive \neither psilocybin (N=49; 25 mg and 30–40 mg/kg) or active \nplacebo (N=46; diphenhydramine , 50 mg and 100 mg), \nadministered in two medication sessions 4 w eeks apart in \nconjunction with 12 weeks of psychotherapy . In this mul -\ntisite trial, participants received 4 w eeks of preparation, \nunderwent their first medication session, received 4 w eeks of \nintegration psychotherapy , underwent their second medi -\ncation session, and then received their last 4 weeks of in -\ntegration psychotherapy (weeks 0–12). Manualized therapy \nwas provided at both sites as a male-female dyad therapy \nteam. All therapists read the manuals and recorded simu -\nlated therapy sessions, which were then reviewed and rated \nby the fidelity monitor prior to w orking with study partic -\nipants. In each therapy team, both therapists w ere trained in \nthe treatment modalities, and at least one of the therapists \nwas a licensed physician. Therapy utilized the preparation, \nsupport, and integration (PSI) model of psychedelic therapy \nand included alcohol-focused components that utilized \nprinciples from motivational enhancement therapy and \naction-oriented cognitive-beha vioral therapy . One therapist \nwas responsible for leading the alcohol-focused sessions and \nthe other was responsible for the PSI sessions, but both \ntherapists w ere trained in the delivery of these two intervention \ncomponents. A detailed description of the sample , the CON -\nSORT chart, the therapeutic paradigm, and the study timeline \ncan be found in previous publications ( 18 , 27 , 28 ). The study was \napproved by the institutional review boards of the tw o sites \n(New York University Grossman School of Medicine [NYU] \nand the University of New Mexic o Health Sciences Center \n[UNM]), the U.S. Food and Drug Administration, the U.S. Drug \nEnforcement Administration, the New Mex ico Board of \nPharmacy , and the New York State Bureau of Narcotics \nEnforcement. All participants provided written informed \nconsent in accordance with the Declaration of Helsinki.\nExperimental Design\nPersonality was assessed using the revised self-report NEO \nPersonality Inventory (NEO-PI-R, Form S) at baseline (week \n0; prior to the start of the 4 weeks of preparatory psycho -\ntherapy) and at the end of follo w-up (we ek 36, 7 months after \nthe second medication session)"
+      },
+      "study": {
+        "design": "secondary-trial-analysis",
+        "context": "clinical-treatment",
+        "population": "95人AUD隨機試驗中，84人有完整治療前與36週人格資料：psilocybin44人、diphenhydramine40人",
+        "sampleSize": 84,
+        "exposure": "兩次psilocybin，相隔四週，搭配十二週心理治療；此篇分析人格及飲酒關聯",
+        "comparator": "兩次活性安慰劑diphenhydramine搭配相同心理治療",
+        "timeframe": "基線至第36週人格量表，飲酒量依timeline followback",
+        "overlapFamily": "bogenschutz-2022-aud-parent-trial"
+      },
+      "result": null,
+      "limitations": [
+        "95人隨機、93人接受研究藥物、84人有完整人格資料；84不是原始隨機樣本總數。",
+        "原文正文一處psilocybin劑量寫30–40 mg/kg，與原試驗mg/70kg慣例不符；本文不使用該劑量數字。",
+        "衝動性改變與飲酒量的關聯不等同中介或因果，psilocybin組單獨分析不顯著，探索性高風險亞組未通過多重校正。",
+        "部分人格分向度未顯著；正文使用多重比較校正後結果。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "pagni-2025-analysis-sample",
+      "paperKey": "pagni-2025-personality",
+      "substances": ["psilocybin"],
+      "sections": ["benefits", "therapy"],
+      "kind": "background",
+      "statement": "母試驗95人中，2人未給藥、9人缺前後人格測量，84人進入分析：44與40。",
+      "source": {
+        "pdfPage": 3,
+        "section": "Statistical analyses",
+        "quote": "two were not treated with study medication \nand nine did not complete pre- and posttreatment NEO \nquestionnaires. Thus, 84 participants (psilocybin, N=44; \nplacebo , N=40) w ere included in the analyses."
+      },
+      "study": {
+        "design": "secondary-trial-analysis",
+        "context": "clinical-treatment",
+        "population": "95人AUD隨機試驗中，84人有完整治療前與36週人格資料：psilocybin44人、diphenhydramine40人",
+        "sampleSize": 84,
+        "exposure": "兩次psilocybin，相隔四週，搭配十二週心理治療；此篇分析人格及飲酒關聯",
+        "comparator": "兩次活性安慰劑diphenhydramine搭配相同心理治療",
+        "timeframe": "基線至第36週人格量表，飲酒量依timeline followback",
+        "overlapFamily": "bogenschutz-2022-aud-parent-trial"
+      },
+      "result": null,
+      "limitations": [
+        "95人隨機、93人接受研究藥物、84人有完整人格資料；84不是原始隨機樣本總數。",
+        "原文正文一處psilocybin劑量寫30–40 mg/kg，與原試驗mg/70kg慣例不符；本文不使用該劑量數字。",
+        "衝動性改變與飲酒量的關聯不等同中介或因果，psilocybin組單獨分析不顯著，探索性高風險亞組未通過多重校正。",
+        "部分人格分向度未顯著；正文使用多重比較校正後結果。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "pagni-2025-personality",
+      "paperKey": "pagni-2025-personality",
+      "substances": ["psilocybin"],
+      "sections": ["benefits"],
+      "kind": "result",
+      "statement": "多重校正後，神經質下降、外向與開放性增加；親和及盡責性組間差異未顯著。",
+      "source": {
+        "pdfPage": 4,
+        "section": "Results",
+        "quote": "Relative to placebo plus psychotherapy , PAT was associated \nwith significant decreases in neuroticism and increases in \nextra version and openness, all of which survived FDR cor -\nrection (Figure 1, Table 1). No significant treatment effects \nwere observed for agreeableness or conscientiousness."
+      },
+      "study": {
+        "design": "secondary-trial-analysis",
+        "context": "clinical-treatment",
+        "population": "95人AUD隨機試驗中，84人有完整治療前與36週人格資料：psilocybin44人、diphenhydramine40人",
+        "sampleSize": 84,
+        "exposure": "兩次psilocybin，相隔四週，搭配十二週心理治療；此篇分析人格及飲酒關聯",
+        "comparator": "兩次活性安慰劑diphenhydramine搭配相同心理治療",
+        "timeframe": "基線至第36週人格量表，飲酒量依timeline followback",
+        "overlapFamily": "bogenschutz-2022-aud-parent-trial"
+      },
+      "result": null,
+      "limitations": [
+        "95人隨機、93人接受研究藥物、84人有完整人格資料；84不是原始隨機樣本總數。",
+        "原文正文一處psilocybin劑量寫30–40 mg/kg，與原試驗mg/70kg慣例不符；本文不使用該劑量數字。",
+        "衝動性改變與飲酒量的關聯不等同中介或因果，psilocybin組單獨分析不顯著，探索性高風險亞組未通過多重校正。",
+        "部分人格分向度未顯著；正文使用多重比較校正後結果。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "pagni-2025-impulsiveness",
+      "paperKey": "pagni-2025-personality",
+      "substances": ["psilocybin"],
+      "sections": ["benefits"],
+      "kind": "result",
+      "statement": "全84人衝動性下降與治療後每日飲酒量較低相關，未與飲酒改變量顯著相關；不能宣稱因果。",
+      "source": {
+        "pdfPage": 5,
+        "section": "Results",
+        "quote": "Across all participants in both groups, decreases in impul -\nsiveness were significantly correlated with lo wer posttreat -\nment DpD (N=84; r=0.25, df=82, p=0.02, p\nFDR\n=0.04) \n(Figure 3A), but not with pre- to posttreatment changes in \nDpD (N=84; r=0.17, df=82, p=0.11). The relationship be -\ntween changes in impulsiveness and posttreatment drinking \nsurvived correction for multiple comparisons (p\nFDR\n=0.04)."
+      },
+      "study": {
+        "design": "secondary-trial-analysis",
+        "context": "clinical-treatment",
+        "population": "95人AUD隨機試驗中，84人有完整治療前與36週人格資料：psilocybin44人、diphenhydramine40人",
+        "sampleSize": 84,
+        "exposure": "兩次psilocybin，相隔四週，搭配十二週心理治療；此篇分析人格及飲酒關聯",
+        "comparator": "兩次活性安慰劑diphenhydramine搭配相同心理治療",
+        "timeframe": "基線至第36週人格量表，飲酒量依timeline followback",
+        "overlapFamily": "bogenschutz-2022-aud-parent-trial"
+      },
+      "result": null,
+      "limitations": [
+        "95人隨機、93人接受研究藥物、84人有完整人格資料；84不是原始隨機樣本總數。",
+        "原文正文一處psilocybin劑量寫30–40 mg/kg，與原試驗mg/70kg慣例不符；本文不使用該劑量數字。",
+        "衝動性改變與飲酒量的關聯不等同中介或因果，psilocybin組單獨分析不顯著，探索性高風險亞組未通過多重校正。",
+        "部分人格分向度未顯著；正文使用多重比較校正後結果。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "beaussant-2024-design",
+      "paperKey": "beaussant-2024-acceptability",
+      "substances": ["psilocybin"],
+      "sections": ["benefits", "related"],
+      "kind": "background",
+      "statement": "同一30人癌症合併重鬱症方案，28人同意訪談；同步個別及團體療程。",
+      "source": {
+        "pdfPage": 2,
+        "section": "Methods: Design and participants",
+        "quote": "This qualitative study was conducted concurrently with the parent\ntrial entitled “The Safety and Efficacy of Psilocybin in Cancer Pa-\ntients With Major Depressive Disorder” (NCT04593563). As shown\nin Figure 1 , the investigational therapy regimen included simulta-\nneous individual sessions at visits 1, 2, 3, 4, and 5, and group\nsessions at visits 2, 4, and 5. Simultaneous individual sessions\noccurred in separate rooms with a 1:1 therapist/participant ratio\nunder audio ‐ video supervision by two lead therapists located in a\ndifferent room. Group sessions included the study participants\n(cohorts of three to four at a time), as well as participants’ indi-\nvidual and the two lead therapists. In total there were six thera-\npists for cohorts of four participants and five therapists for cohorts\nof three participants.\nParticipant selection was based on convenience sampling, all 30\nparticipants who completed the trial were eligible and 28 consented\nto participate. Informed consent was separate from the parent trial\nand obtained by the trial team at—or within a few weeks following—\nparticipants’ last study visit. Participants did not receive compensa-\ntion for their participation in the qualitative study. The study was\napproved by Advarra institutional review board. Recruitment flow\nchart for both the parent trial and the qualitative study is presented\nin Figure 2 ."
+      },
+      "study": {
+        "design": "qualitative-interview",
+        "context": "clinical-treatment",
+        "population": "癌症合併重鬱症30人原方案中，28人同意訪談",
+        "sampleSize": 28,
+        "exposure": "包含同步個別給藥與團體準備／整合之psilocybin療程的經驗",
+        "comparator": "半結構訪談與主題分析，沒有療效比較組",
+        "timeframe": "給藥後約2.1–5.1個月，平均2.9個月訪談",
+        "overlapFamily": "nct04593563-cancer-cohort"
+      },
+      "result": null,
+      "limitations": [
+        "質性可接受性與主觀感受，不是療效或安全性對照試驗。",
+        "訪談者為研究者之一，回溯敘述、便利取樣及樣本同質性可能影響結果。",
+        "與兩年癌症追蹤來自同一原方案；不能當作兩組獨立療效證據。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "beaussant-2024-experience",
+      "paperKey": "beaussant-2024-acceptability",
+      "substances": ["psilocybin"],
+      "sections": ["benefits", "related"],
+      "kind": "result",
+      "statement": "訪談參與者描述團體準備增加安全感，連結與歸屬感豐富經驗及自我慈悲。",
+      "source": {
+        "pdfPage": 4,
+        "section": "Results: Qualitative findings",
+        "quote": "Although reflecting on the acceptability of going through PAT within\na group, participants described generally positive experiences, both\nin terms of safety—being a part of the group calmed their fears\nand increased their sense of preparedness to engage in therapy; and\ntherapeutic efficacy—being connected to the group deepened and\nenriched their experience, ultimately contributing to their experience\nof self ‐ transcendence and compassion."
+      },
+      "study": {
+        "design": "qualitative-interview",
+        "context": "clinical-treatment",
+        "population": "癌症合併重鬱症30人原方案中，28人同意訪談",
+        "sampleSize": 28,
+        "exposure": "包含同步個別給藥與團體準備／整合之psilocybin療程的經驗",
+        "comparator": "半結構訪談與主題分析，沒有療效比較組",
+        "timeframe": "給藥後約2.1–5.1個月，平均2.9個月訪談",
+        "overlapFamily": "nct04593563-cancer-cohort"
+      },
+      "result": null,
+      "limitations": [
+        "質性可接受性與主觀感受，不是療效或安全性對照試驗。",
+        "訪談者為研究者之一，回溯敘述、便利取樣及樣本同質性可能影響結果。",
+        "與兩年癌症追蹤來自同一原方案；不能當作兩組獨立療效證據。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "beaussant-2024-disruptions",
+      "paperKey": "beaussant-2024-acceptability",
+      "substances": ["psilocybin"],
+      "sections": ["benefits"],
+      "kind": "result",
+      "statement": "工作人員過多、比較他人經驗及癌症分期不同會影響部分參與者舒適度。",
+      "source": {
+        "pdfPage": 8,
+        "section": "Results",
+        "quote": "Related to the group sessions, participants described three cat-\negories of potentially disruptive factors. First, some had felt the\nnumber of therapists and/or researchers within their group had been\nexcessive, which had negatively impacted their comfort sharing with\nthe group. Second, some participants shared that the group discus-\nsions had elicited comparisons of one’s psilocybin experience with\nothers, with at times feelings of “missing out” emerging. And third,\nsome participants described having felts less comfortable with those\nwithin their group whose cancer stage was different than theirs."
+      },
+      "study": {
+        "design": "qualitative-interview",
+        "context": "clinical-treatment",
+        "population": "癌症合併重鬱症30人原方案中，28人同意訪談",
+        "sampleSize": 28,
+        "exposure": "包含同步個別給藥與團體準備／整合之psilocybin療程的經驗",
+        "comparator": "半結構訪談與主題分析，沒有療效比較組",
+        "timeframe": "給藥後約2.1–5.1個月，平均2.9個月訪談",
+        "overlapFamily": "nct04593563-cancer-cohort"
+      },
+      "result": null,
+      "limitations": [
+        "質性可接受性與主觀感受，不是療效或安全性對照試驗。",
+        "訪談者為研究者之一，回溯敘述、便利取樣及樣本同質性可能影響結果。",
+        "與兩年癌症追蹤來自同一原方案；不能當作兩組獨立療效證據。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "fonzo-2025-acute-events",
+      "paperKey": "fonzo-2025-psilocybin-review",
+      "substances": ["psilocybin"],
+      "sections": ["risks"],
+      "kind": "result",
+      "statement": "常見頭痛、噁心、焦慮、疲倦與暫時性高血壓；部分反應隨劑量頻率／強度增加。",
+      "source": {
+        "pdfPage": 16,
+        "section": "Adverse effects",
+        "quote": "Acutely and post -acutely (e.g. , 1–2 days after adminis -\ntration), there are several adverse events frequently re -\nported in existing studies (see Tables S1–S7 in the online \nsupplement). These include transient hypertension, fatigue, \nheadache, nausea/vomiting, physical discomfort, psycho -\nlogical distress, fear/anxiety , transient paranoid ideation, \ntearfulness, euphoria, and visual/perceptual alterations. The \nmost commonly reported adverse events include headache , \nnausea, and fear/anxiety , all of which appear to increase in \nfrequency and/or intensity with higher doses."
+      },
+      "study": {
+        "design": "literature-review",
+        "context": "review",
+        "population": "檢索1998年1月至2023年11月，21項不同臨床試驗、26篇報告",
+        "sampleSize": null,
+        "exposure": "psilocybin搭配心理支持／治療，不同疾病與劑量方案",
+        "comparator": "依子試驗：安慰劑、低劑量psilocybin、niacin、diphenhydramine、escitalopram等",
+        "timeframe": "依各試驗急性及長期評估；不是2025年之後研究的完整更新",
+        "overlapFamily": "fonzo-2025-review-overlapping-trials"
+      },
+      "result": null,
+      "limitations": [
+        "此為有系統檢索的敘述性臨床綜述，未以統合分析產生合併效應量。",
+        "正文轉述其中原始試驗，不冒稱已獨立讀取所有原始試驗。",
+        "多項試驗有盲法失敗、期待效應、樣本與族群篩選問題；不是所有疾病或所有比較組皆陽性。",
+        "與Pagni次級分析的AUD原試驗重疊，不能加總為獨立驗證。",
+        "未查核本綜述之後監管狀態，不把試驗信號寫成正式核准或既定標準療法。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "aaronson-2025-adverse-events",
+      "paperKey": "aaronson-2025-severe-trd",
+      "substances": ["psilocybin"],
+      "sections": ["risks"],
+      "kind": "result",
+      "statement": "12人試驗無嚴重AE，但兩人頭痛、兩人延遲失眠、一人躁動；一人憂鬱惡化並重啟藥物。",
+      "source": {
+        "pdfPage": 5,
+        "section": "Safety Outcomes",
+        "quote": "There were no serious adverse events during the study \n(Table 2). On the day of dosing, two patients (16.7%) reported \nheadache, rated as mild in severity in both cases. One patient \ndid not require medication and had resolution in 3 days. One \npatient took as-needed medication and had resolution in \n1 day . Two patients had subacute onset of moderate in -\nsomnia, 1 week and 4.5 w eeks after dosing. The former of \nthese had additional onset of moderate psychomotor agi -\ntation 2 w eeks after dosing and required medication for \nthese symptoms, with resolution 7–8 weeks after onset. The \nsecond patient with insomnia did not require medication \nand experienced resolution after 2 w eeks. One patient had \nworsen ing depressive symptoms with onset on the day of \ndosing, of moderate severity . This patient required close \nsafety monitoring by the study physician, and restarted SSRI \nantidepressant at week 4, which coincided with resolution of \nthe w orsened symptoms. This patient maintained nonre -\nsponder status with respect to antidepressant effects of \npsilocybin throughout the study period."
+      },
+      "study": {
+        "design": "open-label-program",
+        "context": "clinical-treatment",
+        "population": "12名嚴重難治型憂鬱症成人，當次發作至少五種治療未獲足夠改善",
+        "sampleSize": 12,
+        "exposure": "單次合成psilocybin25 mg，治療前準備、給藥陪伴與整合；精神科藥物依方案暫停",
+        "comparator": "各自治療前基線；開放式、無安慰劑對照",
+        "timeframe": "第三週主要評估，追蹤至十二週",
+        "overlapFamily": "aaronson-2025-severe-trd-cohort"
+      },
+      "result": null,
+      "limitations": [
+        "開放式無安慰劑對照、樣本12人；不可將組內下降當作相較其他治療的優勢。",
+        "部分患者重啟抗憂鬱藥物、一人自行追加使用菇類；十二週結果可能受合併介入影響。",
+        "共病PTSD探索性亞組僅5人，不作穩定預測或治療建議。",
+        "沒有嚴重不良事件不表示沒有不良反應，仍有延遲失眠、躁動與症狀惡化。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "fonzo-2025-serious-psychiatric-events",
+      "paperKey": "fonzo-2025-psilocybin-review",
+      "substances": ["psilocybin"],
+      "sections": ["risks"],
+      "kind": "result",
+      "statement": "綜述記錄233人TRD試驗10/25mg組自殺意念與自傷事件高於1mg；因果角色未釐清。",
+      "source": {
+        "pdfPage": 16,
+        "section": "Adverse effects",
+        "quote": "Another possible risk is w orsening of depression and \nmood, new-onset suicidal ideation and beha vior , and po -\ntential aggra vation of comorbid conditions during or fol -\nlowing psilocybin administration. Such cases appear to be \nrare, but there are several concerning reports. The first was \nin the conte xt of a 2016 trial examining psilocybin for \nanxiety /depression associated with a life-threatening cancer \ndiagnosis ( 23 ). The supplement reports a death by suicide of a \nparticipant 11 days after the first dosing session with the low - \ndose comparator . This volunteer was discontinued from the \nstudy after insisting on lea ving the session early , and the \nauthors noted no beha vioral impairment and no adverse \nsequelae on follo w-up that day and over subsequent days. \nThe suicide was determined to be related neither to the \nstudy procedures nor to the psilocybin. More recent trials, \nsuch as the large , multisite phase 2b study of psilocybin \nfor treatment -resistant MDD ( 27 ), reported higher rates of \nsuicidal ideation and self-injury for the two active doses \n(10 mg and 25 mg) compared with the 1-mg comparator after \ndosing and up to 12 w eeks after dosing (see Table S5 in the \nonline supplement). The authors report that of the three \nparticipants demonstrating suicidal beha vior after w eek 3, all \nhad a prior history of suicidal beha vior or nonsuicidal self- \ninjury prior to the trial and did not demonstrate a treatment \nresponse at week 3. These observations remain concerning \ngiven that recent or current active suicidal ideation or be -\nha vior was an exclusionary criterion for enrollment, but it \nremains unclear as to the potential causal role of psilocybin in \nthese beha viors and whether participant expec tations for \ntreatment response and potential unblinding to drug dose \nmay ha ve interacted with a poor therapeutic response to \npotentially promote these beha viors."
+      },
+      "study": {
+        "design": "literature-review",
+        "context": "review",
+        "population": "檢索1998年1月至2023年11月，21項不同臨床試驗、26篇報告",
+        "sampleSize": null,
+        "exposure": "psilocybin搭配心理支持／治療，不同疾病與劑量方案",
+        "comparator": "依子試驗：安慰劑、低劑量psilocybin、niacin、diphenhydramine、escitalopram等",
+        "timeframe": "依各試驗急性及長期評估；不是2025年之後研究的完整更新",
+        "overlapFamily": "fonzo-2025-review-overlapping-trials"
+      },
+      "result": null,
+      "limitations": [
+        "此為有系統檢索的敘述性臨床綜述，未以統合分析產生合併效應量。",
+        "正文轉述其中原始試驗，不冒稱已獨立讀取所有原始試驗。",
+        "多項試驗有盲法失敗、期待效應、樣本與族群篩選問題；不是所有疾病或所有比較組皆陽性。",
+        "與Pagni次級分析的AUD原試驗重疊，不能加總為獨立驗證。",
+        "未查核本綜述之後監管狀態，不把試驗信號寫成正式核准或既定標準療法。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "fonzo-2025-mdd-trials",
+      "paperKey": "fonzo-2025-psilocybin-review",
+      "substances": ["psilocybin"],
+      "sections": ["therapy"],
+      "kind": "result",
+      "statement": "三項平行隨機試驗用不同安慰劑／低劑量比較，在主要憂鬱結果上有顯著優勢。",
+      "source": {
+        "pdfPage": 2,
+        "section": "Evidence of Efficacy",
+        "quote": "The most robust evidence base exists in MDD, including \ntreatment-resistant MDD. There ha ve been three parallel- \narm RCTs, one in mild to moderate MDD (N=52) ( 26 ), one in \nmoderate to severe MDD (N=104, with ;13% of the sample \nbeing treatment -resistant) ( 18 ), and the third in treatment - \nresistant MDD (N=233) ( 27 ). Each of these studies dem -\nonstrated a statistically superior effect of a single psilocybin \ndose (15–25 mg) with PST versus inactive placebo ( 26 ), low - \ndose psilocybin (1 mg) ( 27 ), or 100 mg niacin (active placebo) \n( 18 ) on the primary outcome measure."
+      },
+      "study": {
+        "design": "literature-review",
+        "context": "review",
+        "population": "檢索1998年1月至2023年11月，21項不同臨床試驗、26篇報告",
+        "sampleSize": null,
+        "exposure": "psilocybin搭配心理支持／治療，不同疾病與劑量方案",
+        "comparator": "依子試驗：安慰劑、低劑量psilocybin、niacin、diphenhydramine、escitalopram等",
+        "timeframe": "依各試驗急性及長期評估；不是2025年之後研究的完整更新",
+        "overlapFamily": "fonzo-2025-review-overlapping-trials"
+      },
+      "result": null,
+      "limitations": [
+        "此為有系統檢索的敘述性臨床綜述，未以統合分析產生合併效應量。",
+        "正文轉述其中原始試驗，不冒稱已獨立讀取所有原始試驗。",
+        "多項試驗有盲法失敗、期待效應、樣本與族群篩選問題；不是所有疾病或所有比較組皆陽性。",
+        "與Pagni次級分析的AUD原試驗重疊，不能加總為獨立驗證。",
+        "未查核本綜述之後監管狀態，不把試驗信號寫成正式核准或既定標準療法。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "fonzo-2025-escitalopram",
+      "paperKey": "fonzo-2025-psilocybin-review",
+      "substances": ["psilocybin"],
+      "sections": ["therapy"],
+      "kind": "result",
+      "statement": "59人試驗psilocybin與escitalopram皆搭配心理支持，主要指標組間差異未顯著。",
+      "source": {
+        "pdfPage": 2,
+        "section": "Evidence of Efficacy",
+        "quote": "There was one negative parallel-arm RCT \n(N=59) comparing two 25-mg doses of psilocybin plus daily \npill placebos versus 1 mg psilocybin plus 10–20 mg escita -\nlopram, with both groups receiving PST ( 14 ). Although \nsecondary outcomes fa vored psilocybin, the two arms did not \ndiffer on the prespecified primary outcome measure ."
+      },
+      "study": {
+        "design": "literature-review",
+        "context": "review",
+        "population": "檢索1998年1月至2023年11月，21項不同臨床試驗、26篇報告",
+        "sampleSize": null,
+        "exposure": "psilocybin搭配心理支持／治療，不同疾病與劑量方案",
+        "comparator": "依子試驗：安慰劑、低劑量psilocybin、niacin、diphenhydramine、escitalopram等",
+        "timeframe": "依各試驗急性及長期評估；不是2025年之後研究的完整更新",
+        "overlapFamily": "fonzo-2025-review-overlapping-trials"
+      },
+      "result": null,
+      "limitations": [
+        "此為有系統檢索的敘述性臨床綜述，未以統合分析產生合併效應量。",
+        "正文轉述其中原始試驗，不冒稱已獨立讀取所有原始試驗。",
+        "多項試驗有盲法失敗、期待效應、樣本與族群篩選問題；不是所有疾病或所有比較組皆陽性。",
+        "與Pagni次級分析的AUD原試驗重疊，不能加總為獨立驗證。",
+        "未查核本綜述之後監管狀態，不把試驗信號寫成正式核准或既定標準療法。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "aaronson-2025-design",
+      "paperKey": "aaronson-2025-severe-trd",
+      "substances": ["psilocybin"],
+      "sections": ["therapy"],
+      "kind": "background",
+      "statement": "12週開放試驗，當次發作至少五種治療未足夠改善；單次25mg搭配準備／給藥陪伴／整合。",
+      "source": {
+        "pdfPage": 1,
+        "section": "Abstract: Methods",
+        "quote": "Methods: This was a 12-week, open-label trial conducted at \nSheppard Pratt Hospital. Participants were 18–65 years of \nage, in a major depressive episode with documented in -\nsufficient benefit from at least five treatments during the \ncurrent episode. A single dose of synthetic psilocybin (25 mg) \nwas administered. Psychotropic medications were dis -\ncontinued at least 2 weeks prior to dosing through at least \n3 weeks post-dosing. Therapists met with patients for three \nsessions during pretreatment, during the 8-hour dosing day, \nand for three integration sessions posttreatment. The pri -\nmary outcome measure was change in Montgomery-Åsberg \nDepression Rating scale (MADRS) at 3 weeks posttreat -\nment. Secondary measures including MADRS scores up to \n12 weeks posttreatment, and subject-rated scales capturing \ndepression and level of function were completed at baseline \nand all subsequent visits."
+      },
+      "study": {
+        "design": "open-label-program",
+        "context": "clinical-treatment",
+        "population": "12名嚴重難治型憂鬱症成人，當次發作至少五種治療未獲足夠改善",
+        "sampleSize": 12,
+        "exposure": "單次合成psilocybin25 mg，治療前準備、給藥陪伴與整合；精神科藥物依方案暫停",
+        "comparator": "各自治療前基線；開放式、無安慰劑對照",
+        "timeframe": "第三週主要評估，追蹤至十二週",
+        "overlapFamily": "aaronson-2025-severe-trd-cohort"
+      },
+      "result": null,
+      "limitations": [
+        "開放式無安慰劑對照、樣本12人；不可將組內下降當作相較其他治療的優勢。",
+        "部分患者重啟抗憂鬱藥物、一人自行追加使用菇類；十二週結果可能受合併介入影響。",
+        "共病PTSD探索性亞組僅5人，不作穩定預測或治療建議。",
+        "沒有嚴重不良事件不表示沒有不良反應，仍有延遲失眠、躁動與症狀惡化。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "aaronson-2025-sample",
+      "paperKey": "aaronson-2025-severe-trd",
+      "substances": ["psilocybin"],
+      "sections": ["therapy"],
+      "kind": "background",
+      "statement": "嚴重TRD試驗12名患者，六男六女。",
+      "source": {
+        "pdfPage": 1,
+        "section": "Abstract: Results",
+        "quote": "Results: Twelve participants (six male, six female; mean \nage=40.6 years [SD=9.6]) with severe TRD were followed \nover the study period."
+      },
+      "study": {
+        "design": "open-label-program",
+        "context": "clinical-treatment",
+        "population": "12名嚴重難治型憂鬱症成人，當次發作至少五種治療未獲足夠改善",
+        "sampleSize": 12,
+        "exposure": "單次合成psilocybin25 mg，治療前準備、給藥陪伴與整合；精神科藥物依方案暫停",
+        "comparator": "各自治療前基線；開放式、無安慰劑對照",
+        "timeframe": "第三週主要評估，追蹤至十二週",
+        "overlapFamily": "aaronson-2025-severe-trd-cohort"
+      },
+      "result": null,
+      "limitations": [
+        "開放式無安慰劑對照、樣本12人；不可將組內下降當作相較其他治療的優勢。",
+        "部分患者重啟抗憂鬱藥物、一人自行追加使用菇類；十二週結果可能受合併介入影響。",
+        "共病PTSD探索性亞組僅5人，不作穩定預測或治療建議。",
+        "沒有嚴重不良事件不表示沒有不良反應，仍有延遲失眠、躁動與症狀惡化。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "aaronson-2025-depression",
+      "paperKey": "aaronson-2025-severe-trd",
+      "substances": ["psilocybin"],
+      "sections": ["therapy"],
+      "kind": "result",
+      "statement": "相較基線，第三週MADRS平均下降15.8分、第十二週17.2分，皆組內比較。",
+      "source": {
+        "pdfPage": 4,
+        "section": "Efficacy Outcomes",
+        "quote": "There was a significant reduction in MADRS scores from \nbaseline at the primary and secondary endpoints (parts A and \nB of Figure 1). The fixed effect of treatment (time) on MADRS \nscores in the overall mixed-effects model was robust \n(F=26.69, df-3, 25, p=6.46×10\n–8\n). MADRS scores at each \npost-dosing time point w ere significantly reduced relative \nto baseline (week 1: least -squares mean change=−19.4, \n95% CI=−28.5 to −10.4 [Bonferroni-adjusted p=0.0002, \nCohen’s d=2.8]; w eek 3: least-squares mean change=−15.8, \n95% CI=−25.4 to −6.268 [Bonferroni-adjusted p=0.002, \nCohen’s d=2.2]; w eek 12: least-squares mean change in \nMADRS=−17.2, 95% CI=−25.2 to −9.1 [Bonferroni-adjusted \np=0.0002, Cohen’s d=2.7])."
+      },
+      "study": {
+        "design": "open-label-program",
+        "context": "clinical-treatment",
+        "population": "12名嚴重難治型憂鬱症成人，當次發作至少五種治療未獲足夠改善",
+        "sampleSize": 12,
+        "exposure": "單次合成psilocybin25 mg，治療前準備、給藥陪伴與整合；精神科藥物依方案暫停",
+        "comparator": "各自治療前基線；開放式、無安慰劑對照",
+        "timeframe": "第三週主要評估，追蹤至十二週",
+        "overlapFamily": "aaronson-2025-severe-trd-cohort"
+      },
+      "result": null,
+      "limitations": [
+        "開放式無安慰劑對照、樣本12人；不可將組內下降當作相較其他治療的優勢。",
+        "部分患者重啟抗憂鬱藥物、一人自行追加使用菇類；十二週結果可能受合併介入影響。",
+        "共病PTSD探索性亞組僅5人，不作穩定預測或治療建議。",
+        "沒有嚴重不良事件不表示沒有不良反應，仍有延遲失眠、躁動與症狀惡化。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "aaronson-2025-secondary",
+      "paperKey": "aaronson-2025-severe-trd",
+      "substances": ["psilocybin"],
+      "sections": ["therapy"],
+      "kind": "result",
+      "statement": "焦慮GAD7未顯著變化；生活品質及工作／社交功能改善。",
+      "source": {
+        "pdfPage": 5,
+        "section": "Efficacy Outcomes",
+        "quote": "The GAD-7 provided a brief assessment of anxiety \nsymptoms (part A of Figure 2) and did not show a significant \neffect of treatment (F=1.5, df=2, 24.6, p=0.24). Quality of \nlife, enjoyment, and satisfaction measures as per the QLES- \nQ-SF were compared betwe en baseline, week 3, and w eek 12 \n(part B of Figure 2). There was a significant effect of time in \nthe overall model (F=7.36, df=2, 22.3, p=0.004), with sig -\nnificantly increased QLES-Q-SF scores from baseline at both \npost-dosing time points (we ek 3: least-squares mean \nchange=10.9, 95% CI=1.4 to 20.4 [Bonferroni-adjusted \np=0.023, Cohen’s d=1.15]; week 12: least -squares mean \nchange=13.0, 95% CI=3.9 to 22.1 [Bonferroni-adjusted \np=0.005, Cohen’s d=1.70]). The WSAS scale was used to \ncompare impairment in w ork and social functioning at \nbaseline and week 3 (part C of Figure 2). The effect of time \nwas significant (t=2.58, df=11, p=0.026), with the paired \ndifference showing reduced WSAS scores at week 3 (least - \nsquares mean change=−9.08, 95% CI=−16.8 to −1.3 [Cohen’s \nd=1.06]) indicating less impairment."
+      },
+      "study": {
+        "design": "open-label-program",
+        "context": "clinical-treatment",
+        "population": "12名嚴重難治型憂鬱症成人，當次發作至少五種治療未獲足夠改善",
+        "sampleSize": 12,
+        "exposure": "單次合成psilocybin25 mg，治療前準備、給藥陪伴與整合；精神科藥物依方案暫停",
+        "comparator": "各自治療前基線；開放式、無安慰劑對照",
+        "timeframe": "第三週主要評估，追蹤至十二週",
+        "overlapFamily": "aaronson-2025-severe-trd-cohort"
+      },
+      "result": null,
+      "limitations": [
+        "開放式無安慰劑對照、樣本12人；不可將組內下降當作相較其他治療的優勢。",
+        "部分患者重啟抗憂鬱藥物、一人自行追加使用菇類；十二週結果可能受合併介入影響。",
+        "共病PTSD探索性亞組僅5人，不作穩定預測或治療建議。",
+        "沒有嚴重不良事件不表示沒有不良反應，仍有延遲失眠、躁動與症狀惡化。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "lewis-2025-design",
+      "paperKey": "lewis-2025-healthcare",
+      "substances": ["psilocybin"],
+      "sections": ["therapy"],
+      "kind": "background",
+      "statement": "醫護25人隨機，八週MBSR與MBSR加單次25mg與團體心理治療比較。",
+      "source": {
+        "pdfPage": 1,
+        "section": "Abstract: Methods",
+        "quote": "Methods and findings\nWe conducted a randomized controlled trial that enrolled physicians and nurses with \nfrontline clinical work during the COVID-19 pandemic and symptoms of depression \nand burnout. (ClinicalTrials.gov Identifier: NCT05557643) Participants were enrolled \nbetween January 2nd, 2023 and January 16th, 2024, and randomized in a 1:1 ratio to \neither an 8-week MBSR curriculum alone or an 8-week MBSR curriculum plus group \npsilocybin-assisted psychotherapy (PAP) with 25 mg psilocybin. Evaluation of safety \nand feasibility of enrollment and retention was a primary objective of the study. The \nprimary efficacy endpoint was change in depressive symptoms, as measured by the \nQuick Inventory of Depressive Symptoms (QIDS-SR-16) at 2 weeks post-intervention."
+      },
+      "study": {
+        "design": "randomized-controlled-trial",
+        "context": "clinical-treatment",
+        "population": "疫情第一線醫師與護理師25人，憂鬱與倦怠症狀；合併方案13人，MBSR12人",
+        "sampleSize": 25,
+        "exposure": "八週MBSR，加單次25 mg psilocybin與團體心理治療",
+        "comparator": "八週MBSR單獨方案，非給藥安慰劑；兩組介入強度不同且未盲法",
+        "timeframe": "介入後兩週主要評估及六個月追蹤",
+        "overlapFamily": "nct05557643-healthcare"
+      },
+      "result": null,
+      "limitations": [
+        "25人小型、族群相對同質；組別性別分布及基線部分指標不同。",
+        "未採給藥安慰劑及盲法，兩組支持／介入強度不同，結果描述為合併方案而非單獨藥物效果。",
+        "4.6分為模型估計組間改變差；原始均數7.2與2.8的算術差不能替代模型估計。",
+        "次要結果多重比較後不顯著，不能宣稱已證實改善倦怠或連結感。",
+        "正文稱12項相關不良事件，但表2的事件列數與嚴重度加總不同，不重報總事件數。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "lewis-2025-sample",
+      "paperKey": "lewis-2025-healthcare",
+      "substances": ["psilocybin"],
+      "sections": ["therapy"],
+      "kind": "background",
+      "statement": "試驗25人，無嚴重不良事件；相關AE總數有圖文差異不在正文重報。",
+      "source": {
+        "pdfPage": 2,
+        "section": "Abstract: Findings",
+        "quote": "Twenty-five participants were enrolled and randomized. Safety was a study outcome \nand assessed by rate and severity of AEs and any incident suicidality or significant \nmental health symptoms. Baseline and outcome data were summarized using descrip-\ntive statistics, with continuous variables reported as means and standard devia-\ntions. We recorded 12 study-related, Grade 1–2 AEs and no serious AEs."
+      },
+      "study": {
+        "design": "randomized-controlled-trial",
+        "context": "clinical-treatment",
+        "population": "疫情第一線醫師與護理師25人，憂鬱與倦怠症狀；合併方案13人，MBSR12人",
+        "sampleSize": 25,
+        "exposure": "八週MBSR，加單次25 mg psilocybin與團體心理治療",
+        "comparator": "八週MBSR單獨方案，非給藥安慰劑；兩組介入強度不同且未盲法",
+        "timeframe": "介入後兩週主要評估及六個月追蹤",
+        "overlapFamily": "nct05557643-healthcare"
+      },
+      "result": null,
+      "limitations": [
+        "25人小型、族群相對同質；組別性別分布及基線部分指標不同。",
+        "未採給藥安慰劑及盲法，兩組支持／介入強度不同，結果描述為合併方案而非單獨藥物效果。",
+        "4.6分為模型估計組間改變差；原始均數7.2與2.8的算術差不能替代模型估計。",
+        "次要結果多重比較後不顯著，不能宣稱已證實改善倦怠或連結感。",
+        "正文稱12項相關不良事件，但表2的事件列數與嚴重度加總不同，不重報總事件數。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "lewis-2025-depression",
+      "paperKey": "lewis-2025-healthcare",
+      "substances": ["psilocybin"],
+      "sections": ["therapy"],
+      "kind": "result",
+      "statement": "兩週主要結果合併方案QIDS下降較多，模型組間差4.6分，95%CI1.51–7.70。",
+      "source": {
+        "pdfPage": 10,
+        "section": "Preliminary efficacy",
+        "quote": "The MBSR + PAP arm evidenced significantly greater reduction in QIDS-SR-16 scores than the MBSR-only arm from \nbaseline to the primary 2 weeks post-intervention endpoint (between-groups effect = 4.6, 95% CI [1.51, 7.70]; p = 0.008; \nd = 1.02), corrected for multiple comparisons."
+      },
+      "study": {
+        "design": "randomized-controlled-trial",
+        "context": "clinical-treatment",
+        "population": "疫情第一線醫師與護理師25人，憂鬱與倦怠症狀；合併方案13人，MBSR12人",
+        "sampleSize": 25,
+        "exposure": "八週MBSR，加單次25 mg psilocybin與團體心理治療",
+        "comparator": "八週MBSR單獨方案，非給藥安慰劑；兩組介入強度不同且未盲法",
+        "timeframe": "介入後兩週主要評估及六個月追蹤",
+        "overlapFamily": "nct05557643-healthcare"
+      },
+      "result": null,
+      "limitations": [
+        "25人小型、族群相對同質；組別性別分布及基線部分指標不同。",
+        "未採給藥安慰劑及盲法，兩組支持／介入強度不同，結果描述為合併方案而非單獨藥物效果。",
+        "4.6分為模型估計組間改變差；原始均數7.2與2.8的算術差不能替代模型估計。",
+        "次要結果多重比較後不顯著，不能宣稱已證實改善倦怠或連結感。",
+        "正文稱12項相關不良事件，但表2的事件列數與嚴重度加總不同，不重報總事件數。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "lewis-2025-six-months",
+      "paperKey": "lewis-2025-healthcare",
+      "substances": ["psilocybin"],
+      "sections": ["therapy"],
+      "kind": "result",
+      "statement": "六個月時QIDS組間差異未達統計顯著。",
+      "source": {
+        "pdfPage": 11,
+        "section": "Preliminary efficacy / Table 3",
+        "quote": "There were \nno significant between-group differences in QIDS-SR-16 scores at the 6-month endpoint in the LMM,"
+      },
+      "study": {
+        "design": "randomized-controlled-trial",
+        "context": "clinical-treatment",
+        "population": "疫情第一線醫師與護理師25人，憂鬱與倦怠症狀；合併方案13人，MBSR12人",
+        "sampleSize": 25,
+        "exposure": "八週MBSR，加單次25 mg psilocybin與團體心理治療",
+        "comparator": "八週MBSR單獨方案，非給藥安慰劑；兩組介入強度不同且未盲法",
+        "timeframe": "介入後兩週主要評估及六個月追蹤",
+        "overlapFamily": "nct05557643-healthcare"
+      },
+      "result": null,
+      "limitations": [
+        "25人小型、族群相對同質；組別性別分布及基線部分指標不同。",
+        "未採給藥安慰劑及盲法，兩組支持／介入強度不同，結果描述為合併方案而非單獨藥物效果。",
+        "4.6分為模型估計組間改變差；原始均數7.2與2.8的算術差不能替代模型估計。",
+        "次要結果多重比較後不顯著，不能宣稱已證實改善倦怠或連結感。",
+        "正文稱12項相關不良事件，但表2的事件列數與嚴重度加總不同，不重報總事件數。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "lewis-2025-secondary",
+      "paperKey": "lewis-2025-healthcare",
+      "substances": ["psilocybin"],
+      "sections": ["therapy"],
+      "kind": "result",
+      "statement": "倦怠、失志與連結感等次要結果多重比較後未達統計顯著。",
+      "source": {
+        "pdfPage": 14,
+        "section": "Secondary outcomes",
+        "quote": "After correcting for multiple comparisons, none of the secondary outcomes retained statistical significance (Table \nK, Supplement 1 in S1 Appendix); however, there was a trend towards significance across secondary outcomes with mod-\nerate to large effect sizes across all measures favoring the MBSR + PAP condition."
+      },
+      "study": {
+        "design": "randomized-controlled-trial",
+        "context": "clinical-treatment",
+        "population": "疫情第一線醫師與護理師25人，憂鬱與倦怠症狀；合併方案13人，MBSR12人",
+        "sampleSize": 25,
+        "exposure": "八週MBSR，加單次25 mg psilocybin與團體心理治療",
+        "comparator": "八週MBSR單獨方案，非給藥安慰劑；兩組介入強度不同且未盲法",
+        "timeframe": "介入後兩週主要評估及六個月追蹤",
+        "overlapFamily": "nct05557643-healthcare"
+      },
+      "result": null,
+      "limitations": [
+        "25人小型、族群相對同質；組別性別分布及基線部分指標不同。",
+        "未採給藥安慰劑及盲法，兩組支持／介入強度不同，結果描述為合併方案而非單獨藥物效果。",
+        "4.6分為模型估計組間改變差；原始均數7.2與2.8的算術差不能替代模型估計。",
+        "次要結果多重比較後不顯著，不能宣稱已證實改善倦怠或連結感。",
+        "正文稱12項相關不良事件，但表2的事件列數與嚴重度加總不同，不重報總事件數。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "agrawal-2025-design",
+      "paperKey": "agrawal-2025-cancer-followup",
+      "substances": ["psilocybin"],
+      "sections": ["therapy"],
+      "kind": "background",
+      "statement": "30名癌症合併MDD開放式方案，無安慰劑對照。",
+      "source": {
+        "pdfPage": 1,
+        "section": "Methods",
+        "quote": "Design, eligibility, treatment, endpoints, and statistical analyses of\nthis phase 2, single - center, fixed - dose, open - label study have been\npreviously described.\n4,5\nBriefly, 30 adults with curable or noncurable\ncancer and major depression disorder not taking an antidepressant\nand/or antipsychotic medications or medical cannabis at screening\nand without suicide risk were enrolled."
+      },
+      "study": {
+        "design": "prospective-observational",
+        "context": "clinical-treatment",
+        "population": "30 名癌症合併重鬱症患者的開放式方案；兩名死亡後，28 人納入24個月分析",
+        "sampleSize": 28,
+        "exposure": "單次25 mg psilocybin，搭配個別與團體準備、給藥陪伴及整合",
+        "comparator": "各自治療前基線；無隨機或安慰劑對照",
+        "timeframe": "主要原試驗八週；此篇追蹤至24個月",
+        "overlapFamily": "nct04593563-cancer-cohort"
+      },
+      "result": null,
+      "limitations": [
+        "與Beaussant質性研究來自同一30人方案，不作獨立療效重複驗證或人數加總。",
+        "未設對照，追蹤期間有額外抗憂鬱藥物、心理治療與其他啟靈物質使用；不能把所有兩年差異歸因於一次給藥。",
+        "兩名死亡後僅28人分析，本文未交代死亡原因，不將其歸因於psilocybin。",
+        "兩份cncr.35889 PDF為同一篇不同排版版本，並非兩項研究。",
+        "原文持續改善門檻印為≥0%，圖文定義不宜自行校正或猜測；正文不用持續改善率，僅報24個月相較基線至少50%下降人數。",
+        "原文平均量表下降的適用分母表達不清，正文不用該平均數。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "agrawal-2025-protocol",
+      "paperKey": "agrawal-2025-cancer-followup",
+      "substances": ["psilocybin"],
+      "sections": ["therapy"],
+      "kind": "background",
+      "statement": "單次25mg，搭配個別與團體準備及整合會談。",
+      "source": {
+        "pdfPage": 2,
+        "section": "Methods",
+        "quote": "therapy. Following a screening period that included two visits (initial\nscreening and an individual preparatory session with the assigned\ntherapist), patients participated in two baseline preparation sessions\n(one group and one individual). Each patient then received one 25 - mg\ndose of psilocybin in a single 6 - to 7 - hour session. Following psilocybin\ntreatment, patients participated in two group and two individual\nintegration sessions, and follow - up took place. Each cohort completed\nscreening, baseline assessment, treatment, 8 hours of preparation and\nintegration therapy, and follow - up. The entire process included a total\nof eight visits over the course of 8 weeks."
+      },
+      "study": {
+        "design": "prospective-observational",
+        "context": "clinical-treatment",
+        "population": "30 名癌症合併重鬱症患者的開放式方案；兩名死亡後，28 人納入24個月分析",
+        "sampleSize": 28,
+        "exposure": "單次25 mg psilocybin，搭配個別與團體準備、給藥陪伴及整合",
+        "comparator": "各自治療前基線；無隨機或安慰劑對照",
+        "timeframe": "主要原試驗八週；此篇追蹤至24個月",
+        "overlapFamily": "nct04593563-cancer-cohort"
+      },
+      "result": null,
+      "limitations": [
+        "與Beaussant質性研究來自同一30人方案，不作獨立療效重複驗證或人數加總。",
+        "未設對照，追蹤期間有額外抗憂鬱藥物、心理治療與其他啟靈物質使用；不能把所有兩年差異歸因於一次給藥。",
+        "兩名死亡後僅28人分析，本文未交代死亡原因，不將其歸因於psilocybin。",
+        "兩份cncr.35889 PDF為同一篇不同排版版本，並非兩項研究。",
+        "原文持續改善門檻印為≥0%，圖文定義不宜自行校正或猜測；正文不用持續改善率，僅報24個月相較基線至少50%下降人數。",
+        "原文平均量表下降的適用分母表達不清，正文不用該平均數。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "agrawal-2025-followup",
+      "paperKey": "agrawal-2025-cancer-followup",
+      "substances": ["psilocybin"],
+      "sections": ["therapy"],
+      "kind": "result",
+      "statement": "28人兩年評估；15人的MADRS及13人的HAMA較基線減少至少50%，期間部分另用藥或啟靈物質。",
+      "source": {
+        "pdfPage": 2,
+        "section": "Results",
+        "quote": "Two patients died, leaving 28 of 30 patients for the 24 - month anal-\nysis of effectiveness. The median age at enrollment was 57.5 years;\nthe majority were female and White (Table 1 ).\nOver 24 months, no patients were hospitalized for depression,\n60.7% (17/28) did not receive additional psychiatric medications, and\n60.7% (17/28) did not use additional psychedelics (Table 1 ). Alcohol\nuse decreased in 21.4% (6/28) of patients after psilocybin treatment.\nOf the 28 patients, 89.3% (25) experienced significant depression\nreduction at 2 months in the MADRS (average of –20.0 points from\nbaseline, p < .001). At 24 months’ follow - up, 53.6% (15) had signifi-\ncant reduction in the MADRS (average of –15.0 points from baseline;\np < .001; Figure 1A ). At 24 months, 50% (14) had sustained\ndepression reduction as well as remission.\nTwenty - five percent (seven) experienced sustained reduction in\ndepression at 24 months from a single psilocybin dose without any\nadditional psychedelic or antidepressant treatments. Among the\nothers, 25% (seven) received antidepressants after psilocybin and\nthree of those received a second psychedelic treatment.\nAt 2 months, 78.6% (22) experienced significant reduction in\nanxiety in the HAM - A (average of –17.0 points from baseline,\np < .001), with 46.4% (13) having significant reduction at 24 months\n(average of –13.9 points from baseline, p < .001; Figure 1B ). Overall,\n17.9% (five) experienced significant reduction in anxiety at 24\nmonths from a single dose of psilocybin without any additional psy-\nchedelic or antidepressant treatments. Additionally, 12 patients\n(42.9%) experienced sustained anxiety reduction at 24 months’"
+      },
+      "study": {
+        "design": "prospective-observational",
+        "context": "clinical-treatment",
+        "population": "30 名癌症合併重鬱症患者的開放式方案；兩名死亡後，28 人納入24個月分析",
+        "sampleSize": 28,
+        "exposure": "單次25 mg psilocybin，搭配個別與團體準備、給藥陪伴及整合",
+        "comparator": "各自治療前基線；無隨機或安慰劑對照",
+        "timeframe": "主要原試驗八週；此篇追蹤至24個月",
+        "overlapFamily": "nct04593563-cancer-cohort"
+      },
+      "result": null,
+      "limitations": [
+        "與Beaussant質性研究來自同一30人方案，不作獨立療效重複驗證或人數加總。",
+        "未設對照，追蹤期間有額外抗憂鬱藥物、心理治療與其他啟靈物質使用；不能把所有兩年差異歸因於一次給藥。",
+        "兩名死亡後僅28人分析，本文未交代死亡原因，不將其歸因於psilocybin。",
+        "兩份cncr.35889 PDF為同一篇不同排版版本，並非兩項研究。",
+        "原文持續改善門檻印為≥0%，圖文定義不宜自行校正或猜測；正文不用持續改善率，僅報24個月相較基線至少50%下降人數。",
+        "原文平均量表下降的適用分母表達不清，正文不用該平均數。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "fonzo-2025-alcohol",
+      "paperKey": "fonzo-2025-psilocybin-review",
+      "substances": ["psilocybin"],
+      "sections": ["therapy"],
+      "kind": "result",
+      "statement": "95人AUD母試驗比較兩次psilo與diphenhydramine，初次給藥後32週大量飲酒日比例下降較大。",
+      "source": {
+        "pdfPage": 3,
+        "section": "Evidence of Efficacy",
+        "quote": "The only other clinical indication with at least one \npublished RCT is alcohol use disorder (AUD). There has \nbeen one trial (N=95) examining two doses of psilocybin \nwith PST in dose-ascending order (25 mg/70 kg follow ed by \n30 or 40 mg/70 kg, depending on subjective expe rience in the \nfirst dosing session) versus two dose-ascending sessions with \ndiphenhydramine hydrochloride (50 mg follow ed by 100 mg; \nan antihistamine used as an active placebo) ( 21 ). This study \ndemonstrated a statistically superior reduction for psilocy -\nbin versus diphenhydramine on monthly percentage of \nhea vy drinking days over the 32 weeks followi ng the first \nstudy drug administration."
+      },
+      "study": {
+        "design": "literature-review",
+        "context": "review",
+        "population": "檢索1998年1月至2023年11月，21項不同臨床試驗、26篇報告",
+        "sampleSize": null,
+        "exposure": "psilocybin搭配心理支持／治療，不同疾病與劑量方案",
+        "comparator": "依子試驗：安慰劑、低劑量psilocybin、niacin、diphenhydramine、escitalopram等",
+        "timeframe": "依各試驗急性及長期評估；不是2025年之後研究的完整更新",
+        "overlapFamily": "fonzo-2025-review-overlapping-trials"
+      },
+      "result": null,
+      "limitations": [
+        "此為有系統檢索的敘述性臨床綜述，未以統合分析產生合併效應量。",
+        "正文轉述其中原始試驗，不冒稱已獨立讀取所有原始試驗。",
+        "多項試驗有盲法失敗、期待效應、樣本與族群篩選問題；不是所有疾病或所有比較組皆陽性。",
+        "與Pagni次級分析的AUD原試驗重疊，不能加總為獨立驗證。",
+        "未查核本綜述之後監管狀態，不把試驗信號寫成正式核准或既定標準療法。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "kirlic-2025-model",
+      "paperKey": "kirlic-2025-support-model",
+      "substances": ["psilocybin"],
+      "sections": ["related"],
+      "kind": "background",
+      "statement": "CPSM包含心理教育與支持，分準備、給藥、整合三階段。",
+      "source": {
+        "pdfPage": 2,
+        "section": "The Compass Psychological Support Model",
+        "quote": "The CPSM consists of psychoeducation and the delivery of \npsychological support. It is delivered by specially trained \nmental health care professionals who possess an active \nlicense in good professional standing and ha ve the relevant \neducation, training, and/or expe rience in mental health, \ncounseling, or psychological therapies (henceforth therapist). \nThe CPSM is administered across three treatment stages: \npreparation, administration, and integration (Table 1)."
+      },
+      "study": {
+        "design": "clinical-support-model",
+        "context": "clinical-treatment",
+        "population": "COMP360研究中的心理支持與治療師培訓模型說明；非新增受試者樣本",
+        "sampleSize": null,
+        "exposure": "CPSM心理教育、準備、給藥與整合支持",
+        "comparator": "方法說明，未隨機比較不同支持模型的療效",
+        "timeframe": "療程支持、治療師訓練及執行一致性評估",
+        "overlapFamily": "compass-trials-support-description"
+      },
+      "result": null,
+      "limitations": [
+        "模型說明不是效果試驗，不聲稱此支持方法優於其他方法或已證實可獨立治療憂鬱。",
+        "模型與受資助之COMP360開發程序相關；藥物與心理支持的貢獻不能由此文拆分。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "kirlic-2025-principles",
+      "paperKey": "kirlic-2025-support-model",
+      "substances": ["psilocybin"],
+      "sections": ["related"],
+      "kind": "background",
+      "statement": "三項原則為信任／心理安全、當下焦點及自我引導／自主。",
+      "source": {
+        "pdfPage": 3,
+        "section": "Psychological Support",
+        "quote": "This is achieved through three \nkey principles—trust and psychological safety , present - \nmoment focus, and self-direction and autonomy—and cor -\nresponding methods described below ."
+      },
+      "study": {
+        "design": "clinical-support-model",
+        "context": "clinical-treatment",
+        "population": "COMP360研究中的心理支持與治療師培訓模型說明；非新增受試者樣本",
+        "sampleSize": null,
+        "exposure": "CPSM心理教育、準備、給藥與整合支持",
+        "comparator": "方法說明，未隨機比較不同支持模型的療效",
+        "timeframe": "療程支持、治療師訓練及執行一致性評估",
+        "overlapFamily": "compass-trials-support-description"
+      },
+      "result": null,
+      "limitations": [
+        "模型說明不是效果試驗，不聲稱此支持方法優於其他方法或已證實可獨立治療憂鬱。",
+        "模型與受資助之COMP360開發程序相關；藥物與心理支持的貢獻不能由此文拆分。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "kirlic-2025-scope",
+      "paperKey": "kirlic-2025-support-model",
+      "substances": ["psilocybin"],
+      "sections": ["related"],
+      "kind": "background",
+      "statement": "模型描述另介紹治療師培訓、督導與一致性評估，非效果試驗。",
+      "source": {
+        "pdfPage": 1,
+        "section": "Abstract",
+        "quote": "The authors describe the Compass \nPsychological Support Model (CPSM), currently used to \nsupport participants with treatment-resistant depression \nin Compass-sponsored clinical trials of investigational \nCOMP360 psilocybin treatment. The authors also outline \nthe therapist training, mentoring, and fidelity assessment \nprograms they have developed to ensure the quality and \nconsistency of the CPSM delivery."
+      },
+      "study": {
+        "design": "clinical-support-model",
+        "context": "clinical-treatment",
+        "population": "COMP360研究中的心理支持與治療師培訓模型說明；非新增受試者樣本",
+        "sampleSize": null,
+        "exposure": "CPSM心理教育、準備、給藥與整合支持",
+        "comparator": "方法說明，未隨機比較不同支持模型的療效",
+        "timeframe": "療程支持、治療師訓練及執行一致性評估",
+        "overlapFamily": "compass-trials-support-description"
+      },
+      "result": null,
+      "limitations": [
+        "模型說明不是效果試驗，不聲稱此支持方法優於其他方法或已證實可獨立治療憂鬱。",
+        "模型與受資助之COMP360開發程序相關；藥物與心理支持的貢獻不能由此文拆分。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "agrawal-2025-response-definition",
+      "paperKey": "agrawal-2025-cancer-followup",
+      "substances": ["psilocybin"],
+      "sections": ["therapy"],
+      "kind": "background",
+      "statement": "MADRS／HAM-A下降至少50%為該時點顯著改善定義；持續改善定義另有≥0%印刷疑點，不使用。",
+      "source": {
+        "pdfPage": 2,
+        "section": "Methods / Follow-up conditions",
+        "quote": "Mental health improvement was measured at 2, 18, and 24\nmonths with the Montgomery Asberg Depression Rating Scale\n(MADRS) and Hamilton Anxiety Rating Scale (HAM - A). Significant\ndepression reduction was calculated as participants who had ≥ 50%\nreduction in MADRS/HAM - A score. Sustained reduction was\ncalculated as participants who had ≥ 0% reduction in MADRS/\nHAM - A score at both visits, week 8, and 24 months’ follow - up.\nRemission was calculated"
+      },
+      "study": {
+        "design": "prospective-observational",
+        "context": "clinical-treatment",
+        "population": "30 名癌症合併重鬱症患者的開放式方案；兩名死亡後，28 人納入24個月分析",
+        "sampleSize": 28,
+        "exposure": "單次25 mg psilocybin，搭配個別與團體準備、給藥陪伴及整合",
+        "comparator": "各自治療前基線；無隨機或安慰劑對照",
+        "timeframe": "主要原試驗八週；此篇追蹤至24個月",
+        "overlapFamily": "nct04593563-cancer-cohort"
+      },
+      "result": null,
+      "limitations": [
+        "與Beaussant質性研究來自同一30人方案，不作獨立療效重複驗證或人數加總。",
+        "未設對照，追蹤期間有額外抗憂鬱藥物、心理治療與其他啟靈物質使用；不能把所有兩年差異歸因於一次給藥。",
+        "兩名死亡後僅28人分析，本文未交代死亡原因，不將其歸因於psilocybin。",
+        "兩份cncr.35889 PDF為同一篇不同排版版本，並非兩項研究。",
+        "原文持續改善門檻印為≥0%，圖文定義不宜自行校正或猜測；正文不用持續改善率，僅報24個月相較基線至少50%下降人數。",
+        "原文平均量表下降的適用分母表達不清，正文不用該平均數。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "aaronson-2025-followup-exposures",
+      "paperKey": "aaronson-2025-severe-trd",
+      "substances": ["psilocybin"],
+      "sections": ["therapy"],
+      "kind": "background",
+      "statement": "追蹤期間一人自行追加菇類，有人恢復抗憂鬱藥物與大麻素；十二週結果不是完全未受其他介入影響。",
+      "source": {
+        "pdfPage": 5,
+        "section": "Methods / Follow-up conditions",
+        "quote": "During the study \nperiod one patient reported self-initiating low -dose psilo -\ncybin (<3.5 g dried psilocybe mushroom, described as \n“microdosing ”) tak en irregularly over a period of 2 w eeks \nstarting at w eek 4. This patient was classified as a responder \nby MADRS criteria at study endpoint, albeit with potential \nconfound from these additional low doses. Another patient \nwho had used a medical cannabinoid as needed prior to the \nstudy reported resumption of its use at week 4. This patient \nhad met remission criteria at w eek 3 and was also classified as \nremitted at study endpoint. One patient who had not \nachieved response at week 3 restarted an SSRI+NDRI \nregimen but continued to show nonresponse by MADRS \ncriteria at study endpoint. Medication restarts are also in -\ncluded in Table 2."
+      },
+      "study": {
+        "design": "open-label-program",
+        "context": "clinical-treatment",
+        "population": "12名嚴重難治型憂鬱症成人，當次發作至少五種治療未獲足夠改善",
+        "sampleSize": 12,
+        "exposure": "單次合成psilocybin25 mg，治療前準備、給藥陪伴與整合；精神科藥物依方案暫停",
+        "comparator": "各自治療前基線；開放式、無安慰劑對照",
+        "timeframe": "第三週主要評估，追蹤至十二週",
+        "overlapFamily": "aaronson-2025-severe-trd-cohort"
+      },
+      "result": null,
+      "limitations": [
+        "開放式無安慰劑對照、樣本12人；不可將組內下降當作相較其他治療的優勢。",
+        "部分患者重啟抗憂鬱藥物、一人自行追加使用菇類；十二週結果可能受合併介入影響。",
+        "共病PTSD探索性亞組僅5人，不作穩定預測或治療建議。",
+        "沒有嚴重不良事件不表示沒有不良反應，仍有延遲失眠、躁動與症狀惡化。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "yu-2008-psilocin-detection",
+      "paperKey": "yu-2008-metabolism",
+      "substances": ["psilocybin"],
+      "sections": ["basics"],
+      "kind": "background",
+      "statement": "綜述記述服用psilocybin後人體血液及尿液可檢出psilocin，去磷酸化形成psilocin屬活化過程。",
+      "source": {
+        "pdfPage": 7,
+        "section": "Metabolism of Tryptamine Derivatives / psilocybin",
+        "quote": "Different from the tryptamine derivatives discussed\nabove, psilocybin and psilocin are 4-substituted IAA drugs\nthat have been found in many psychedelic mushrooms\nworldwide. Psilocin was readily detected in the blood and\nurine from human subjects taken psilocybin ( 81). The\ndephosphorylation of psilocybin to produce psilocin\n(Fig. 7) appears to be an activation process."
+      },
+      "study": {
+        "design": "literature-review",
+        "context": "review",
+        "population": "敘述性藥物代謝綜述，涵蓋多種indolealkylamine；psilocybin專屬段落整理當時的人體檢測與代謝資料",
+        "sampleSize": null,
+        "exposure": "綜述psilocybin去磷酸化及psilocin後續代謝；不把其他色胺或ibogaine的DDI當作psilocybin結果",
+        "comparator": "無統一介入或比較組；不是psilocybin藥物交互作用臨床試驗",
+        "timeframe": "2008年綜述；不同原始研究時點不同，不推論當代完整代謝知識",
+        "overlapFamily": "yu-2008-review"
+      },
+      "result": null,
+      "limitations": [
+        "敘述性綜述，非原始psilocybin介入或交互作用試驗，未獨立讀取所引原始檢測研究。",
+        "psilocin後續途徑包含由已辨識代謝物推測的去胺氧化與可能的O-glucuronide結合；保留原文suggested／may層級。",
+        "綜述當時尚未釐清psilocybin／psilocin各代謝物的特定酵素；不以其他物質的CYP2D6機制補造。",
+        "文中嚴重DDI與SSRIs例子主要涉及5-MeO-DMT／harmaline及ibogaine，未寫為psilocybin已證實風險。",
+        "2008年後的代謝與交互作用研究不在本次新增來源範圍。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "yu-2008-psilocin-pathways",
+      "paperKey": "yu-2008-metabolism",
+      "substances": ["psilocybin"],
+      "sections": ["basics"],
+      "kind": "background",
+      "statement": "綜述依4-HO-IAA及4-hydroxyindole acetaldehyde推測psilocin去胺氧化，並提出其4-hydroxy可能形成O-glucuronide。",
+      "source": {
+        "pdfPage": 7,
+        "section": "Metabolism of Tryptamine Derivatives / Figure 7",
+        "quote": "Identification\nof other metabolites including 4-hydroxyindole acetic acid\n(4-HO-IAA) and 4-hydroxyindole acetaldehyde suggested\nthat psilocin underwent deamination oxidation. Additionally,\nthe 4-hydroxy group of psilocin may be conjugated to form an\nO-glucuronide (Fig. 7). In spite of these information, limited\nstudies on the metabolism of psilocybin and psilocin have been\nreported, and specific enzymes that catalyze the formation of\nindividual metabolites remain unknown."
+      },
+      "study": {
+        "design": "literature-review",
+        "context": "review",
+        "population": "敘述性藥物代謝綜述，涵蓋多種indolealkylamine；psilocybin專屬段落整理當時的人體檢測與代謝資料",
+        "sampleSize": null,
+        "exposure": "綜述psilocybin去磷酸化及psilocin後續代謝；不把其他色胺或ibogaine的DDI當作psilocybin結果",
+        "comparator": "無統一介入或比較組；不是psilocybin藥物交互作用臨床試驗",
+        "timeframe": "2008年綜述；不同原始研究時點不同，不推論當代完整代謝知識",
+        "overlapFamily": "yu-2008-review"
+      },
+      "result": null,
+      "limitations": [
+        "敘述性綜述，非原始psilocybin介入或交互作用試驗，未獨立讀取所引原始檢測研究。",
+        "psilocin後續途徑包含由已辨識代謝物推測的去胺氧化與可能的O-glucuronide結合；保留原文suggested／may層級。",
+        "綜述當時尚未釐清psilocybin／psilocin各代謝物的特定酵素；不以其他物質的CYP2D6機制補造。",
+        "文中嚴重DDI與SSRIs例子主要涉及5-MeO-DMT／harmaline及ibogaine，未寫為psilocybin已證實風險。",
+        "2008年後的代謝與交互作用研究不在本次新增來源範圍。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "carhart-harris-2012-memory-sample",
+      "paperKey": "carhart-harris-2012-memory",
+      "substances": ["psilocybin"],
+      "sections": ["benefits"],
+      "kind": "result",
+      "statement": "研究招募15名健康受試者，13人完成記憶任務，另排除3份影像後10人納入分析；10人皆有psilocybin使用經驗。",
+      "source": {
+        "pdfPage": 2,
+        "section": "Participants",
+        "quote": "Fifteen healthy individuals were recruited, all via word of mouth.\nHowever, only 13 completed the behavioural component of\nthe fMRI study because of presentation software failure for\n2 individuals after administration of psilocybin, and three further\ndata-sets were removed because of scanner artefacts, rendering the\nfunctional data unusable. Of the ten remaining participants, nine\nwere male, all were physically and mentally healthy, with a mean\nage of 31 years (s.d. = 7.5), and all had used psilocybin before"
+      },
+      "study": {
+        "design": "controlled-crossover-study",
+        "context": "laboratory",
+        "population": "身心健康且有psilocybin使用經驗的成人；招募15人，13人完成記憶任務，10人納入影像及圖1記憶評分分析；另有不同分母的追蹤分析",
+        "sampleSize": 10,
+        "exposure": "靜脈給予2 mg psilocybin後，依預先提供的正向自傳記憶提示回想；每人兩次給藥情境",
+        "comparator": "生理食鹽水安慰劑；組內交叉、平衡順序，原文未明示隨機分配藥物順序或雙盲",
+        "timeframe": "兩次掃描至少相隔7天；每次記憶回想16秒，影像分前8秒及後8秒；追蹤另在兩週評估",
+        "overlapFamily": "carhart-harris-2012-memory-and-resting-state-cohort"
+      },
+      "result": null,
+      "limitations": [
+        "健康且有使用經驗的自選受試者，非病人治療試驗。",
+        "招募15人、13人記憶任務、10人影像／圖1評分、15人整體幸福感及排除一名離群後12人相關分析，不得混用分母。",
+        "正文只談回憶的自評感受，不是記憶正確率、創傷記憶恢復或疾病療效。",
+        "原文僅明示平衡順序的安慰劑交叉設計，不自行標記為隨機或雙盲。",
+        "鮮明度與兩週幸福感相關分析排除一名離群值；圖5圖內p=0.04，但正文及圖說p=0.004，未在正文使用該數值。",
+        "正性情緒強度及正向程度只有組合分析顯著；個別評分不顯著，未寫成各自改善。",
+        "圖4為回想後段條件差異，未觀察到預期的內側顳葉差異；相關靜息影像另篇報告，不重複計為獨立驗證。",
+        "PDF最後一頁包含其他作者的Amok短文；不作此研究來源。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "carhart-harris-2012-memory-design",
+      "paperKey": "carhart-harris-2012-memory",
+      "substances": ["psilocybin"],
+      "sections": ["benefits"],
+      "kind": "result",
+      "statement": "每人分兩次接受2mg靜脈psilocybin及生理食鹽水，至少間隔7天、平衡順序；使用事先提供的正向個人記憶提示。",
+      "source": {
+        "pdfPage": 3,
+        "section": "Derivation of autobiographical memory cues; Scanning procedure",
+        "quote": "After enrolment, participants were given at least 2 weeks to\nprovide 30 or more personal memories for use in the fMRI\nbehavioural paradigm. They were instructed that these should\nrefer to specific life events, and not general periods of time, and\nthat they should be especially positive and emotionally salient.\nT o avoid embarrassment, individuals were advised to encrypt\nespecially personal memories so that they could only be\nunderstood by themselves. Cues were abridged to one sentence\n(e.g. ‘Remember being at the altar getting married’). T o control\nfor recency effects, participants were asked to estimate the\napproximate age they were at the time of the event, and to rate\nthe emotionally potency of the memory on a scale of 0–3, with\n3 being ‘especially potent’ (i.e. capable of eliciting a strong\nemotionally response and/or vivid recollection). The 30 most\npotent memories were split into 2 groups of 15 memories and\nbalanced for recency and potency. Each group was randomly\nassigned to either the psilocybin or placebo condition.\nScanning procedure and drug administration\nParticipants attended two scanning sessions, separated by at least\n7 days. Psilocybin (2 mg in saline) was received on one day, and\nplacebo (saline only) on the other, in a balanced order across\nparticipants. Solutions (10 ml) were administered during\nscanning, as 60 s intravenous infusions."
+      },
+      "study": {
+        "design": "controlled-crossover-study",
+        "context": "laboratory",
+        "population": "身心健康且有psilocybin使用經驗的成人；招募15人，13人完成記憶任務，10人納入影像及圖1記憶評分分析；另有不同分母的追蹤分析",
+        "sampleSize": 10,
+        "exposure": "靜脈給予2 mg psilocybin後，依預先提供的正向自傳記憶提示回想；每人兩次給藥情境",
+        "comparator": "生理食鹽水安慰劑；組內交叉、平衡順序，原文未明示隨機分配藥物順序或雙盲",
+        "timeframe": "兩次掃描至少相隔7天；每次記憶回想16秒，影像分前8秒及後8秒；追蹤另在兩週評估",
+        "overlapFamily": "carhart-harris-2012-memory-and-resting-state-cohort"
+      },
+      "result": null,
+      "limitations": [
+        "健康且有使用經驗的自選受試者，非病人治療試驗。",
+        "招募15人、13人記憶任務、10人影像／圖1評分、15人整體幸福感及排除一名離群後12人相關分析，不得混用分母。",
+        "正文只談回憶的自評感受，不是記憶正確率、創傷記憶恢復或疾病療效。",
+        "原文僅明示平衡順序的安慰劑交叉設計，不自行標記為隨機或雙盲。",
+        "鮮明度與兩週幸福感相關分析排除一名離群值；圖5圖內p=0.04，但正文及圖說p=0.004，未在正文使用該數值。",
+        "正性情緒強度及正向程度只有組合分析顯著；個別評分不顯著，未寫成各自改善。",
+        "圖4為回想後段條件差異，未觀察到預期的內側顳葉差異；相關靜息影像另篇報告，不重複計為獨立驗證。",
+        "PDF最後一頁包含其他作者的Amok短文；不作此研究來源。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "carhart-harris-2012-memory-ratings",
+      "paperKey": "carhart-harris-2012-memory",
+      "substances": ["psilocybin"],
+      "sections": ["benefits"],
+      "kind": "result",
+      "statement": "圖1以10人分析記憶評分；鮮明度p=.049及視覺意象p=.041顯著提高，情緒強度及正向程度個別評分未顯著。",
+      "source": {
+        "pdfPage": 4,
+        "section": "Results / Subjective ratings; Figure 1",
+        "quote": "Memories were rated as more vivid, visual, emotional and positive\nunder psilocybin than placebo (Fig. 1). Individually, only ratings\nof vivid ( t-test, P = 0.049, two-tailed) and visual ( t-test,\nP = 0.041, two-tailed) were significantly different, but if the four\nparameters (which were highly correlated) are grouped, ratings\nwere significantly higher under psilocybin than placebo ( t-test,\nP = 0.0003, two-tailed)."
+      },
+      "study": {
+        "design": "controlled-crossover-study",
+        "context": "laboratory",
+        "population": "身心健康且有psilocybin使用經驗的成人；招募15人，13人完成記憶任務，10人納入影像及圖1記憶評分分析；另有不同分母的追蹤分析",
+        "sampleSize": 10,
+        "exposure": "靜脈給予2 mg psilocybin後，依預先提供的正向自傳記憶提示回想；每人兩次給藥情境",
+        "comparator": "生理食鹽水安慰劑；組內交叉、平衡順序，原文未明示隨機分配藥物順序或雙盲",
+        "timeframe": "兩次掃描至少相隔7天；每次記憶回想16秒，影像分前8秒及後8秒；追蹤另在兩週評估",
+        "overlapFamily": "carhart-harris-2012-memory-and-resting-state-cohort"
+      },
+      "result": null,
+      "limitations": [
+        "健康且有使用經驗的自選受試者，非病人治療試驗。",
+        "招募15人、13人記憶任務、10人影像／圖1評分、15人整體幸福感及排除一名離群後12人相關分析，不得混用分母。",
+        "正文只談回憶的自評感受，不是記憶正確率、創傷記憶恢復或疾病療效。",
+        "原文僅明示平衡順序的安慰劑交叉設計，不自行標記為隨機或雙盲。",
+        "鮮明度與兩週幸福感相關分析排除一名離群值；圖5圖內p=0.04，但正文及圖說p=0.004，未在正文使用該數值。",
+        "正性情緒強度及正向程度只有組合分析顯著；個別評分不顯著，未寫成各自改善。",
+        "圖4為回想後段條件差異，未觀察到預期的內側顳葉差異；相關靜息影像另篇報告，不重複計為獨立驗證。",
+        "PDF最後一頁包含其他作者的Amok短文；不作此研究來源。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "carhart-harris-2012-memory-imaging",
+      "paperKey": "carhart-harris-2012-memory",
+      "substances": ["psilocybin"],
+      "sections": ["benefits"],
+      "kind": "result",
+      "statement": "相較安慰劑，psilocybin在回憶後段有更高的視覺與其他感覺皮質活化，前段及內側顳葉未見條件間顯著差異。",
+      "source": {
+        "pdfPage": 4,
+        "section": "Effect of psilocybin on activations to memories",
+        "quote": "There were no significant differences between early phase\nactivations to memories under psilocybin v. placebo. However,\nthere were significantly greater late phase activations under\npsilocybin than placebo (Fig. 4). These were found in three large\nclusters, a left occipital pole and visual association region cluster\n(Fig. 3) and left and right hemisphere clusters that included the\nmid-insula and primary and secondary auditory cortex, the\ntemporal pole, primary and secondary somatosensory cortex\nand superior parietal regions (e.g. the superior parietal lobule\nand supramarginal gyrus). Contrary to prior hypotheses, there\nwere no between-condition differences in medial temporal lobe\nactivations."
+      },
+      "study": {
+        "design": "controlled-crossover-study",
+        "context": "laboratory",
+        "population": "身心健康且有psilocybin使用經驗的成人；招募15人，13人完成記憶任務，10人納入影像及圖1記憶評分分析；另有不同分母的追蹤分析",
+        "sampleSize": 10,
+        "exposure": "靜脈給予2 mg psilocybin後，依預先提供的正向自傳記憶提示回想；每人兩次給藥情境",
+        "comparator": "生理食鹽水安慰劑；組內交叉、平衡順序，原文未明示隨機分配藥物順序或雙盲",
+        "timeframe": "兩次掃描至少相隔7天；每次記憶回想16秒，影像分前8秒及後8秒；追蹤另在兩週評估",
+        "overlapFamily": "carhart-harris-2012-memory-and-resting-state-cohort"
+      },
+      "result": null,
+      "limitations": [
+        "健康且有使用經驗的自選受試者，非病人治療試驗。",
+        "招募15人、13人記憶任務、10人影像／圖1評分、15人整體幸福感及排除一名離群後12人相關分析，不得混用分母。",
+        "正文只談回憶的自評感受，不是記憶正確率、創傷記憶恢復或疾病療效。",
+        "原文僅明示平衡順序的安慰劑交叉設計，不自行標記為隨機或雙盲。",
+        "鮮明度與兩週幸福感相關分析排除一名離群值；圖5圖內p=0.04，但正文及圖說p=0.004，未在正文使用該數值。",
+        "正性情緒強度及正向程度只有組合分析顯著；個別評分不顯著，未寫成各自改善。",
+        "圖4為回想後段條件差異，未觀察到預期的內側顳葉差異；相關靜息影像另篇報告，不重複計為獨立驗證。",
+        "PDF最後一頁包含其他作者的Amok短文；不作此研究來源。"
+      ],
+      "reviewStatus": "reviewed"
+    }
+  ]
+}

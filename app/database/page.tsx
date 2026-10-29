@@ -1,4 +1,4 @@
-import { Metadata, ResolvingMetadata } from 'next'
+import { Metadata } from 'next'
 import Image from 'next/image'
 import Link from 'next/link'
 
@@ -6,30 +6,26 @@ import { getCategories } from '@/api/general'
 import imgPsychedelicDatabaseIntro from '@/assets/psychedelic-database-intro.jpeg'
 import { AspectRatio } from '@/components/ui/aspect-ratio'
 import { Card, CardHeader, CardTitle } from '@/components/ui/card'
-import { SITE_NAME, SITE_URL } from '@/constants/constants'
+import { SITE_NAME, SITE_OG_IMAGES, SITE_URL } from '@/constants/constants'
 
-export async function generateMetadata(
-  { params },
-  parent: ResolvingMetadata,
-): Promise<Metadata> {
-  const parentData = (await parent) as unknown as Metadata
-  const parentOpenGraph = parentData.openGraph
-  const parentTwitter = parentData.twitter
-
+export async function generateMetadata(): Promise<Metadata> {
   return {
     title: '資料庫',
+    alternates: { canonical: `${SITE_URL}/database` },
     description:
       '從啟靈藥物的基本知識到減害資訊，涵蓋研究、安全性、作用效果等各方面專業知識的資料庫',
     openGraph: {
       title: '資料庫',
       siteName: SITE_NAME,
       url: `${SITE_URL}/database`,
+      images: [SITE_OG_IMAGES.database],
       description:
         '從啟靈藥物的基本知識到減害資訊，涵蓋研究、安全性、作用效果等各方面專業知識的資料庫',
     },
     twitter: {
       card: 'summary_large_image',
       title: '資料庫',
+      images: [SITE_OG_IMAGES.database],
       description:
         '從啟靈藥物的基本知識到減害資訊，涵蓋研究、安全性、作用效果等各方面專業知識的資料庫',
     },
@@ -69,7 +65,7 @@ const DatabasePage = async (): Promise<JSX.Element> => {
         <Image
           fill
           src={imgPsychedelicDatabaseIntro}
-          alt='PsycheVault'
+          alt='EntheoVault'
           priority
           placeholder='blur'
           sizes='(max-width: 768px) 80vw, (max-width: 1200px) 50vw, 100vw'
@@ -81,7 +77,7 @@ const DatabasePage = async (): Promise<JSX.Element> => {
 
       <div className='text-base text-secondary-foreground sm:text-lg'>
         <p>
-          The PsycheVault aims to serve as the leading information hub around
+          The EntheoVault aims to serve as the leading information hub around
           therapeutic and recreational usage of psychedelic compounds.
           Containing data on over 100 psychedelic substances, it details
           quantitative information on dosing, effects, safety as well as
@@ -110,7 +106,7 @@ const DatabasePage = async (): Promise<JSX.Element> => {
           Categories
         </div>
         <div className='mb-6 text-base text-secondary-foreground sm:text-lg'>
-          The PsycheVault is organized into {categoriesNumber} main categories,
+          The EntheoVault is organized into {categoriesNumber} main categories,
           including:
         </div>
         <div className='grid grid-cols-[1fr_1fr] gap-3'>

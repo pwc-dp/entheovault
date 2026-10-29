@@ -4,14 +4,23 @@ import type { MetadataRoute } from 'next'
 
 import { getAllRecords, getCategories, getPapers } from '@/api/general'
 import { SITE_URL } from '@/constants/constants'
+import { substanceGuides } from '@/data/substances'
 
 dayjs.extend(utc)
 
 export default async function generateSitemap(): Promise<MetadataRoute.Sitemap> {
-  const papers = await getPapers()
-  const records = await getAllRecords()
-  const categories = await getCategories()
-  const routes = ['database', 'research', 'about']
+  const [papers = [], records = [], categories = []] = await Promise.all([
+    getPapers(),
+    getAllRecords(),
+    getCategories(),
+  ])
+  const routes = [
+    'database',
+    'research',
+    'about',
+    'learn',
+    ...substanceGuides.map(({ slug }) => `learn/${slug}`),
+  ]
 
   const routesSiteMap = routes.map((route) => {
     return {

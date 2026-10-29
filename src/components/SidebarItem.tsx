@@ -1,5 +1,6 @@
 'use client'
 
+import type { Dispatch, SetStateAction } from 'react'
 import Link from 'next/link'
 import { usePathname } from 'next/navigation'
 
@@ -9,16 +10,17 @@ import {
   AccordionTrigger,
 } from '@/components/ui/accordion'
 import { DEFAULT_LAYOUT } from '@/config/general'
-import { CATEGORY_OPTIONS_MAP } from '@/config/options'
 import { cn } from '@/lib/utils'
 import { CategoryOptionsType, RecordType } from '@/types'
 
+export type SidebarRecord = Pick<RecordType, 'id' | 'slug' | 'title'>
+
 type SidebarItemProps = {
   category: CategoryOptionsType
-  records: RecordType[]
+  records: SidebarRecord[]
   openedItems: string[]
   onItemClicked?: () => void
-  onCategoryClicked: (items: string[]) => void
+  onCategoryClicked: Dispatch<SetStateAction<string[]>>
   categoryTitle: string
 }
 

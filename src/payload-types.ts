@@ -13,6 +13,7 @@ export interface Config {
     categories: Category;
     types: Type;
     papers: Paper;
+    'research-evidence': ResearchEvidence;
     users: User;
     'payload-preferences': PayloadPreference;
     'payload-migrations': PayloadMigration;
@@ -123,6 +124,90 @@ export interface Paper {
     | null;
   isVectorized?: boolean | null;
   viewCount: number;
+  updatedAt: string;
+  createdAt: string;
+}
+export interface ResearchEvidence {
+  id: string;
+  key: string;
+  paper: string | Paper;
+  paperKey: string;
+  statement: string;
+  kind: 'background' | 'result' | 'limitation';
+  substances: (
+    | '2c-b'
+    | '5-meo-dmt'
+    | 'amanita-muscaria'
+    | 'ayahuasca'
+    | 'cannabis'
+    | 'dmt'
+    | 'doi'
+    | 'ghb'
+    | 'ibogaine'
+    | 'ketamine'
+    | 'lsa'
+    | 'lsd'
+    | 'lsd-analogs'
+    | 'mdma'
+    | 'mescaline'
+    | 'peyote'
+    | 'pcp'
+    | 'psilocybin'
+    | 'salvia'
+    | 'unspecified'
+  )[];
+  sections: ('basics' | 'history' | 'benefits' | 'risks' | 'therapy' | 'related' | 'references')[];
+  source: {
+    pdfPage: number;
+    section: string;
+    quote: string;
+  };
+  paperSource: {
+    filename: string;
+    sha256: string;
+    pdfPageCount: number;
+  };
+  study: {
+    design:
+      | 'cross-sectional-survey'
+      | 'observational-group-comparison'
+      | 'prospective-population-cohort'
+      | 'literature-review'
+      | 'systematic-review-meta-analysis'
+      | 'pooled-trial-analysis'
+      | 'randomized-controlled-trial'
+      | 'controlled-crossover-study'
+      | 'prospective-observational'
+      | 'case-report'
+      | 'open-label-program'
+      | 'analytical-chemistry'
+      | 'animal-dose-ranging'
+      | 'animal-experiment'
+      | 'mechanistic-experiment'
+      | 'qualitative-interview'
+      | 'secondary-trial-analysis'
+      | 'clinical-support-model';
+    context: 'naturalistic-use' | 'clinical-treatment' | 'review' | 'preclinical-animal' | 'laboratory';
+    population: string;
+    sampleSize?: number | null;
+    exposure: string;
+    comparator: string;
+    timeframe: string;
+    overlapFamily?: string | null;
+  };
+  result?: {
+    outcome?: string | null;
+    measure?: ('OR' | 'aOR' | 'HR' | 'Cohens-d') | null;
+    estimate?: number | null;
+    ciLower?: number | null;
+    ciUpper?: number | null;
+    confidenceLevel?: number | null;
+  };
+  limitations: {
+    text: string;
+    id?: string | null;
+  }[];
+  reviewStatus: 'draft' | 'reviewed';
   updatedAt: string;
   createdAt: string;
 }

@@ -1,25 +1,22 @@
-import { Metadata, ResolvingMetadata } from 'next'
+import { Metadata } from 'next'
 
 import Footer from '@/components/Footer'
 import { PsychedelicDBIcon } from '@/components/Icons'
+import { SITE_NAME, SITE_OG_IMAGES, SITE_URL } from '@/constants/constants'
 
-export async function generateMetadata(
-  { params },
-  parent: ResolvingMetadata,
-): Promise<Metadata> {
-  const parentData = (await parent) as unknown as Metadata
-  const parentOpenGraph = parentData.openGraph
-  const parentTwitter = parentData.twitter
-
+export async function generateMetadata(): Promise<Metadata> {
   return {
     title: '關於',
+    alternates: { canonical: `${SITE_URL}/about` },
     openGraph: {
       title: '關於',
-      images: parentOpenGraph.images,
+      url: `${SITE_URL}/about`,
+      siteName: SITE_NAME,
+      images: [SITE_OG_IMAGES.default],
     },
     twitter: {
       title: '關於',
-      images: parentTwitter.images,
+      images: [SITE_OG_IMAGES.default],
     },
   }
 }

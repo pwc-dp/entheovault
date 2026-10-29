@@ -1,12 +1,11 @@
 'use client'
 
 import { useEffect } from 'react'
-import posthog from 'posthog-js'
-import { PostHogProvider as PHProvider } from 'posthog-js/react'
+import posthogClient from 'posthog-js'
 
-export function PostHogProvider({ children }: { children: React.ReactNode }) {
+export function PostHogInit(): null {
   useEffect(() => {
-    posthog.init(process.env.NEXT_PUBLIC_POSTHOG_KEY as string, {
+    posthogClient.init(process.env.NEXT_PUBLIC_POSTHOG_KEY as string, {
       api_host:
         process.env.NEXT_PUBLIC_POSTHOG_HOST || 'https://us.i.posthog.com',
       person_profiles: 'identified_only', // or 'always' to create profiles for anonymous users as well
@@ -14,5 +13,5 @@ export function PostHogProvider({ children }: { children: React.ReactNode }) {
     })
   }, [])
 
-  return <PHProvider client={posthog}>{children}</PHProvider>
+  return null
 }

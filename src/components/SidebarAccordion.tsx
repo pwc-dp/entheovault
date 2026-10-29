@@ -3,20 +3,22 @@
 import { useEffect, useState } from 'react'
 import { usePathname } from 'next/navigation'
 
-import { CollaspeIcon, QueueListIcon } from './Icons'
-import SidebarItem from './SidebarItem'
+import { QueueListIcon } from './Icons'
+import SidebarItem, { type SidebarRecord } from './SidebarItem'
 
 import { Accordion } from '@/components/ui/accordion'
 import { Button } from '@/components/ui/button'
 import { Separator } from '@/components/ui/separator'
-import { CategoryOptionsType, RecordType } from '@/types'
+import { CategoryOptionsType } from '@/types'
 
-type RecordMap = Record<CategoryOptionsType, RecordType[]>
+export type SidebarRecordMap = Partial<
+  Record<CategoryOptionsType, SidebarRecord[]>
+>
 
 type Props = {
-  recordsMapZh: RecordMap
-  recordsMapEn: RecordMap
-  categoriesMap: any
+  recordsMapZh: SidebarRecordMap
+  recordsMapEn: SidebarRecordMap
+  categoriesMap: Partial<Record<CategoryOptionsType, string>>
   onCategoryClickedAndCloseSheet?: () => void
 }
 

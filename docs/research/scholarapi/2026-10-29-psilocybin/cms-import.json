@@ -1,0 +1,19 @@
+{
+  "importedAt": "2026-10-29T15:40:52.912Z",
+  "results": [
+    {
+      "key": "carhart-harris-2012-memory",
+      "id": "6ae36904b5ffbc262e831ba1",
+      "doi": "10.1192/bjp.bp.111.103309",
+      "slug": "implications-for-psychedelic-assisted-psychotherapy-functional-magnetic-resonance-imaging-study-with-psilocybin",
+      "action": "created"
+    },
+    {
+      "key": "yu-2008-metabolism",
+      "id": "6ae36904b5ffbc262e831ba5",
+      "doi": "10.1208/s12248-008-9028-5",
+      "slug": "indolealkylamines-biotransformations-and-potential-drug-drug-interactions",
+      "action": "created"
+    }
+  ]
+}

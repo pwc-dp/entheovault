@@ -1,0 +1,1088 @@
+{
+  "schemaVersion": 1,
+  "slug": "lsd",
+  "revision": 1,
+  "updatedAt": "2026-10-27",
+  "scopeNote": "本版核對使用者提供的六份 PDF，書目連結比對現有 CMS。包含健康成人交叉試驗、合併分析、青春期小鼠實驗、兩篇系統性綜述／統合分析與一篇跨物質原始機制研究。Science 論文並非綜述，也不是 LSD 療效試驗。資料缺口：未在本批獨立讀取 LSD 患者症狀療效原始試驗，不據綜述背景補寫療效數字；未查核 2024 年後試驗與監管狀態。原文單位、統計疑點與資料重疊見各筆內部限制，不在公開頁面顯示此範圍註記。",
+  "papers": [
+    {
+      "key": "harris-blum-2024-adolescence",
+      "doi": "10.1038/s41598-024-69597-9",
+      "title": "Developmental changes in brain structure and function following exposure to oral LSD during adolescence",
+      "authors": [
+        "Lila Harris-Blum",
+        "Zachary Smith",
+        "Richard J. Ortiz",
+        "Deepti Athreya",
+        "Arnold Chang",
+        "Praveen P. Kulkarni",
+        "Craig F. Ferris"
+      ],
+      "journal": "Scientific Reports",
+      "year": 2024,
+      "slug": "developmental-changes-in-brain-structure-and-function-following-exposure-to-oral-lsd-during-adolescence",
+      "source": {
+        "filename": "s41598-024-69597-9.pdf",
+        "sha256": "94f2421ad2a25d8ea81b035a824f06afc3b1056763ef0ec9b781f3123ab0912c",
+        "pdfPageCount": 15
+      }
+    },
+    {
+      "key": "vargas-2023-intracellular",
+      "doi": "10.1126/science.adf0435",
+      "title": "Psychedelics Promote Neuroplasticity Through Activation of Intracellular 5-HT2A Receptors",
+      "authors": [
+        "Maxemiliano V. Vargas",
+        "Lee E. Dunlap",
+        "Chunyang Dong",
+        "Samuel J. Carter",
+        "Robert J. Tombari",
+        "Shekib A. Jami",
+        "Lindsay P. Cameron",
+        "Seona D. Patel",
+        "Joseph J. Hennessey",
+        "Hannah N. Saeger",
+        "John D. McCorvy",
+        "John A. Gray",
+        "Lin Tian",
+        "David E. Olson"
+      ],
+      "journal": "Science",
+      "year": 2023,
+      "slug": "psychedelics-promote-neuroplasticity-through-activation-of-intracellular-5-ht2a-receptors",
+      "source": {
+        "filename": "10.1126:science.adf0435.pdf",
+        "sha256": "36b7757d73a3d67fcc8e66d5f68f697577597b7ff74058877b508eb16dbe7a12",
+        "pdfPageCount": 18
+      }
+    },
+    {
+      "key": "vizeli-2024-predictors",
+      "doi": "10.1038/s41398-024-03074-9",
+      "title": "Pharmacological and non-pharmacological predictors of the LSD experience in healthy participants",
+      "authors": [
+        "Patrick Vizeli",
+        "Erich Studerus",
+        "Friederike Holze",
+        "Yasmin Schmid",
+        "Patrick C. Dolder",
+        "Laura Ley",
+        "Isabelle Straumann",
+        "Anna M. Becker",
+        "Felix Müller",
+        "Denis Arikci",
+        "Matthias E. Liechti"
+      ],
+      "journal": "Translational Psychiatry",
+      "year": 2024,
+      "slug": "pharmacological-and-non-pharmacological-predictors-of-the-lsd-experience-in-healthy-participants",
+      "source": {
+        "filename": "10.1038:s41398-024-03074-9.pdf",
+        "sha256": "40bd846cae9079395c4564cc159b2569d9f8bfaecd9322787101a0bff4787777",
+        "pdfPageCount": 8
+      }
+    },
+    {
+      "key": "holze-2022-comparison",
+      "doi": "10.1038/s41386-022-01297-2",
+      "title": "Direct comparison of the acute effects of lysergic acid diethylamide and psilocybin in a double-blind placebo-controlled study in healthy subjects",
+      "authors": [
+        "Friederike Holze",
+        "Laura Ley",
+        "Felix Müller",
+        "Anna M. Becker",
+        "Isabelle Straumann",
+        "Patrick Vizeli",
+        "Sebastian Silva Kuehne",
+        "Marc A. Roder",
+        "Urs Duthaler",
+        "Karolina E. Kolaczynska",
+        "Nimmy Varghese",
+        "Anne Eckert",
+        "Matthias E. Liechti"
+      ],
+      "journal": "Neuropsychopharmacology",
+      "year": 2022,
+      "slug": "direct-comparison-of-the-acute-effects-of-lysergic-acid-diethylamide-and-psilocybin-in-a-double-blind-placebo-controlled-study-in-healthy-subjects",
+      "source": {
+        "filename": "10.1038:s41386-022-01297-2.pdf",
+        "sha256": "04f20529b8bc86ed2269134b3c03095ef15f4d117ea9c2c8d6379504fa94724d",
+        "pdfPageCount": 8
+      }
+    },
+    {
+      "key": "hirschfeld-2023-dose-response",
+      "doi": "10.1038/s41386-023-01588-2",
+      "title": "Dose-response relationships of LSD-induced subjective experiences in humans",
+      "authors": [
+        "Tim Hirschfeld",
+        "Johanna Prugger",
+        "Tomislav Majić",
+        "Timo T. Schmidt"
+      ],
+      "journal": "Neuropsychopharmacology",
+      "year": 2023,
+      "slug": "dose-response-relationships-of-lsd-induced-subjective-experiences-in-humans",
+      "source": {
+        "filename": "10.1038:s41386-023-01588-2.pdf",
+        "sha256": "dad6946855424380ea3c6a5480eacfc7ce1872416b4b353c53b86d93302c3f34",
+        "pdfPageCount": 10
+      }
+    },
+    {
+      "key": "shinozuka-2024-multilevel",
+      "doi": "10.1038/s41398-024-03187-1",
+      "title": "Synergistic, multi-level understanding of psychedelics: three systematic reviews and meta-analyses of their pharmacology, neuroimaging and phenomenology",
+      "authors": [
+        "Kenneth Shinozuka",
+        "Katarina Jerotic",
+        "Pedro Mediano",
+        "Alex T. Zhao",
+        "Katrin H. Preller",
+        "Robin Carhart-Harris",
+        "Morten L. Kringelbach"
+      ],
+      "journal": "Translational Psychiatry",
+      "year": 2024,
+      "slug": "synergistic-multi-level-understanding-of-psychedelics-three-systematic-reviews-and-meta-analyses-of-their-pharmacology-neuroimaging-and-phenomenology",
+      "source": {
+        "filename": "10.1038:s41398-024-03187-1.pdf",
+        "sha256": "078035d2ac0a1e054ca7a00fc4672a5c0f2970619681dc1eea4db4a16d786347",
+        "pdfPageCount": 16
+      }
+    }
+  ],
+  "evidence": [
+    {
+      "key": "hirschfeld-2023-identity",
+      "paperKey": "hirschfeld-2023-dose-response",
+      "substances": ["lsd"],
+      "sections": ["basics", "therapy"],
+      "kind": "background",
+      "statement": "LSD 為經典血清素性啟靈物質；統合分析使用意識狀態與神秘經驗量表，結果為急性主觀經驗。",
+      "source": {
+        "pdfPage": 1,
+        "section": "Abstract",
+        "quote": "Lysergic acid diethylamide (LSD) is a potent classic serotonergic psychedelic, which facilitates a variety of altered states of\nconsciousness. Here we present the ﬁrst meta-analysis establishing dose-response relationship estimates of the altered states of\nconsciousness induced by LSD. Data extracted from articles identi ﬁed by a systematic literature review following PRISMA guidelines\nwere obtained from the Altered States Database. The psychometric data comprised ratings of subjective effects from standardized\nand validated questionnaires: the Altered States of Consciousness Rating Scale (5D-ASC, 11-ASC) and the Mystical Experience\nQuestionnaire (MEQ30). We performed meta-regression analyses using restricted cubic splines for data from studies with LSD doses\nof up to 200 μg base. Most scales revealed a sigmoid-like increase of effects, with a plateauing at around 100 μg. The most strongly\nmodulated factors referred to changes in perception and illusory imagination, followed by positively experienced ego-dissolution,\nwhile only small effects were found for Anxiety and Dread of Ego Dissolution. The considerable variability observed i"
+      },
+      "study": {
+        "design": "systematic-review-meta-analysis",
+        "context": "review",
+        "population": "16 項人體研究，765 次 LSD 給藥；包含健康與臨床樣本",
+        "sampleSize": null,
+        "exposure": "4–200 µg LSD 游離鹼等值劑量；5D-ASC、11-ASC、MEQ30 主觀經驗量表",
+        "comparator": "以限制立方樣條統合迴歸估計跨研究劑量反應，不是直接治療比較",
+        "timeframe": "急性主觀效果；各研究程序與測量時點不同",
+        "overlapFamily": "basel-lsd-trials-overlap"
+      },
+      "result": null,
+      "limitations": [
+        "765 是給藥次數而非獨立受試者數；各量表使用的資料集與樣本數不同。",
+        "劑量曲線為跨研究平均估計，不是個人安全劑量或療效曲線；部分量表平台不表示其他效果不再增加。",
+        "綜述背景提及的患者治療試驗未在本批 PDF 中獨立讀取，不能補寫其療效數字。",
+        "與 Holze 2022 及其他合併分析資料重疊，不視為獨立驗證。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "holze-2022-receptor",
+      "paperKey": "holze-2022-comparison",
+      "substances": ["lsd"],
+      "sections": ["basics"],
+      "kind": "background",
+      "statement": "LSD 與 psilocybin 的意識改變涉及 5-HT2A 受體活化。",
+      "source": {
+        "pdfPage": 1,
+        "section": "Introduction",
+        "quote": "Lysergic acid diethylamide (LSD) and psilocybin are both classic\nserotonergic psychedelics that are used recreationally [ 1] and have\nrecently become promising candidates for the treatment of\nvarious psychiatric disorders (e.g., anxiety disorders and major\ndepressive disorder) and neurologic disorders (e.g., cluster head-\nache and migraine) [ 2–6]. Both substances induce complex\nalterations of mind via stimulation of the serotonin 5-\nhydroxytryptamine-2A (5-HT\n2A) receptor [ 7–9]. LSD exerts addi-\ntional activity at dopamine D 1-3 receptors, whereas psilocin, the\nactive met"
+      },
+      "study": {
+        "design": "randomized-controlled-trial",
+        "context": "laboratory",
+        "population": "28 名健康成人，14 男、14 女；雙盲隨機交叉設計",
+        "sampleSize": 28,
+        "exposure": "標示 LSD 100/200 µg，psilocybin 15/30 mg；LSD 每個標示 100 µg 單位實測 84.5±0.98 µg，psilocybin 每個標示 5 mg 單位實測 4.61±0.09 mg",
+        "comparator": "安慰劑及相同受試者的其他給藥條件；五次場次間隔至少十天",
+        "timeframe": "每次 25 小時研究場次；重複測量至給藥後 24 小時，另記錄後續不良反應",
+        "overlapFamily": "basel-lsd-trials-overlap"
+      },
+      "result": null,
+      "limitations": [
+        "健康成人在受控環境下的急性效果，不是疾病治療或心理治療試驗。",
+        "標示劑量與實測含量不同；正文使用標示劑量時明確註明，不將模型平均時長當成個人作用時限。",
+        "VAS 焦慮的劑量比較 p=0.054 未達顯著；5D-ASC 焦慮分量表比較另有顯著差異，不混淆指標。",
+        "與合併分析及後續統合分析可能重複資料，不累計成獨立研究人數。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "holze-2022-design",
+      "paperKey": "holze-2022-comparison",
+      "substances": ["lsd"],
+      "sections": ["basics", "benefits", "risks", "therapy"],
+      "kind": "background",
+      "statement": "28 名健康成人的雙盲安慰劑對照隨機交叉試驗，比較 LSD 100/200 µg 與 psilocybin 15/30 mg 標示劑量及安慰劑。",
+      "source": {
+        "pdfPage": 2,
+        "section": "Methods: Study design / Participants",
+        "quote": "The study used a double-blind, placebo-controlled, crossover design with\nﬁve experimental test sessions to investigate responses to ( i) placebo, ( ii)\n100 µg LSD, (iii) 200 µg LSD, ( iv) 15 mg psilocybin, and ( v) 30 mg psilocybin.\nThe order of administration was random and counterbalanced. The\nwashout periods between sessions were at least 10 days. The study was\nconducted in accordance with the Declaration of Helsinki and International\nConference on Harmonization Guidelines in Good Clinical Practice and\napproved by the Ethics Committee of Northwest Switzerland (EKNZ) and\nSwiss Federal Of ﬁce for Public Health. The study was registered at\nClinicalTrials.gov (NCT03604744).\nParticipants\nTwenty-eight healthy participants (14 men and 14 women; mean age ± SD:\n35 ± 9.4 years; range: 25 –52 years) were recruited by word of mouth or\nfrom a pool of volunteers who had contacted our research group because\nthey were interested in participating in a clinical trial that investigated\npsychedelics. All of the subjects provided written informed consent and\nwere paid for their participation. Exclusion criteria were age <25 years or\n>65 years, pregnancy (urine pregnancy test at screening and before each\ntest session), personal or family ( ﬁrst-degree relative) history of major\npsychiatric disorders (assessed by the Semi-structured Clinical Interview for\nDiagnostic and Statistical Manual of Mental Disorders , 4th edition, Axis I\ndisorders by a trained psychiatrist), the use of medications that may\ninterfere with the study medications (e.g., antidepressants, antipsychotics,\nand sedatives), chronic or acute physical illness (e.g., abnormal physical\nexam, electrocardiogram, or hematological and chemical blood analyses),\ntobacco smoking (>10 cigarettes/day), lifetime prevalence of illicit drug use\n>10 times (except for Δ\n9-tetrahydrocannabinol), illicit drug use within the\nlast 2 months, and illicit drug use during the study period (determined by\nurine drug tests). The participants were asked to consume no more than\n10 standard alcoholic drinks/week and have no more than one drink on\nthe day before the test sessions. Fourteen participants had previously used\na psychedelic, including L"
+      },
+      "study": {
+        "design": "randomized-controlled-trial",
+        "context": "laboratory",
+        "population": "28 名健康成人，14 男、14 女；雙盲隨機交叉設計",
+        "sampleSize": 28,
+        "exposure": "標示 LSD 100/200 µg，psilocybin 15/30 mg；LSD 每個標示 100 µg 單位實測 84.5±0.98 µg，psilocybin 每個標示 5 mg 單位實測 4.61±0.09 mg",
+        "comparator": "安慰劑及相同受試者的其他給藥條件；五次場次間隔至少十天",
+        "timeframe": "每次 25 小時研究場次；重複測量至給藥後 24 小時，另記錄後續不良反應",
+        "overlapFamily": "basel-lsd-trials-overlap"
+      },
+      "result": null,
+      "limitations": [
+        "健康成人在受控環境下的急性效果，不是疾病治療或心理治療試驗。",
+        "標示劑量與實測含量不同；正文使用標示劑量時明確註明，不將模型平均時長當成個人作用時限。",
+        "VAS 焦慮的劑量比較 p=0.054 未達顯著；5D-ASC 焦慮分量表比較另有顯著差異，不混淆指標。",
+        "與合併分析及後續統合分析可能重複資料，不累計成獨立研究人數。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "holze-2022-comparison",
+      "paperKey": "holze-2022-comparison",
+      "substances": ["lsd"],
+      "sections": ["basics", "benefits", "risks"],
+      "kind": "result",
+      "statement": "LSD 100/200 µg 與 psilocybin 30 mg 多項高峰主觀效果相近；200 µg LSD 未比 100 µg 產生更高正向藥物效果。",
+      "source": {
+        "pdfPage": 3,
+        "section": "Results",
+        "quote": "LSD at doses of 100 and 200 µg and the psilocybin dose of 30\nmg produced comparable subjective effects. Speci ﬁcally, 200 µg\nLSD produced comparable positive drug effects to 100 µg LSD, but\nthe higher dose produced greater ego-dissolution ( p < 0.05) and a\ntrend toward an increase in anxiety ( p = 0.054). The high 30 mg\npsilocybin dose produced comparable maximal subjective effects\nto the 100 and 200 µg LSD doses, with no signi ﬁcant differences in\nany of the VASs or 5D-ASC subscales. The 200 µg LSD and 30 mg\npsilocybin doses differed only in ratings of “ineffability” on the\nMEQ. Effects of the 15 mg psilocybin dose were signi ﬁcantly lower\nthan the 200 µg LSD dose on the VASs “any drug effect ” (p <\n0.001), “good drug effect ” (p < 0.001), “stimulated” (p < 0.001),\n“talkative” (p < 0.01), “perception of time ” (p < 0.001), and “ego-\ndissolution” (p < 0.001) and 5D-ASC total scores ( p < 0.001) and all\nmain dimensions, including anxious ego dissolution ( p < 0.001),\noceanic boundlessness ( p < 0.001), and visionary restructuraliza-\ntion (p < 0.001). The 15 mg psilocybin dose produced clearly lower\neffects than the 30 mg psilocybin and both LSD doses.\nOn the AMRS, effects of 100 and 200 µg LSD were generally\nnominally higher than 15 and 30 mg psilocybin, and both LSD\ndoses signi ﬁcantly increased “emotional excitation ” compared\nwith psilocybin.\nBoth LSD doses had signi ﬁcantly longer effect durations and an\nearlier onset of effects compared with both doses of psilocybin\n(Table 1).\nThere was no difference in the subjective ef"
+      },
+      "study": {
+        "design": "randomized-controlled-trial",
+        "context": "laboratory",
+        "population": "28 名健康成人，14 男、14 女；雙盲隨機交叉設計",
+        "sampleSize": 28,
+        "exposure": "標示 LSD 100/200 µg，psilocybin 15/30 mg；LSD 每個標示 100 µg 單位實測 84.5±0.98 µg，psilocybin 每個標示 5 mg 單位實測 4.61±0.09 mg",
+        "comparator": "安慰劑及相同受試者的其他給藥條件；五次場次間隔至少十天",
+        "timeframe": "每次 25 小時研究場次；重複測量至給藥後 24 小時，另記錄後續不良反應",
+        "overlapFamily": "basel-lsd-trials-overlap"
+      },
+      "result": null,
+      "limitations": [
+        "健康成人在受控環境下的急性效果，不是疾病治療或心理治療試驗。",
+        "標示劑量與實測含量不同；正文使用標示劑量時明確註明，不將模型平均時長當成個人作用時限。",
+        "VAS 焦慮的劑量比較 p=0.054 未達顯著；5D-ASC 焦慮分量表比較另有顯著差異，不混淆指標。",
+        "與合併分析及後續統合分析可能重複資料，不累計成獨立研究人數。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "holze-2022-duration",
+      "paperKey": "holze-2022-comparison",
+      "substances": ["lsd"],
+      "sections": ["basics"],
+      "kind": "result",
+      "statement": "模型估計主觀作用平均持續時間：psilocybin 15/30 mg 為 5.6/6.5 小時；LSD 100/200 µg 為 9.3/11 小時，皆為標示劑量。",
+      "source": {
+        "pdfPage": 4,
+        "section": "Table 1 and footnote",
+        "quote": "Table 1. Characteristics of the subjective response to different doses of LSD and psilocybin.\nEffect 15 mg Psilocybin 30 mg Psilocybin 100 µg LSD 200 µg LSD F3,81 P =\nTime to onset (h) 0.8 ± 0.3 (0.3 –1.5) 0.8 ± 0.4 (0.1 –1.8) 0.6 ± 0.2 # (0.3–1.0) 0.4 ± 0.2 ***, ### (0.2–0.8) 12.5 <0.001\nTime to offset (h) 6.4 ± 2.1 (3.7 –11) 7.3 ± 2.3 (4.2 –12) 10 ± 3.1 ***, ### (6.3–8.8) 11 ± 3.6 ***, ### (5.8–20) 31.2 <0.001\nTime to maximal effect (h) 2.1 ± 0.5 (1.5 –3.4) 2.3 ± 0.8 (0.5 –3.3) 2.5 ± 0.5** (1.8 –2.4) 2.2 ± 0.6 (1.2 –3.9) 3.8 <0.05\nEffect duration (h) 5.6 ± 2.2 (2.5 –10) 6.5 ± 2.4 (3.7 –12) 9.3 ± 3.2 ***, ### (5.7–17) 11 ± 3.7 ***, ### (5.4–20) 34.4 <0.001\nMaximal effect (%) 58 ± 25 (13 –98) 80 ± 18 *** (43 –100) 77 ± 18*** (33 –100) 87 ± 13*** (46 –100) 20.0 <0.001\nParameters are for “any drug effects” as predicted by the PK-PD link model. The threshold to determine times to onset and offset was set individually at 10% of\nthe individual maximal response. Values are mean ± SD (range).\n**P < 0.01, ***P < 0.001 compared with 15 mg of psilocybin; #P < 0.05, ###P < 0.001 compared with 30 mg of psilocybin.\nF. Holze et al.\n1183\nNeuropsychopharmacology (2022) 47:1180 – 1187"
+      },
+      "study": {
+        "design": "randomized-controlled-trial",
+        "context": "laboratory",
+        "population": "28 名健康成人，14 男、14 女；雙盲隨機交叉設計",
+        "sampleSize": 28,
+        "exposure": "標示 LSD 100/200 µg，psilocybin 15/30 mg；LSD 每個標示 100 µg 單位實測 84.5±0.98 µg，psilocybin 每個標示 5 mg 單位實測 4.61±0.09 mg",
+        "comparator": "安慰劑及相同受試者的其他給藥條件；五次場次間隔至少十天",
+        "timeframe": "每次 25 小時研究場次；重複測量至給藥後 24 小時，另記錄後續不良反應",
+        "overlapFamily": "basel-lsd-trials-overlap"
+      },
+      "result": null,
+      "limitations": [
+        "健康成人在受控環境下的急性效果，不是疾病治療或心理治療試驗。",
+        "標示劑量與實測含量不同；正文使用標示劑量時明確註明，不將模型平均時長當成個人作用時限。",
+        "VAS 焦慮的劑量比較 p=0.054 未達顯著；5D-ASC 焦慮分量表比較另有顯著差異，不混淆指標。",
+        "與合併分析及後續統合分析可能重複資料，不累計成獨立研究人數。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "holze-2022-actual-content",
+      "paperKey": "holze-2022-comparison",
+      "substances": ["lsd"],
+      "sections": ["basics"],
+      "kind": "limitation",
+      "statement": "標示 LSD 100 µg 單位的實測游離鹼含量為 84.5±0.98 µg；psilocybin 標示 5 mg 單位實測為 4.61±0.09 mg。",
+      "source": {
+        "pdfPage": 2,
+        "section": "Methods: Study drugs",
+        "quote": "The exact analytically con ﬁrmed LSD base content (mean ±\nSD) was 84.5 ± 0.98 µg ( n = 10 samples). Stability of the formulation for\nlonger than the study period was documented in an identically produced\nprevious batch [ 19]. Placebo consisted of identical units that were ﬁlled\nwith ethanol only. Psilocybin (99.7% purity; ReseaChem GmbH, Burgdorf,\nSwitzerland) was administered in opaque capsules that contained a 5 mg\ndose of psilocybin dihydrate and an exact analytically con ﬁrmed actual\npsilocybin content of 4.61 ± 0.09 mg (mean ± SD, n = 10 samples). The\nstability of both LSD and psilocybin products was con ﬁrmed after the\nstudy ended. Placebo consisted of identical opaque capsules that were\nﬁlled w"
+      },
+      "study": {
+        "design": "randomized-controlled-trial",
+        "context": "laboratory",
+        "population": "28 名健康成人，14 男、14 女；雙盲隨機交叉設計",
+        "sampleSize": 28,
+        "exposure": "標示 LSD 100/200 µg，psilocybin 15/30 mg；LSD 每個標示 100 µg 單位實測 84.5±0.98 µg，psilocybin 每個標示 5 mg 單位實測 4.61±0.09 mg",
+        "comparator": "安慰劑及相同受試者的其他給藥條件；五次場次間隔至少十天",
+        "timeframe": "每次 25 小時研究場次；重複測量至給藥後 24 小時，另記錄後續不良反應",
+        "overlapFamily": "basel-lsd-trials-overlap"
+      },
+      "result": null,
+      "limitations": [
+        "健康成人在受控環境下的急性效果，不是疾病治療或心理治療試驗。",
+        "標示劑量與實測含量不同；正文使用標示劑量時明確註明，不將模型平均時長當成個人作用時限。",
+        "VAS 焦慮的劑量比較 p=0.054 未達顯著；5D-ASC 焦慮分量表比較另有顯著差異，不混淆指標。",
+        "與合併分析及後續統合分析可能重複資料，不累計成獨立研究人數。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "shinozuka-2024-lsd-networks",
+      "paperKey": "shinozuka-2024-multilevel",
+      "substances": ["lsd"],
+      "sections": ["basics"],
+      "kind": "result",
+      "statement": "分物質影像分析顯示 LSD 下視覺網路內部功能連結下降，網路間連結普遍增加；不可將跨物質 DMN 平均下降套用至 LSD。",
+      "source": {
+        "pdfPage": 6,
+        "section": "Results",
+        "quote": "In addition to aggregating FC across all psychedelics, we\nperformed our analysis separately on each individual psychedelic\n(Fig. S5). All three of the psychedelics signi ﬁcantly reduced the\nwithin-network FC of the visual network while generally elevating\nbetween-network FC. Intriguingly, LSD signi ﬁcantly increased FC\nwithin the DMN, but this is largely due to a high number of\nsigniﬁcant connections that were identi ﬁed in a single study [ 59]\nbetween regions that are typically not considered to be core\nelements of the DMN yet are nevertheless classi ﬁed by the Yeo\nparcellation as regions within the DMN, such as the frontal pole\nand inferior frontal gyrus [ 60–62]. LSD signi ﬁcantly elevated FC\nbetween the limbic network and visual network, as well as\nbetween the limbic network and FPN, whereas FC between the\nlimbic network and all other networks was insigni ﬁcant for\nayahuasca/DMT and psilocybin. Ayahuasca/DMT was the only\npsychedelic to signi ﬁcantly reduce FC between the visual network\nand SMN, as well as between the visual network and DAN. Thus,\nonly ayahuasca/DMT was associated with negative total FC of the\nvisual network (sum of FC between the visual network and all\nother networks), while total FC of the VAN was negative for only\npsilocybin, though this result was driven by the ﬁndings of just a\nsingle study [ 63] (Fig. 4).\nFigures S6–S8 display the results of our meta-analysis on the FC\nof subcortical regions. Because several studies did not measure\nsubcortical FC, most of the subcortical-to-subcortical and\nsubcortical-to-cortical edges"
+      },
+      "study": {
+        "design": "systematic-review-meta-analysis",
+        "context": "review",
+        "population": "DMT、LSD 與 psilocybin 之主觀經驗、神經影像及受體藥理研究",
+        "sampleSize": null,
+        "exposure": "三個層次的系統性綜述及統合分析；神經影像另分物質分析",
+        "comparator": "依分析比較藥物條件、安慰劑或不同物質；跨研究比較非頭對頭試驗",
+        "timeframe": "急性效應；各來源研究的時程不同",
+        "overlapFamily": "basel-lsd-trials-overlap"
+      },
+      "result": null,
+      "limitations": [
+        "跨物質合併結果與 LSD 單獨結果不同；LSD 的 DMN 內部連結結果尤其受單一研究及腦區分區法影響。",
+        "跨研究劑量分組的主觀效果比較不等於同人頭對頭試驗，也不是疾病療效比較。",
+        "研究異質性與偏差風險高；原文 psilocybin／LSD 換算段落有疑似小數誤植，正文不使用該換算。",
+        "原始研究可能與本批試驗及其他統合分析重疊。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "hirschfeld-2023-history",
+      "paperKey": "hirschfeld-2023-dose-response",
+      "substances": ["lsd"],
+      "sections": ["history"],
+      "kind": "background",
+      "statement": "LSD 於 1938 年合成、1943 年由 Hofmann 發現啟靈作用；1950–1970 年代研究包括酒精問題與重大疾病存在性困擾，法規中斷後於 1990 年代恢復。",
+      "source": {
+        "pdfPage": 1,
+        "section": "Introduction",
+        "quote": "After its initial synthesis in 1938, LSD’s psychedelic properties have\naccidentally been discovered in 1943 by the Swiss pharmacologist\nAlbert Hofmann [8]. Ever since, LSD has been the most extensively\ninvestigated psychedelic from the 1950s to the 1970s, with more\nthan 1000 scientiﬁc papers published in the context of basic science,\nas well as in clinical research as a therapeutic tool [ 9–11]. Most\nintensively studied indications included, among others, alcoholism\n[12] and existential distress in life-threatening physical illness [ 13].\nAfter a hiatus of more than 20 years, during which regulatory hurdles\nprevented research on psychedelics, research eventually resumed in\nthe 1990s. Also, in recreational underground use LSD is by far the\nmost frequently used psychedelic worldwide [ 14], and doses of\npsychedelics are often compared to LSD equivalents by user"
+      },
+      "study": {
+        "design": "systematic-review-meta-analysis",
+        "context": "review",
+        "population": "16 項人體研究，765 次 LSD 給藥；包含健康與臨床樣本",
+        "sampleSize": null,
+        "exposure": "4–200 µg LSD 游離鹼等值劑量；5D-ASC、11-ASC、MEQ30 主觀經驗量表",
+        "comparator": "以限制立方樣條統合迴歸估計跨研究劑量反應，不是直接治療比較",
+        "timeframe": "急性主觀效果；各研究程序與測量時點不同",
+        "overlapFamily": "basel-lsd-trials-overlap"
+      },
+      "result": null,
+      "limitations": [
+        "765 是給藥次數而非獨立受試者數；各量表使用的資料集與樣本數不同。",
+        "劑量曲線為跨研究平均估計，不是個人安全劑量或療效曲線；部分量表平台不表示其他效果不再增加。",
+        "綜述背景提及的患者治療試驗未在本批 PDF 中獨立讀取，不能補寫其療效數字。",
+        "與 Holze 2022 及其他合併分析資料重疊，不視為獨立驗證。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "hirschfeld-2023-design",
+      "paperKey": "hirschfeld-2023-dose-response",
+      "substances": ["lsd"],
+      "sections": ["benefits"],
+      "kind": "background",
+      "statement": "統合分析含 16 項研究、765 次 LSD 給藥，劑量為 4–200 µg LSD 游離鹼等值。",
+      "source": {
+        "pdfPage": 2,
+        "section": "Results: Data description",
+        "quote": "Sixteen studies assessing the effects of LSD were included in this\nanalysis, with overall 765 LSD applications. Table 1 contains a\nsummary of studies included in this analysis. From the 11-ASC, 31\nquestionnaire datasets from 15 participant samples were included\nin the analysis; from the 5D-ASC, 18 datasets from nine samples\nwere included; and from the MEQ30, 16 datasets from eight\nsamples were included. Included studies assessed LSD doses\nranging from 4 to 200 μg LSD base.\nDose-response analyses\nRadar charts for each questionnaire and dose-response relation-\nships for"
+      },
+      "study": {
+        "design": "systematic-review-meta-analysis",
+        "context": "review",
+        "population": "16 項人體研究，765 次 LSD 給藥；包含健康與臨床樣本",
+        "sampleSize": null,
+        "exposure": "4–200 µg LSD 游離鹼等值劑量；5D-ASC、11-ASC、MEQ30 主觀經驗量表",
+        "comparator": "以限制立方樣條統合迴歸估計跨研究劑量反應，不是直接治療比較",
+        "timeframe": "急性主觀效果；各研究程序與測量時點不同",
+        "overlapFamily": "basel-lsd-trials-overlap"
+      },
+      "result": null,
+      "limitations": [
+        "765 是給藥次數而非獨立受試者數；各量表使用的資料集與樣本數不同。",
+        "劑量曲線為跨研究平均估計，不是個人安全劑量或療效曲線；部分量表平台不表示其他效果不再增加。",
+        "綜述背景提及的患者治療試驗未在本批 PDF 中獨立讀取，不能補寫其療效數字。",
+        "與 Holze 2022 及其他合併分析資料重疊，不視為獨立驗證。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "hirschfeld-2023-dose-response",
+      "paperKey": "hirschfeld-2023-dose-response",
+      "substances": ["lsd"],
+      "sections": ["benefits"],
+      "kind": "result",
+      "statement": "知覺／想像及正向自我界線消融的劑量調節較強，多數量表平均曲線約在 100 µg 趨平；焦慮等部分指標不具有相同平台。",
+      "source": {
+        "pdfPage": 6,
+        "section": "Discussion: Dose-response relationships",
+        "quote": "We established robust\ndose-response relationships, in which LSD dose increased effects\non all scales and factors of the included questionnaires. On the\n5D- and 11-ASC, the strongest dose-modulation was found for\nitems referring to changes in perception and imagination (Vision-\nary Restructuralization, Changed Meaning of Percepts) as well as\npositively experienced dissolution of boundaries between self and\nsurroundings ( Oceanic Boundlessness ), whereas Anxiety, Auditory\nAlterations and Dread of Ego Dissolution were barely modulated.\nOn the MEQ30, the strongest dose-modulation was found\nfor Ineffability and the weakest for Mystical.\nMost factors and scales exhibit a sigmoid-like shape of dose-\neffects that eitherﬂattens out or reaches a plateau at around 100μg,\nwhile scales and factors with relatively small dose-modulation\n(Auditory Alterations, Dread of Ego-Dissolution, Anxiety) increase\nrather linearly. This is in line with a dose-response, within-subject\nstudy by Holze et al. (2021) that found"
+      },
+      "study": {
+        "design": "systematic-review-meta-analysis",
+        "context": "review",
+        "population": "16 項人體研究，765 次 LSD 給藥；包含健康與臨床樣本",
+        "sampleSize": null,
+        "exposure": "4–200 µg LSD 游離鹼等值劑量；5D-ASC、11-ASC、MEQ30 主觀經驗量表",
+        "comparator": "以限制立方樣條統合迴歸估計跨研究劑量反應，不是直接治療比較",
+        "timeframe": "急性主觀效果；各研究程序與測量時點不同",
+        "overlapFamily": "basel-lsd-trials-overlap"
+      },
+      "result": null,
+      "limitations": [
+        "765 是給藥次數而非獨立受試者數；各量表使用的資料集與樣本數不同。",
+        "劑量曲線為跨研究平均估計，不是個人安全劑量或療效曲線；部分量表平台不表示其他效果不再增加。",
+        "綜述背景提及的患者治療試驗未在本批 PDF 中獨立讀取，不能補寫其療效數字。",
+        "與 Holze 2022 及其他合併分析資料重疊，不視為獨立驗證。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "vizeli-2024-design",
+      "paperKey": "vizeli-2024-predictors",
+      "substances": ["lsd"],
+      "sections": ["benefits", "risks"],
+      "kind": "background",
+      "statement": "合併九項受控交叉試驗共 213 名健康成人，297 次 LSD 單獨給藥場次。",
+      "source": {
+        "pdfPage": 2,
+        "section": "Methods",
+        "quote": "The studies\nwere conducted at the University Hospital Basel from 2014 to 2023 and\nincluded a total of 213 healthy subjects, in 297 LSD-only sessions and 189\nplacebo sessions. Some studies included conditions with LSD plus another\nsubstance. In the present analysis, only data from the LSD-alone ( N = 297)\nand placebo ( N = 189) sessions were used. Study #8 [ 30] did not include a\nplacebo session. Details are shown in the Supplemental Material.\nSubjects\nA total of 213 (108 female) healthy subjects, aged 25 –64 years\n(mean ± SD = 32 ± 9 years), were recruited from the campus of the\nUniversity of Basel and participated in the study. The mean ± SD body\nweight was 70 ± 12 kg (range: 50 –104 kg). A detailed summary of the\nincluded study population is provided in Supplementary Table S1.\nExclusion criteria are in the Supplemental Material.\nStudy drug\nLSD base (D-lysergic acid diethylamide, Lipomed AG, Arlesheim,\nSwitzerland) was administered orally at a single dose of 25, 50, 100,\nand 200 µg prepared as gelatine capsules [ 9, 32] or as drinking solution\n([10, 11, 13, 23, 30, 31], NCT04865653) in ﬂasks that contained 25 or\n100 µg LSD in 1 mL of 96% ethanol. Content uniformity and the\nanalytically con ﬁrmed amount of LSD freebase were available for all but\nthe ﬁrst two studies [ 33]. The actual doses of the ﬁr"
+      },
+      "study": {
+        "design": "pooled-trial-analysis",
+        "context": "laboratory",
+        "population": "九項受控交叉試驗中的 213 名健康成人；297 次 LSD 單獨給藥場次",
+        "sampleSize": 213,
+        "exposure": "LSD 標示劑量 25–200 µg，分析藥理、人格及給藥前心理狀態等預測因子",
+        "comparator": "混合效應與 LASSO 模型，校正劑量及多重比較；非心理狀態隨機介入",
+        "timeframe": "單次給藥的急性經驗與生理反應",
+        "overlapFamily": "basel-lsd-trials-overlap"
+      },
+      "result": null,
+      "limitations": [
+        "健康成人實驗室急性經驗，並非患者療效；人格及心理狀態的關聯並非隨機操控效果。",
+        "297 是 LSD 給藥場次而非人數；九項研究與 Holze 2022 等 Basel 原始試驗有重疊，不當成獨立重複驗證。",
+        "部分未校正關聯在多重比較後不成立；正文採校正後結果。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "vizeli-2024-wellbeing",
+      "paperKey": "vizeli-2024-predictors",
+      "substances": ["lsd"],
+      "sections": ["benefits"],
+      "kind": "result",
+      "statement": "劑量之外，給藥前整體心理狀態為多項主觀效果的重要預測因子。",
+      "source": {
+        "pdfPage": 2,
+        "section": "Results",
+        "quote": "Apart from drug dose, mental mood state before drug intake,\nspeciﬁcally “General Well-Being ” was the second strongest\npredictor of subjective effects of LSD. It showed signi ﬁcant\nassociations with all subjective effects, except for VAS “bad drug\nP. Vizeli et al.\n2\nTranslational Psychiatry          (2024) 14:357"
+      },
+      "study": {
+        "design": "pooled-trial-analysis",
+        "context": "laboratory",
+        "population": "九項受控交叉試驗中的 213 名健康成人；297 次 LSD 單獨給藥場次",
+        "sampleSize": 213,
+        "exposure": "LSD 標示劑量 25–200 µg，分析藥理、人格及給藥前心理狀態等預測因子",
+        "comparator": "混合效應與 LASSO 模型，校正劑量及多重比較；非心理狀態隨機介入",
+        "timeframe": "單次給藥的急性經驗與生理反應",
+        "overlapFamily": "basel-lsd-trials-overlap"
+      },
+      "result": null,
+      "limitations": [
+        "健康成人實驗室急性經驗，並非患者療效；人格及心理狀態的關聯並非隨機操控效果。",
+        "297 是 LSD 給藥場次而非人數；九項研究與 Holze 2022 等 Basel 原始試驗有重疊，不當成獨立重複驗證。",
+        "部分未校正關聯在多重比較後不成立；正文採校正後結果。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "vizeli-2024-wellbeing-outcomes",
+      "paperKey": "vizeli-2024-predictors",
+      "substances": ["lsd"],
+      "sections": ["benefits"],
+      "kind": "result",
+      "statement": "整體心理狀態與意識改變、正向藥物感受及 Oceanic Boundlessness 的關聯。",
+      "source": {
+        "pdfPage": 3,
+        "section": "Results",
+        "quote": "Among the most statistically signi ﬁcant associa-\ntion observed with “General Well-Being ” was the 5D-ASC total\nscore, followed by the VAS scale “good drug effect ”, and “Oceanic\nBoundlessness” in the 5D-ASC. “Performance-Related Activity ”,\n“Emotional Excitability ”, “Extraversion”, and “Anxiety” before drug\nintake were other important predictors"
+      },
+      "study": {
+        "design": "pooled-trial-analysis",
+        "context": "laboratory",
+        "population": "九項受控交叉試驗中的 213 名健康成人；297 次 LSD 單獨給藥場次",
+        "sampleSize": 213,
+        "exposure": "LSD 標示劑量 25–200 µg，分析藥理、人格及給藥前心理狀態等預測因子",
+        "comparator": "混合效應與 LASSO 模型，校正劑量及多重比較；非心理狀態隨機介入",
+        "timeframe": "單次給藥的急性經驗與生理反應",
+        "overlapFamily": "basel-lsd-trials-overlap"
+      },
+      "result": null,
+      "limitations": [
+        "健康成人實驗室急性經驗，並非患者療效；人格及心理狀態的關聯並非隨機操控效果。",
+        "297 是 LSD 給藥場次而非人數；九項研究與 Holze 2022 等 Basel 原始試驗有重疊，不當成獨立重複驗證。",
+        "部分未校正關聯在多重比較後不成立；正文採校正後結果。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "vizeli-2024-openness",
+      "paperKey": "vizeli-2024-predictors",
+      "substances": ["lsd"],
+      "sections": ["benefits"],
+      "kind": "result",
+      "statement": "經驗開放性與 Oceanic Boundlessness、靈性經驗、洞察感、MEQ30 及其正向情緒等分數相關。",
+      "source": {
+        "pdfPage": 3,
+        "section": "Results",
+        "quote": "The personality trait “Openness to Experience ” captured by the\nNEO-FFI questionnaire predicted 5D-ASC “Oceanic Boundless-\nness”, “Spiritual Experience ”, and “Insightfulness” and the total\nMEQ30 score, as well as the MEQ30 subscales “Mystical”, and\n“Positive Mood ”. Furthermore, the trait “Extraversion” was\npositively associated with the 5D-ASC total score and the\nsubscales “Visionary Restructuralization ”, “Auditory Alteration ”,\nand “Audio Visual Synesthesia ”. The character traits “Neuroticism”,\n“Agre"
+      },
+      "study": {
+        "design": "pooled-trial-analysis",
+        "context": "laboratory",
+        "population": "九項受控交叉試驗中的 213 名健康成人；297 次 LSD 單獨給藥場次",
+        "sampleSize": 213,
+        "exposure": "LSD 標示劑量 25–200 µg，分析藥理、人格及給藥前心理狀態等預測因子",
+        "comparator": "混合效應與 LASSO 模型，校正劑量及多重比較；非心理狀態隨機介入",
+        "timeframe": "單次給藥的急性經驗與生理反應",
+        "overlapFamily": "basel-lsd-trials-overlap"
+      },
+      "result": null,
+      "limitations": [
+        "健康成人實驗室急性經驗，並非患者療效；人格及心理狀態的關聯並非隨機操控效果。",
+        "297 是 LSD 給藥場次而非人數；九項研究與 Holze 2022 等 Basel 原始試驗有重疊，不當成獨立重複驗證。",
+        "部分未校正關聯在多重比較後不成立；正文採校正後結果。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "holze-2022-anxiety",
+      "paperKey": "holze-2022-comparison",
+      "substances": ["lsd"],
+      "sections": ["risks"],
+      "kind": "result",
+      "statement": "200 與 100 µg LSD 在 5D-ASC 焦慮、自我消融焦慮、控制與認知受損指標上有顯著差異。",
+      "source": {
+        "pdfPage": 3,
+        "section": "Figure 1 caption",
+        "quote": "Fig. 1 Acute alterations of mind on the 5 Dimensions of Altered\nStates of Consciousness (5D-ASC) scale. Psilocybin at 30 mg\nproduced alterations of mind that were nominally similar to 100\nµg LSD and not signi ﬁcantly different from either 100 or 200 µg LSD.\nLSD at 100 and 200 µg signi ﬁcantly differed only in the “Anxious Ego\nDissolution” total score and the “impaired control and cognition ”\nand “anxiety” subscales. Effects of the 15 mg psilocybin dose were\nclearly lower than 100 and 200 µg LSD and 30 mg psilocybin on\nmost subscales. Placebo scores were too low for visualization. The\ndata are expressed as the mean ± SEM percentage of maximally\npossible scale scores in 28 subjects. Statistics are shown in\nSupplementary Table S1.\nF. Holze et al.\n1182\nNeuropsychopharmacology (2022) 47:1180 – 1187"
+      },
+      "study": {
+        "design": "randomized-controlled-trial",
+        "context": "laboratory",
+        "population": "28 名健康成人，14 男、14 女；雙盲隨機交叉設計",
+        "sampleSize": 28,
+        "exposure": "標示 LSD 100/200 µg，psilocybin 15/30 mg；LSD 每個標示 100 µg 單位實測 84.5±0.98 µg，psilocybin 每個標示 5 mg 單位實測 4.61±0.09 mg",
+        "comparator": "安慰劑及相同受試者的其他給藥條件；五次場次間隔至少十天",
+        "timeframe": "每次 25 小時研究場次；重複測量至給藥後 24 小時，另記錄後續不良反應",
+        "overlapFamily": "basel-lsd-trials-overlap"
+      },
+      "result": null,
+      "limitations": [
+        "健康成人在受控環境下的急性效果，不是疾病治療或心理治療試驗。",
+        "標示劑量與實測含量不同；正文使用標示劑量時明確註明，不將模型平均時長當成個人作用時限。",
+        "VAS 焦慮的劑量比較 p=0.054 未達顯著；5D-ASC 焦慮分量表比較另有顯著差異，不混淆指標。",
+        "與合併分析及後續統合分析可能重複資料，不累計成獨立研究人數。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "vizeli-2024-anxiety",
+      "paperKey": "vizeli-2024-predictors",
+      "substances": ["lsd"],
+      "sections": ["risks"],
+      "kind": "result",
+      "statement": "給藥前焦慮與 LSD 作用期間較高 5D-ASC 焦慮分量表得分相關。",
+      "source": {
+        "pdfPage": 3,
+        "section": "Results",
+        "quote": "AMRS “Anxiety” before drug intake also predicted higher scores in\nthe 5D-ASC subscale “Anxiety” during the experience. State\n“Introversion” did not predict any response variable.\nThe personality trait “Openness"
+      },
+      "study": {
+        "design": "pooled-trial-analysis",
+        "context": "laboratory",
+        "population": "九項受控交叉試驗中的 213 名健康成人；297 次 LSD 單獨給藥場次",
+        "sampleSize": 213,
+        "exposure": "LSD 標示劑量 25–200 µg，分析藥理、人格及給藥前心理狀態等預測因子",
+        "comparator": "混合效應與 LASSO 模型，校正劑量及多重比較；非心理狀態隨機介入",
+        "timeframe": "單次給藥的急性經驗與生理反應",
+        "overlapFamily": "basel-lsd-trials-overlap"
+      },
+      "result": null,
+      "limitations": [
+        "健康成人實驗室急性經驗，並非患者療效；人格及心理狀態的關聯並非隨機操控效果。",
+        "297 是 LSD 給藥場次而非人數；九項研究與 Holze 2022 等 Basel 原始試驗有重疊，不當成獨立重複驗證。",
+        "部分未校正關聯在多重比較後不成立；正文採校正後結果。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "holze-2022-autonomic",
+      "paperKey": "holze-2022-comparison",
+      "substances": ["lsd"],
+      "sections": ["risks"],
+      "kind": "result",
+      "statement": "相較安慰劑，LSD 增加血壓、體溫、瞳孔大小；LSD 的心率升幅也高於安慰劑。",
+      "source": {
+        "pdfPage": 3,
+        "section": "Results",
+        "quote": "Both LSD and\npsilocybin signi ﬁcantly increased diastolic and systolic blood\npressure, body temperature, and pupil size compared with\nplacebo. LSD increased blood pressure and body temperature\nonly moderately, whereas 30 mg psilocybin produced signi ﬁcantly\ngreater increases in blood pressure and body temperature\ncompared with LSD and 15 mg psilocybin. In contrast, both LSD\ndoses produced a greater increase in heart rate compared with\nboth psilocybin doses and placebo. Psilocybin at a dose of 30 mg\nbut not 15 mg moderately increased heart rate compared with\nplacebo.\nBoth LSD and psilocybin increased pupil size at both doses\n(Supplementary Fig. S4 and Supplementary Table S5). Further-\nmore, 200 µg LSD and 30 mg psilocybin signi ﬁcantly impaired\nnormal light-induced pupil constriction compared with placebo.\nLSD and psilocybin at both doses increased"
+      },
+      "study": {
+        "design": "randomized-controlled-trial",
+        "context": "laboratory",
+        "population": "28 名健康成人，14 男、14 女；雙盲隨機交叉設計",
+        "sampleSize": 28,
+        "exposure": "標示 LSD 100/200 µg，psilocybin 15/30 mg；LSD 每個標示 100 µg 單位實測 84.5±0.98 µg，psilocybin 每個標示 5 mg 單位實測 4.61±0.09 mg",
+        "comparator": "安慰劑及相同受試者的其他給藥條件；五次場次間隔至少十天",
+        "timeframe": "每次 25 小時研究場次；重複測量至給藥後 24 小時，另記錄後續不良反應",
+        "overlapFamily": "basel-lsd-trials-overlap"
+      },
+      "result": null,
+      "limitations": [
+        "健康成人在受控環境下的急性效果，不是疾病治療或心理治療試驗。",
+        "標示劑量與實測含量不同；正文使用標示劑量時明確註明，不將模型平均時長當成個人作用時限。",
+        "VAS 焦慮的劑量比較 p=0.054 未達顯著；5D-ASC 焦慮分量表比較另有顯著差異，不混淆指標。",
+        "與合併分析及後續統合分析可能重複資料，不累計成獨立研究人數。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "holze-2022-aftereffects",
+      "paperKey": "holze-2022-comparison",
+      "substances": ["lsd"],
+      "sections": ["risks"],
+      "kind": "result",
+      "statement": "LSD 後回報頭痛、偏頭痛、情緒低落、噁心、坐立不安等，並有短暫閃回樣經驗。",
+      "source": {
+        "pdfPage": 4,
+        "section": "Results",
+        "quote": "Adverse aftereffects included headaches (four subjects after\npsilocybin and three after LSD), migraine attack (one subject after\nLSD), nosebleeds (one subject after psilocybin), low mood (two\nsubjects after psilocybin and two subjects after LSD), nausea (two\nsubjects after psilocybin and one subject after LSD), nightmares\n(one subject after psilocybin), restlessness (one subject after\npsilocybin and one subject after LSD), vivid dreams (one subject\nafter LSD), insomnia (one subject after psilocybin), and involuntary\nmovement of the lower extremities (one subject after LSD). Nine\nﬂashback episodes occurred in ﬁve subjects (one to 20 times\nwithin 72 h after substance administration; ﬁve episodes after LSD\nadministration and four episodes after psilocybin administration).\nAltogether, the type and number of adverse events after acute\npsilocybin and LSD administration were comparable. No severe\nadverse events were observed.\nEndocrine effects and BDNF\nEffects of LSD and psilocybin on plasma levels of cortisol, PRL,\noxytocin, and BDNF are shown in Supplementary Fig. S5 a"
+      },
+      "study": {
+        "design": "randomized-controlled-trial",
+        "context": "laboratory",
+        "population": "28 名健康成人，14 男、14 女；雙盲隨機交叉設計",
+        "sampleSize": 28,
+        "exposure": "標示 LSD 100/200 µg，psilocybin 15/30 mg；LSD 每個標示 100 µg 單位實測 84.5±0.98 µg，psilocybin 每個標示 5 mg 單位實測 4.61±0.09 mg",
+        "comparator": "安慰劑及相同受試者的其他給藥條件；五次場次間隔至少十天",
+        "timeframe": "每次 25 小時研究場次；重複測量至給藥後 24 小時，另記錄後續不良反應",
+        "overlapFamily": "basel-lsd-trials-overlap"
+      },
+      "result": null,
+      "limitations": [
+        "健康成人在受控環境下的急性效果，不是疾病治療或心理治療試驗。",
+        "標示劑量與實測含量不同；正文使用標示劑量時明確註明，不將模型平均時長當成個人作用時限。",
+        "VAS 焦慮的劑量比較 p=0.054 未達顯著；5D-ASC 焦慮分量表比較另有顯著差異，不混淆指標。",
+        "與合併分析及後續統合分析可能重複資料，不累計成獨立研究人數。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "harris-blum-2024-design",
+      "paperKey": "harris-blum-2024-adolescence",
+      "substances": ["lsd"],
+      "sections": ["risks"],
+      "kind": "background",
+      "statement": "青春期小鼠隨機分生理食鹽水、單次 LSD 與十四天六次 LSD；重複給藥組一隻原因不明死亡。",
+      "source": {
+        "pdfPage": 2,
+        "section": "Methods: LSD preparation and administration",
+        "quote": "Animals were randomly divided into three groups: vehicle, \nsingle-dose LSD, and multi-dose LSD. Body weights ranged between 20 and 24 g. Each mouse received a 100 µl \ngavage (syringe 2″ -curved needle w/2 mm ball-tip) for an approximate dose of 3.3 µg of LSD or 70 µg/kg. \nThe dose was chosen based on low-moderate doses used in other pre-clinical  studies27–30. Head twitching was \nobserved within minutes of treatment. The vehicle group received a comparable volume 0.9% saline. The multi-\ndose group was gavaged a total of six times over 14 days. Time between treatments varied between 2 and 3 days. \nOne mouse from the multi-dose group died for reasons unknown.\nImage set‑up and data acquisition\nA detailed descripti"
+      },
+      "study": {
+        "design": "animal-experiment",
+        "context": "preclinical-animal",
+        "population": "青春期 C57BL/J6 小鼠；雌雄各半，出生後第 51 天開始給藥",
+        "sampleSize": 36,
+        "exposure": "口服灌胃 LSD：單次，或十四天內六次；每次原文記為 3.3 µg 或 70 µg/kg",
+        "comparator": "0.9% 生理食鹽水；單次與重複給藥條件比較",
+        "timeframe": "開放場三週、新物體偏好四週；MRI 首次暴露後六至八週",
+        "overlapFamily": "harris-blum-2024-mouse-cohort"
+      },
+      "result": null,
+      "limitations": [
+        "小鼠發育與影像結果不等於人類療效或組織病理損傷。",
+        "原文同時記載 3.3 µg、70 µg/kg 與體重 20–24 g，劑量表達不相符；正文不換算或引用該劑量。",
+        "重複給藥組一隻小鼠原因不明死亡；不同分析的有效樣本數與缺失應依原文。",
+        "開放場 F 值與 p 值的對應有疑點，正文不重報該統計；新物體辨識比例未顯著不表示所有行為均無變化。",
+        "影像為間接指標；多重比較採用的 FDR 設定與附表需在進一步品質評估時檢視。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "harris-blum-2024-age",
+      "paperKey": "harris-blum-2024-adolescence",
+      "substances": ["lsd"],
+      "sections": ["risks"],
+      "kind": "background",
+      "statement": "實驗從出生後第 51 天開始。",
+      "source": {
+        "pdfPage": 2,
+        "section": "Methods: Animals",
+        "quote": "All experiments were \nstarted on postnatal day 51 and conducted under dim red illumination between 10:00 h and 18:0"
+      },
+      "study": {
+        "design": "animal-experiment",
+        "context": "preclinical-animal",
+        "population": "青春期 C57BL/J6 小鼠；雌雄各半，出生後第 51 天開始給藥",
+        "sampleSize": 36,
+        "exposure": "口服灌胃 LSD：單次，或十四天內六次；每次原文記為 3.3 µg 或 70 µg/kg",
+        "comparator": "0.9% 生理食鹽水；單次與重複給藥條件比較",
+        "timeframe": "開放場三週、新物體偏好四週；MRI 首次暴露後六至八週",
+        "overlapFamily": "harris-blum-2024-mouse-cohort"
+      },
+      "result": null,
+      "limitations": [
+        "小鼠發育與影像結果不等於人類療效或組織病理損傷。",
+        "原文同時記載 3.3 µg、70 µg/kg 與體重 20–24 g，劑量表達不相符；正文不換算或引用該劑量。",
+        "重複給藥組一隻小鼠原因不明死亡；不同分析的有效樣本數與缺失應依原文。",
+        "開放場 F 值與 p 值的對應有疑點，正文不重報該統計；新物體辨識比例未顯著不表示所有行為均無變化。",
+        "影像為間接指標；多重比較採用的 FDR 設定與附表需在進一步品質評估時檢視。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "harris-blum-2024-mri-time",
+      "paperKey": "harris-blum-2024-adolescence",
+      "substances": ["lsd"],
+      "sections": ["risks"],
+      "kind": "background",
+      "statement": "MRI 在首次 LSD 暴露後六至八週執行。",
+      "source": {
+        "pdfPage": 3,
+        "section": "Methods: Image acquisition",
+        "quote": "All mice were imaged between six \nto eight weeks following their first exposure to LSD.\nVoxel based"
+      },
+      "study": {
+        "design": "animal-experiment",
+        "context": "preclinical-animal",
+        "population": "青春期 C57BL/J6 小鼠；雌雄各半，出生後第 51 天開始給藥",
+        "sampleSize": 36,
+        "exposure": "口服灌胃 LSD：單次，或十四天內六次；每次原文記為 3.3 µg 或 70 µg/kg",
+        "comparator": "0.9% 生理食鹽水；單次與重複給藥條件比較",
+        "timeframe": "開放場三週、新物體偏好四週；MRI 首次暴露後六至八週",
+        "overlapFamily": "harris-blum-2024-mouse-cohort"
+      },
+      "result": null,
+      "limitations": [
+        "小鼠發育與影像結果不等於人類療效或組織病理損傷。",
+        "原文同時記載 3.3 µg、70 µg/kg 與體重 20–24 g，劑量表達不相符；正文不換算或引用該劑量。",
+        "重複給藥組一隻小鼠原因不明死亡；不同分析的有效樣本數與缺失應依原文。",
+        "開放場 F 值與 p 值的對應有疑點，正文不重報該統計；新物體辨識比例未顯著不表示所有行為均無變化。",
+        "影像為間接指標；多重比較採用的 FDR 設定與附表需在進一步品質評估時檢視。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "harris-blum-2024-diffusion",
+      "paperKey": "harris-blum-2024-adolescence",
+      "substances": ["lsd"],
+      "sections": ["risks"],
+      "kind": "result",
+      "statement": "重複 LSD 給藥組在多腦區水分子擴散影像指標出現差異。",
+      "source": {
+        "pdfPage": 6,
+        "section": "Results: Diffusion weighted imaging",
+        "quote": "Diffusion weighted imaging: apparent diffusion coefficient\nTable 1 shows the significant changes in measures of ADC between vehicle and single dose LSD. Only 9/139 \nbrain areas showed a significant difference. These areas are ranked in order of their significance. Reported is \nthe mean and standard deviation (SD) for vehicle and LSD conditions together with probability values and the \nomega square (ω Sq) for effect size. The critical value was set at p < 0.05. An FDR for multi-comparisons gave \na significant level of p = 0.012. In contrast, Table 2 lists 74/139 brains areas that showed significant changes fol-\nlowing multiple dose LSD. In all cases, there was a greater measure of ADC with LSD treatment. The location \nof many of these brains areas are shown in the 2D maps and summarized in the 3D reconstructions in Fig. 2.  \nShown in Table 3 are the significant changes in measures of FA between vehicle and single dose LSD. Only \n11/139 brain areas showed a significant difference. An FDR for multi-comparisons gave a significant level of \np = 0.016. Table 4 lists values for FA for multiple dose LSD. 17/139 brain areas showed a significant decrease in \nFA values. An FDR gave a significant value of p = 0.024. It is noteworthy that several areas associated with the \nascending reticular activating system were affected e.g., pedunculopontine tegmentum, parabrachial n., locus \ncoeruleus, pontine reticular n. and reticulotegmental n. Tables of FA and ADC values for all brain areas are found \nin Supplementary Excel Files S2 and S3, respectively.\nFigure 2 shows the anatomical localization of the brain areas listed in Table  2 presented as stati"
+      },
+      "study": {
+        "design": "animal-experiment",
+        "context": "preclinical-animal",
+        "population": "青春期 C57BL/J6 小鼠；雌雄各半，出生後第 51 天開始給藥",
+        "sampleSize": 36,
+        "exposure": "口服灌胃 LSD：單次，或十四天內六次；每次原文記為 3.3 µg 或 70 µg/kg",
+        "comparator": "0.9% 生理食鹽水；單次與重複給藥條件比較",
+        "timeframe": "開放場三週、新物體偏好四週；MRI 首次暴露後六至八週",
+        "overlapFamily": "harris-blum-2024-mouse-cohort"
+      },
+      "result": null,
+      "limitations": [
+        "小鼠發育與影像結果不等於人類療效或組織病理損傷。",
+        "原文同時記載 3.3 µg、70 µg/kg 與體重 20–24 g，劑量表達不相符；正文不換算或引用該劑量。",
+        "重複給藥組一隻小鼠原因不明死亡；不同分析的有效樣本數與缺失應依原文。",
+        "開放場 F 值與 p 值的對應有疑點，正文不重報該統計；新物體辨識比例未顯著不表示所有行為均無變化。",
+        "影像為間接指標；多重比較採用的 FDR 設定與附表需在進一步品質評估時檢視。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "harris-blum-2024-connectivity",
+      "paperKey": "harris-blum-2024-adolescence",
+      "substances": ["lsd"],
+      "sections": ["risks"],
+      "kind": "result",
+      "statement": "重複給藥組相較生理食鹽水，整體網路連結數減少。",
+      "source": {
+        "pdfPage": 6,
+        "section": "Results: Resting state functional connectivity",
+        "quote": "Resting state functional connectivity\nThe percentage change in degrees (connections) for all 139 brain areas between multidose LSD and vehicle \ncontrols are shown in Fig. 3a as violin plots i.e., the probability distribution of the numerical data for each group \nand their mean difference (MD). The multidose group had significantly fewer connections (two-tailed, paired \nt-test, p < 0.0001). The vehicle global network density was 0.070 and the average degree 9.518. The multiple LSD \nglobal network density was 0.063 and the average degree 8.555.\nW"
+      },
+      "study": {
+        "design": "animal-experiment",
+        "context": "preclinical-animal",
+        "population": "青春期 C57BL/J6 小鼠；雌雄各半，出生後第 51 天開始給藥",
+        "sampleSize": 36,
+        "exposure": "口服灌胃 LSD：單次，或十四天內六次；每次原文記為 3.3 µg 或 70 µg/kg",
+        "comparator": "0.9% 生理食鹽水；單次與重複給藥條件比較",
+        "timeframe": "開放場三週、新物體偏好四週；MRI 首次暴露後六至八週",
+        "overlapFamily": "harris-blum-2024-mouse-cohort"
+      },
+      "result": null,
+      "limitations": [
+        "小鼠發育與影像結果不等於人類療效或組織病理損傷。",
+        "原文同時記載 3.3 µg、70 µg/kg 與體重 20–24 g，劑量表達不相符；正文不換算或引用該劑量。",
+        "重複給藥組一隻小鼠原因不明死亡；不同分析的有效樣本數與缺失應依原文。",
+        "開放場 F 值與 p 值的對應有疑點，正文不重報該統計；新物體辨識比例未顯著不表示所有行為均無變化。",
+        "影像為間接指標；多重比較採用的 FDR 設定與附表需在進一步品質評估時檢視。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "harris-blum-2024-recognition",
+      "paperKey": "harris-blum-2024-adolescence",
+      "substances": ["lsd"],
+      "sections": ["risks"],
+      "kind": "background",
+      "statement": "新物體辨識於 LSD 暴露後四週測試。",
+      "source": {
+        "pdfPage": 5,
+        "section": "Methods: Novel object preference",
+        "quote": "Novel object preference (NOP) test\nNOP was conducted four weeks after LSD exposure to assess the longitudinal cognitive effects of LSD use during \nadolescence. NOP consisted of one acclimation day (habituation), one day of familiarization, and a third day of \ntesting for novel object recognition. The box and objects were cleaned with 70% isopropyl alcohol between each \nmouse exposure to eliminate olfactory cues.\nAt the start of the study, each mouse was placed in an empty 1764  cm2 Plexiglas box for 3 min each for habitu-\nation. There were two phases that each mouse had to go through after habituation: the Familiar Phase and the \nNovel Phase. 24 h after habituation, the mice were placed in the same box with two identical objects for 5 min \nfor familiarization. Two objects (toy pig and blue shape) with different size, color, and texture were used for the \nNOP test. Half of each testing group was familiarized with an identical set of either the blue toy or the toy pig. \n18 h later, for the Novel Phase, the mice spent another 5 min in the box with one familiar object and one novel \nobject. The Novel Phase was filmed and uploaded to ANY-Maze software for tracking and analysis. Recorded \nmeasures included total time spent investigating the novel object, total time investigating familiar object, number \nof investigations of each object, and discrimination between objects.\nInvestigation ratios (IR = time spent investigating the novel object/ time spent investigating both objects) \nwere assessed using single-sample, two-tailed t-tests, and performance was compared to chance (i.e., IR = 0.5). \nAn investigation ratio significantly greater than 0.5 indicates that the mice were spending more time with the \nnovel object. Conversely, a ratio significantly smaller than chance was used as an index of a preference for the \nfamiliar object. Analysis was performed with GraphPad Prism.\nResults\nOpen‑field te"
+      },
+      "study": {
+        "design": "animal-experiment",
+        "context": "preclinical-animal",
+        "population": "青春期 C57BL/J6 小鼠；雌雄各半，出生後第 51 天開始給藥",
+        "sampleSize": 36,
+        "exposure": "口服灌胃 LSD：單次，或十四天內六次；每次原文記為 3.3 µg 或 70 µg/kg",
+        "comparator": "0.9% 生理食鹽水；單次與重複給藥條件比較",
+        "timeframe": "開放場三週、新物體偏好四週；MRI 首次暴露後六至八週",
+        "overlapFamily": "harris-blum-2024-mouse-cohort"
+      },
+      "result": null,
+      "limitations": [
+        "小鼠發育與影像結果不等於人類療效或組織病理損傷。",
+        "原文同時記載 3.3 µg、70 µg/kg 與體重 20–24 g，劑量表達不相符；正文不換算或引用該劑量。",
+        "重複給藥組一隻小鼠原因不明死亡；不同分析的有效樣本數與缺失應依原文。",
+        "開放場 F 值與 p 值的對應有疑點，正文不重報該統計；新物體辨識比例未顯著不表示所有行為均無變化。",
+        "影像為間接指標；多重比較採用的 FDR 設定與附表需在進一步品質評估時檢視。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "harris-blum-2024-recognition-result",
+      "paperKey": "harris-blum-2024-adolescence",
+      "substances": ["lsd"],
+      "sections": ["risks"],
+      "kind": "result",
+      "statement": "各組新物體探索比例無顯著差異；重複給藥組接近新物體更快、單次探索熟悉物體較久。",
+      "source": {
+        "pdfPage": 5,
+        "section": "Results: Novel object recognition",
+        "quote": "Figure 1b are scatter plots of the \ninvestigation ratio or time spent with the novel object as compared to both objects. A one-sample t test showed \nall experimental conditions were significantly greater than chance (p < 0.0001). While there were no differences \nbetween groups in investigation ratio there were subtle but significant differences in behavior toward the novel \nand familiar objects. The latency from the time the mice were introduced to the testing box and their approach \nto the novel object was significantly different between groups  (F(2, 31) = 4.914, p = 0.014). A post hoc test showed \nthe multidose group was significantly less than vehicle (p < 0.05). The duration of time or a single bout mice \nspent with the familiar object was significantly different between groups  (F(2,32) = 5.585, p = 0.008). Tukey’s post \nhoc test showed the multidose group was significantly greater than either vehicle or single dose groups (p < 0.05).\nVoxel based morphometry\nShown in tables in Supplementary Excel File S1 are the significant changes in brain volumes  (mm3) between \nsingle and multidose LSD treatments as compared to vehicle. In both treatments the changes were minimal. \nFigure 1.  Behavior. Open field. (a) The scatter plots show the time spent in the center of the open field and \nthe distanced traveled for each of the experi"
+      },
+      "study": {
+        "design": "animal-experiment",
+        "context": "preclinical-animal",
+        "population": "青春期 C57BL/J6 小鼠；雌雄各半，出生後第 51 天開始給藥",
+        "sampleSize": 36,
+        "exposure": "口服灌胃 LSD：單次，或十四天內六次；每次原文記為 3.3 µg 或 70 µg/kg",
+        "comparator": "0.9% 生理食鹽水；單次與重複給藥條件比較",
+        "timeframe": "開放場三週、新物體偏好四週；MRI 首次暴露後六至八週",
+        "overlapFamily": "harris-blum-2024-mouse-cohort"
+      },
+      "result": null,
+      "limitations": [
+        "小鼠發育與影像結果不等於人類療效或組織病理損傷。",
+        "原文同時記載 3.3 µg、70 µg/kg 與體重 20–24 g，劑量表達不相符；正文不換算或引用該劑量。",
+        "重複給藥組一隻小鼠原因不明死亡；不同分析的有效樣本數與缺失應依原文。",
+        "開放場 F 值與 p 值的對應有疑點，正文不重報該統計；新物體辨識比例未顯著不表示所有行為均無變化。",
+        "影像為間接指標；多重比較採用的 FDR 設定與附表需在進一步品質評估時檢視。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "hirschfeld-2023-therapy",
+      "paperKey": "hirschfeld-2023-dose-response",
+      "substances": ["lsd"],
+      "sections": ["therapy"],
+      "kind": "background",
+      "statement": "綜述背景提及 LSD 用於伴隨或未伴隨危及生命疾病患者之焦慮與憂鬱治療研究，本文統合分析本身評估急性主觀經驗。",
+      "source": {
+        "pdfPage": 1,
+        "section": "Introduction",
+        "quote": "LSD has recently been re-evaluated for the treatment of\ndifferent mental health conditions, like anxiety and depression\nin patients with [ 15, 16] and without life-threatening illness [ 15].\nPsychological effects of psychedelics underlie speci ﬁc temporal\ndynamics [ 9], including (acute) psychedelic experiences, subacute\neffects, and long-term (enduring) effects [ 17]. There is some\nevidence that the quality and intensity of acute psychedelic\neffects might predict therapeutic outcome [ 18]. Thus, the\nclassiﬁcation and description of acute psychedelic experiences\nappear to be of high importance when it comes to optimizing\ntreatment interventions regarding ef ﬁcacy and safety. In order to\ndetermine the optimal dosing ranges of LSD for future clinical\nstudies, ﬁrst and most importantly the in ﬂuence of the LSD dose\non the nature and intensity of acute subjective effects needs\nReceived: 25 October 2022 Revised: 19 March 2023 Accepted: 12 April 2023\nPublished online: 9 May 2023\n1Psychedelic"
+      },
+      "study": {
+        "design": "systematic-review-meta-analysis",
+        "context": "review",
+        "population": "16 項人體研究，765 次 LSD 給藥；包含健康與臨床樣本",
+        "sampleSize": null,
+        "exposure": "4–200 µg LSD 游離鹼等值劑量；5D-ASC、11-ASC、MEQ30 主觀經驗量表",
+        "comparator": "以限制立方樣條統合迴歸估計跨研究劑量反應，不是直接治療比較",
+        "timeframe": "急性主觀效果；各研究程序與測量時點不同",
+        "overlapFamily": "basel-lsd-trials-overlap"
+      },
+      "result": null,
+      "limitations": [
+        "765 是給藥次數而非獨立受試者數；各量表使用的資料集與樣本數不同。",
+        "劑量曲線為跨研究平均估計，不是個人安全劑量或療效曲線；部分量表平台不表示其他效果不再增加。",
+        "綜述背景提及的患者治療試驗未在本批 PDF 中獨立讀取，不能補寫其療效數字。",
+        "與 Holze 2022 及其他合併分析資料重疊，不視為獨立驗證。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "holze-2022-bdnf-design",
+      "paperKey": "holze-2022-comparison",
+      "substances": ["lsd"],
+      "sections": ["therapy"],
+      "kind": "background",
+      "statement": "血漿 BDNF 於基線與給藥後 4、6、12 小時測量。",
+      "source": {
+        "pdfPage": 2,
+        "section": "Methods: Endocrine effects and BDNF",
+        "quote": "Endocrine effects and BDNF\nPlasma concentrations of cortisol, PRL, oxytocin, and BDNF were\ndetermined as previously described [ 7, 21, 22, 28]. Cortisol, PRL, and\noxytocin were measured before and 2.5 h after drug administration.\nPlasma BDNF levels were measured at baseline and 4, 6, and 12 h after\ndrug administration.\nPlasma LSD and psilocin concentrations\nBlood was collected into lithium heparin tubes. The blood samples were\nimmediately centrifuged, and the plasma was subsequently stored"
+      },
+      "study": {
+        "design": "randomized-controlled-trial",
+        "context": "laboratory",
+        "population": "28 名健康成人，14 男、14 女；雙盲隨機交叉設計",
+        "sampleSize": 28,
+        "exposure": "標示 LSD 100/200 µg，psilocybin 15/30 mg；LSD 每個標示 100 µg 單位實測 84.5±0.98 µg，psilocybin 每個標示 5 mg 單位實測 4.61±0.09 mg",
+        "comparator": "安慰劑及相同受試者的其他給藥條件；五次場次間隔至少十天",
+        "timeframe": "每次 25 小時研究場次；重複測量至給藥後 24 小時，另記錄後續不良反應",
+        "overlapFamily": "basel-lsd-trials-overlap"
+      },
+      "result": null,
+      "limitations": [
+        "健康成人在受控環境下的急性效果，不是疾病治療或心理治療試驗。",
+        "標示劑量與實測含量不同；正文使用標示劑量時明確註明，不將模型平均時長當成個人作用時限。",
+        "VAS 焦慮的劑量比較 p=0.054 未達顯著；5D-ASC 焦慮分量表比較另有顯著差異，不混淆指標。",
+        "與合併分析及後續統合分析可能重複資料，不累計成獨立研究人數。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "holze-2022-bdnf-null",
+      "paperKey": "holze-2022-comparison",
+      "substances": ["lsd"],
+      "sections": ["therapy"],
+      "kind": "result",
+      "statement": "LSD 與 psilocybin 皆未顯著升高血漿 BDNF。",
+      "source": {
+        "pdfPage": 4,
+        "section": "Results: Endocrine effects and BDNF",
+        "quote": "Endocrine effects and BDNF\nEffects of LSD and psilocybin on plasma levels of cortisol, PRL,\noxytocin, and BDNF are shown in Supplementary Fig. S5 and\nSupplementary Table S5. Both LSD and psilocybin signi ﬁcantly\nincreased plasma cortisol, PRL, and oxytocin levels. Neither LSD\nnor psilocybin signi ﬁcantly elevated plasma BDNF levels.\nPlasma drug concentrations\nThe concentration-time"
+      },
+      "study": {
+        "design": "randomized-controlled-trial",
+        "context": "laboratory",
+        "population": "28 名健康成人，14 男、14 女；雙盲隨機交叉設計",
+        "sampleSize": 28,
+        "exposure": "標示 LSD 100/200 µg，psilocybin 15/30 mg；LSD 每個標示 100 µg 單位實測 84.5±0.98 µg，psilocybin 每個標示 5 mg 單位實測 4.61±0.09 mg",
+        "comparator": "安慰劑及相同受試者的其他給藥條件；五次場次間隔至少十天",
+        "timeframe": "每次 25 小時研究場次；重複測量至給藥後 24 小時，另記錄後續不良反應",
+        "overlapFamily": "basel-lsd-trials-overlap"
+      },
+      "result": null,
+      "limitations": [
+        "健康成人在受控環境下的急性效果，不是疾病治療或心理治療試驗。",
+        "標示劑量與實測含量不同；正文使用標示劑量時明確註明，不將模型平均時長當成個人作用時限。",
+        "VAS 焦慮的劑量比較 p=0.054 未達顯著；5D-ASC 焦慮分量表比較另有顯著差異，不混淆指標。",
+        "與合併分析及後續統合分析可能重複資料，不累計成獨立研究人數。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "shinozuka-2024-scope",
+      "paperKey": "shinozuka-2024-multilevel",
+      "substances": ["lsd"],
+      "sections": ["related"],
+      "kind": "background",
+      "statement": "以主觀經驗、神經影像與分子藥理三層次進行系統性綜述及統合分析。",
+      "source": {
+        "pdfPage": 1,
+        "section": "Abstract",
+        "quote": "Here, we\nprovide a novel, synergistic understanding of psychedelics arising from systematic reviews and meta-analyses of three hierarchical\nlevels of analysis: (1) subjective experience (phenomenology), (2) neuroimaging and (3) molecular pharmacology.\nPhenomenologically, medium and high doses of LSD yield signi ﬁcantly higher ratings of visionary r"
+      },
+      "study": {
+        "design": "systematic-review-meta-analysis",
+        "context": "review",
+        "population": "DMT、LSD 與 psilocybin 之主觀經驗、神經影像及受體藥理研究",
+        "sampleSize": null,
+        "exposure": "三個層次的系統性綜述及統合分析；神經影像另分物質分析",
+        "comparator": "依分析比較藥物條件、安慰劑或不同物質；跨研究比較非頭對頭試驗",
+        "timeframe": "急性效應；各來源研究的時程不同",
+        "overlapFamily": "basel-lsd-trials-overlap"
+      },
+      "result": null,
+      "limitations": [
+        "跨物質合併結果與 LSD 單獨結果不同；LSD 的 DMN 內部連結結果尤其受單一研究及腦區分區法影響。",
+        "跨研究劑量分組的主觀效果比較不等於同人頭對頭試驗，也不是疾病療效比較。",
+        "研究異質性與偏差風險高；原文 psilocybin／LSD 換算段落有疑似小數誤植，正文不使用該換算。",
+        "原始研究可能與本批試驗及其他統合分析重疊。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "vargas-2023-intracellular",
+      "paperKey": "vargas-2023-intracellular",
+      "substances": ["lsd"],
+      "sections": ["related"],
+      "kind": "result",
+      "statement": "大鼠胚胎皮質神經元實驗中，可穿膜 DMT／psilocin 在有無電穿孔時皆促進樹突生成；不易穿膜類似物需電穿孔才能促進神經元生長。",
+      "source": {
+        "pdfPage": 5,
+        "section": "Membrane permeability is required for psychedelic-induced neuroplasticity",
+        "quote": "Next, we treated freshly dissected rat embryonic cortical neurons with DMT (1 μM) and \nPSI (1 μM) as well as their membrane impermeable congeners in the presence and absence \nof electroporation. Electroporation creates temporary openings in the plasma membrane, \nenabling highly charged molecules to pass through and access the intracellular space. \nWhile the membrane permeable 5-HT2AR agonists were able to promote dendritogenesis \nregardless of whether or not electroporation was applied, the membrane impermeable \ncompounds could only promote neuronal growth when applied with electroporation (Fig. 3B \nand C). Similarly, the membrane permeable 5-HT2AR antagonist KTSN (treated in ten-fold \nexcess at 10 μM) blocked DMT-induced plasticity both with and without electroporation; \nhowever, the membrane impermeable antagonist MKTSN (10 μM) could only block DMT-\ninduced neuronal growth when it was applied with electroporation (Fig. 3B and C). Using \nmore mature neurons (DIV15), we demonstrated that the membrane permeable 5-HT2AR \nagonists increased dendritic spine density—another measure of structural neural plasticity—\nwhile the membrane-impermeable agonists did not (Fig. 3D and E). KTSN was able to \ninhibit the effects of DMT and PSI on dendritic spine density while MKTSN was not (fig. \nS7).\nVargas et al. Page 5\nScience. Author manuscript; available in PMC 2024 February 17.\nAuthor Manuscript Author Manuscript Author Manuscript Author Manuscript"
+      },
+      "study": {
+        "design": "mechanistic-experiment",
+        "context": "laboratory",
+        "population": "大鼠胚胎皮質神經元培養；另有細胞系及小鼠機制實驗",
+        "sampleSize": null,
+        "exposure": "細胞實驗使用 DMT、psilocin 及其不易穿膜類似物，並操控電穿孔與受體拮抗",
+        "comparator": "有無電穿孔、可穿膜與不易穿膜化合物、受體拮抗條件",
+        "timeframe": "依細胞／動物子實驗設定；非臨床追蹤",
+        "overlapFamily": "vargas-2023-mechanism-experiments"
+      },
+      "result": null,
+      "limitations": [
+        "原始機制研究，並非綜述或臨床治療試驗。",
+        "此處引用的 DMT／psilocin 細胞實驗並未以 LSD 為介入；[3H]-LSD 的放射配體用途不可當成 LSD 療效實驗。",
+        "細胞及動物子實驗樣本單位不同，不以單一受試者總數表示。"
+      ],
+      "reviewStatus": "reviewed"
+    }
+  ]
+}

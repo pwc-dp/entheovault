@@ -1,0 +1,756 @@
+{
+  "schemaVersion": 1,
+  "slug": "5-meo-dmt",
+  "revision": 1,
+  "updatedAt": "2026-10-27",
+  "scopeNote": "依六篇 2019–2024 年來源核對的第一版；涵蓋自然情境、單一病例、合併 ibogaine 方案、化學研究與機制綜述。未進行完整系統性文獻回顧；機制假說不視為療效。本註記僅供內部維護。",
+  "papers": [
+    {
+      "key": "batalla-2023-mechanisms",
+      "doi": "10.57098/SciRevs.Biology.2.2.1",
+      "title": "All-natural 5-MeO-DMT sigma receptor 1 agonist and its therapeutic impact in mental and neurodegenerative diseases through mitochondrial activation",
+      "authors": ["Milena Batalla"],
+      "journal": "Science Reviews. Biology",
+      "year": 2023,
+      "slug": "all-natural-5-meo-dmt-sigma-receptor-1-agonist-and-its-therapeutic-impact-in-mental-and-neurodegenerative-diseases-through-mitochondrial-activation",
+      "source": {
+        "filename": "10.57098:SciRevs.Biology.2.2.1.pdf",
+        "sha256": "0b93283dc341f6fbb10d09443f94cf08c4b282d6a52aa7062f343437846a78bd",
+        "pdfPageCount": 43
+      }
+    },
+    {
+      "key": "tap-2024-alcohol-review",
+      "doi": "10.1111/adb.13386",
+      "title": "The potential of 5-methoxy-N,N-dimethyltryptamine in the treatment of alcohol use disorder: A first look at therapeutic mechanisms of action",
+      "authors": ["Stephan C. Tap"],
+      "journal": "Addiction Biology",
+      "year": 2024,
+      "slug": "the-potential-of-5-methoxy-nn-dimethyltryptamine-in-the-treatment-of-alcohol-use-disorder-a-first-look-at-therapeutic-mechanisms-of-action",
+      "source": {
+        "filename": "10.1111:adb.13386.pdf",
+        "sha256": "682583600992c9b956229336439959d1b436144be926de90fc1fe912b49f5c3d",
+        "pdfPageCount": 14
+      }
+    },
+    {
+      "key": "davis-2023-veterans",
+      "doi": "10.1080/00952990.2023.2220874",
+      "title": "Open-label study of consecutive ibogaine and 5-MeO-DMT assisted-therapy for trauma-exposed male Special Operations Forces Veterans: prospective data from a clinical program in Mexico",
+      "authors": [
+        "Alan Kooi Davis",
+        "Yitong Xin",
+        "Nathan Sepeda",
+        "Lynnette A. Averill"
+      ],
+      "journal": "The American Journal of Drug and Alcohol Abuse",
+      "year": 2023,
+      "slug": "open-label-study-of-consecutive-ibogaine-and-5-meo-dmt-assisted-therapy-for-trauma-exposed-male-special-operations-forces-veterans-prospective-data-from-a-clinical-program-in-mexico",
+      "source": {
+        "filename": "10.1080:00952990.2023.2220874.pdf",
+        "sha256": "a17b4b30e841275bfa38f4743ad010e338c1f2924687f1b4137aa637da32dcf7",
+        "pdfPageCount": 11
+      }
+    },
+    {
+      "key": "sherwood-2020-succinate",
+      "doi": "10.1021/acsomega.0c05099",
+      "title": "Synthesis and Characterization of 5-MeO-DMT Succinate for Clinical Use",
+      "authors": [
+        "Alexander M. Sherwood",
+        "Romain Claveau",
+        "Rafael Lancelotta",
+        "Kristi W. Kaylo",
+        "Kelsey Lenoch"
+      ],
+      "journal": "ACS Omega",
+      "year": 2020,
+      "slug": "synthesis-and-characterization-of-5-meo-dmt-succinate-for-clinical-use",
+      "source": {
+        "filename": "10.1021:acsomega.0c05099.pdf",
+        "sha256": "bdbe0e3142275fe55dc384a331e1f00b02fc1ce10524ed8dbf8a327c0d4472ea",
+        "pdfPageCount": 9
+      }
+    },
+    {
+      "key": "uthaug-2019-naturalistic",
+      "doi": "10.1007/s00213-019-05236-w",
+      "title": "A single inhalation of vapor from dried toad secretion containing 5-methoxy-N,N-dimethyltryptamine (5-MeO-DMT) in a naturalistic setting is related to sustained enhancement of satisfaction with life, mindfulness-related capacities, and a decrement of psychopathological symptoms",
+      "authors": [
+        "M. V. Uthaug",
+        "R. Lancelotta",
+        "K. van Oorsouw",
+        "K. P. C. Kuypers",
+        "N. Mason",
+        "J. Rak",
+        "A. Šuláková",
+        "R. Jurok",
+        "M. Maryška",
+        "M. Kuchař",
+        "T. Páleníček",
+        "J. Riba",
+        "J. G. Ramaekers"
+      ],
+      "journal": "Psychopharmacology",
+      "year": 2019,
+      "slug": "a-single-inhalation-of-vapor-from-dried-toad-secretion-containing-5-meo-dmt-in-a-naturalistic-setting-is-related-to-sustained-enhancement-of-satisfaction-with-life-mindfulness",
+      "source": {
+        "filename": "10.1007:s00213-019-05236-w.pdf",
+        "sha256": "3ccb1d87e51973ca7f6bdf737a0db37bc733a2c8d14a1bdf7fe9cb0b4bb10b14",
+        "pdfPageCount": 14
+      }
+    },
+    {
+      "key": "ragnhildstveit-2023-ptsd",
+      "doi": "10.3389/fpsyt.2023.1271152",
+      "title": "5-MeO-DMT for post-traumatic stress disorder: a real-world longitudinal case study",
+      "authors": [
+        "Anya Ragnhildstveit",
+        "Ryan Khan",
+        "Paul Seli",
+        "Lisa Claire Bass",
+        "River Jude August",
+        "Miriam Kaiyo",
+        "Nathaniel Barr",
+        "Laura Kate Jackson",
+        "Michael Santo Gaffrey",
+        "Joseph Peter Barsuglia",
+        "Lynnette Astrid Averill"
+      ],
+      "journal": "Frontiers in Psychiatry",
+      "year": 2023,
+      "slug": "5-meo-dmt-for-post-traumatic-stress-disorder-a-real-world-longitudinal-case-study",
+      "source": {
+        "filename": "10.3389:fpsyt.2023.1271152.pdf",
+        "sha256": "b75c8046daddd239c0217eec58d3c58c94736898d47c3b181c1e90f04d9244db",
+        "pdfPageCount": 10
+      }
+    }
+  ],
+  "evidence": [
+    {
+      "key": "tap-2024-identity",
+      "paperKey": "tap-2024-alcohol-review",
+      "substances": ["5-meo-dmt"],
+      "sections": ["basics"],
+      "kind": "background",
+      "statement": "5-MeO-DMT 存在於部分植物與蟾蜍分泌物，也可合成；吸入後作用短暫。",
+      "source": {
+        "pdfPage": 2,
+        "section": "3 | Incilius alvarius",
+        "quote": "5-MeO-DMT is a natural psychoactive indole alkylamine found in a\nvariety of plants67 and the parotid gland secretions of the toad species\nI. alvarius68–70 and can be produced synthetically. 71 The acute subjec-\ntive effects of 5-MeO-DMT are most often induced through the\ninhalation of vapour from dried secretions of I. alvarius reaching peak\neffects within seconds that last for approximately 15 –20 min.45 Other\nwell-documented routes of administration include intramuscular injec-\ntion72 and intranasal administration, 73 which are featured by a slower\nonset (1–7 min) and prolonged subjective effects ( /C2460 min)."
+      },
+      "study": {
+        "design": "literature-review",
+        "context": "review",
+        "population": "綜述所整理的既有人體、動物或機制文獻；非本篇原始受試者樣本",
+        "sampleSize": null,
+        "exposure": "5-MeO-DMT 相關研究",
+        "comparator": "依納入來源而異",
+        "timeframe": "綜述發表時的文獻"
+      },
+      "result": null,
+      "limitations": ["文獻綜述，未在本篇進行酒精使用障礙介入試驗。"],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "tap-2024-experience",
+      "paperKey": "tap-2024-alcohol-review",
+      "substances": ["5-meo-dmt"],
+      "sections": ["basics"],
+      "kind": "background",
+      "statement": "主觀經驗可包含自我消融、身體感及時間感改變、合一感與恐懼；不一定以複雜視覺圖像為主。",
+      "source": {
+        "pdfPage": 2,
+        "section": "3 | Incilius alvarius",
+        "quote": "Compared with classic psychedelics, the subjective experience of\n5-MeO-DMT has been described as very distinct with feelings of tran-\nscendence that often involve ego-dissolution, nondual awareness, and\nan increased range and intensity of emotions, spanning the feeling of\nlove, unity, and awe to panic and terror.\n44 Notably, 5-MeO-DMT has\nbeen reported to lack visual effects, 74 possibly due to its high binding\naffinity for the 5-HT 1A receptor75,76 and the observation that the\npartial 5-HT1A receptor agonist buspirone is able to reduce the acute\nvisual effects of psilocybin. 77 Accordingly, 5-MeO-DMT is often\ndescribed as a content-free experience associated with a loss of sense\nof self and bodily awareness, including sensory deprivation described\nas “all-white light” or “all-black” with descriptors such as “emptiness,”\n“nothingness,” or “void.”\n78 A rudimentary framework of the complete\n5-MeO-DMT experience is presented by James Oroc in Tryptamine\nPalace that include (1) dissolution into fractals of white light upon exha-\nlation of 5-MeO-DMT, (2) transportation via white light and potential\nappearance of spirit guides and various manifestations, (3) sense of\nunity and that love is the principle that organizes the universe, (4) com-\nplete dissociation with ego-identity and any concept of time, (5) reas-\nsertion of identity (return of “my” ego), (6) repossession of the physical\nbody, and (7) return to baseline.\n79 This framework serendipitously\noverlaps with the seven stages reported in The Toad of Dawn and how\nthe 5-MeO-DMT experience seemingly progresses from beginning to\nend.\n80 Importantly, however, Oroc (2009) emphasizes that “an infinite\nvariety of experiences for any given individual are possible ” (p. 13),\nwhich indicates that this framework needs to be confirmed in future\nclinical trials with follow-up in-depth interviews and robust qualitative\nresearch methodologies (e.g., Grounded Theory).\n81"
+      },
+      "study": {
+        "design": "literature-review",
+        "context": "review",
+        "population": "綜述所整理的既有人體、動物或機制文獻；非本篇原始受試者樣本",
+        "sampleSize": null,
+        "exposure": "5-MeO-DMT 相關研究",
+        "comparator": "依納入來源而異",
+        "timeframe": "綜述發表時的文獻"
+      },
+      "result": null,
+      "limitations": ["文獻綜述，未在本篇進行酒精使用障礙介入試驗。"],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "ragnhildstveit-2023-history",
+      "paperKey": "ragnhildstveit-2023-ptsd",
+      "substances": ["5-meo-dmt"],
+      "sections": ["history"],
+      "kind": "background",
+      "statement": "背景回顧記載 1936 年首次合成，之後辨識天然來源。",
+      "source": {
+        "pdfPage": 2,
+        "section": "Introduction",
+        "quote": "5-methoxy-N,N-dimethyltryptamine (5-MeO-DMT) is a natural, \nshort-acting psychoactive indolealkylamine (1). It was first synthesized \nin 1936 (2), later found in several plant (e.g., Dictyoloma incanescens), \nfungi (e.g., Amanita citrina), and animal (e.g., Incilius alvarius) species \n(2, 3)."
+      },
+      "study": {
+        "design": "literature-review",
+        "context": "review",
+        "population": "綜述所整理的既有人體、動物或機制文獻；非本篇原始受試者樣本",
+        "sampleSize": null,
+        "exposure": "5-MeO-DMT 相關研究",
+        "comparator": "依納入來源而異",
+        "timeframe": "綜述發表時的文獻"
+      },
+      "result": null,
+      "limitations": [
+        "單一自然情境病例，非受控試驗；無法排除同時用藥、支持條件或自然病程的影響。",
+        "三個月出現夜驚，與給藥的因果關係未確定。",
+        "保留表 2 原報總分；總分／平均分對應的項目數有疑義，不重新換算成療效百分比。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "sherwood-2020-characterization",
+      "paperKey": "sherwood-2020-succinate",
+      "substances": ["5-meo-dmt"],
+      "sections": ["history", "related"],
+      "kind": "result",
+      "statement": "製備琥珀酸鹽原料藥，HPLC 主峰面積 99.86%，並建立雜質與固態鑑定。",
+      "source": {
+        "pdfPage": 1,
+        "section": "Abstract",
+        "quote": "ABSTRACT: To support clinical use, a multigram-scale process\nhas been developed to provide 5-MeO-DMT, a psychedelic natural\nproduct found in the parotid gland secretions of the toad, Incilius\nalvarius. Several synthetic routes were initially explored, and the\nselected process featured an optimized Fischer indole reaction to 5-\nMeO-DMT freebase in high-yield, from which the 1:1 succinate\nsalt was produced to provide 136 g of crystalline active\npharmaceutical ingredient (API) with 99.86% peak area by high-\nperformance liquid chromatography (HPLC) and a net yield of\n49%. The report provides in-process monitoring, validated\nanalytical methods, impurity formation and removal, and solid-\nstate characterization of the API essential for subsequent clinical\ndevelopment."
+      },
+      "study": {
+        "design": "analytical-chemistry",
+        "context": "laboratory",
+        "population": "合成的 5-MeO-DMT 琥珀酸鹽與其雜質",
+        "sampleSize": null,
+        "exposure": "研究用原料藥製備及分析鑑定",
+        "comparator": "不適用；非治療比較",
+        "timeframe": "2020 年報告的製程與分析"
+      },
+      "result": null,
+      "limitations": ["化學製備與分析研究，不是人體安全性或療效試驗。"],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "uthaug-2019-sample",
+      "paperKey": "uthaug-2019-naturalistic",
+      "substances": ["5-meo-dmt"],
+      "sections": ["benefits"],
+      "kind": "result",
+      "statement": "42 人完成使用前及 24 小時評估，24 人完成四週追蹤。",
+      "source": {
+        "pdfPage": 3,
+        "section": "Participants",
+        "quote": "Overall, 75 participants agreed to participate in the\nstudy at baseline. Of those, 42 participants completed the test\nbattery both before inhalation of the vapor from dried toad\nsecretion containing 5-MeO -DMT (baseline) and within\n24 h, while only 24 completed the test battery at the third\nand final assessment 4 weeks after intake."
+      },
+      "study": {
+        "design": "prospective-observational",
+        "context": "naturalistic-use",
+        "population": "歐洲自然情境吸入含 5-MeO-DMT 蟾蜍分泌物的成人；75 人參加基線，42 人完成前後評估，24 人完成四週追蹤",
+        "sampleSize": 42,
+        "exposure": "單次吸入含 5-MeO-DMT 的乾燥蟾蜍分泌物",
+        "comparator": "各自使用前基線；無隨機或未使用對照組",
+        "timeframe": "使用前、使用後 24 小時內及四週",
+        "overlapFamily": "uthaug-2019-naturalistic-cohort"
+      },
+      "result": null,
+      "limitations": [
+        "無對照組且有追蹤流失，不能把前後變化視為藥物因果效果。",
+        "使用蟾蜍分泌物，劑量與成分不完全標準化；認知測驗亦可能受練習影響。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "uthaug-2019-life-satisfaction",
+      "paperKey": "uthaug-2019-naturalistic",
+      "substances": ["5-meo-dmt"],
+      "sections": ["benefits", "related"],
+      "kind": "result",
+      "statement": "生活滿意度在 24 小時內及四週相較基線顯著提高。",
+      "source": {
+        "pdfPage": 7,
+        "section": "Affect and cognition / SWL",
+        "quote": "SWL\nMixed model analyses revealed a main effect of session\n(F2,44.12 =5 . 9 4 1 ;p = 0.005). Contrasts showed that satisfac-\ntion with life significantly increased within 24 h following\nthe inhalation of the vapor from dried toad secretion contain-\ning 5-MeO-DMT (p =0 . 0 2 2 ;H e d g e s’ g = 0.29), and persisted\n4 weeks later (p = 0.012; Hedges’ g =0 . 4 1 ) ,a sc o m p a r e dw i t h\nbaseline. Mean (SE) satisfaction with life before and after\ninhalation of the vapor is shown in Fig. 2."
+      },
+      "study": {
+        "design": "prospective-observational",
+        "context": "naturalistic-use",
+        "population": "歐洲自然情境吸入含 5-MeO-DMT 蟾蜍分泌物的成人；75 人參加基線，42 人完成前後評估，24 人完成四週追蹤",
+        "sampleSize": 42,
+        "exposure": "單次吸入含 5-MeO-DMT 的乾燥蟾蜍分泌物",
+        "comparator": "各自使用前基線；無隨機或未使用對照組",
+        "timeframe": "使用前、使用後 24 小時內及四週",
+        "overlapFamily": "uthaug-2019-naturalistic-cohort"
+      },
+      "result": null,
+      "limitations": [
+        "無對照組且有追蹤流失，不能把前後變化視為藥物因果效果。",
+        "使用蟾蜍分泌物，劑量與成分不完全標準化；認知測驗亦可能受練習影響。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "uthaug-2019-distress",
+      "paperKey": "uthaug-2019-naturalistic",
+      "substances": ["5-meo-dmt"],
+      "sections": ["benefits", "related"],
+      "kind": "result",
+      "statement": "憂鬱、焦慮與壓力自評四週時才達顯著下降。",
+      "source": {
+        "pdfPage": 7,
+        "section": "DASS-21",
+        "quote": "DASS-21\nMixed model analysis revealed the main effects of session on\ndepression (F2,55.943 =4 . 3 4 8 ;p = 0.018), anxiety ( F2,55.033 =\n8.875; p <0 . 0 0 1 ) ,a n ds t r e s s(F2,51.874 =6 . 2 2 5 ;p = 0.004), the\nthree subscales of the DASS-21. Separate contrast revealed\nthat subjective ratings of depression, anxiety, and stress de-\ncreased within 24 h following the inhalation of the vapor from\ndried toad secretion containing 5-MeO-DMT, but failed to\nreach significance until 4 weeks later ( p = 0.015, Hedges ’\ng =0 . 7 9 ;p < 0.001, Hedges ’ g =0 . 6 9 ;p = 0.003, Hedges ’\ng = 0.66, respectively)."
+      },
+      "study": {
+        "design": "prospective-observational",
+        "context": "naturalistic-use",
+        "population": "歐洲自然情境吸入含 5-MeO-DMT 蟾蜍分泌物的成人；75 人參加基線，42 人完成前後評估，24 人完成四週追蹤",
+        "sampleSize": 42,
+        "exposure": "單次吸入含 5-MeO-DMT 的乾燥蟾蜍分泌物",
+        "comparator": "各自使用前基線；無隨機或未使用對照組",
+        "timeframe": "使用前、使用後 24 小時內及四週",
+        "overlapFamily": "uthaug-2019-naturalistic-cohort"
+      },
+      "result": null,
+      "limitations": [
+        "無對照組且有追蹤流失，不能把前後變化視為藥物因果效果。",
+        "使用蟾蜍分泌物，劑量與成分不完全標準化；認知測驗亦可能受練習影響。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "uthaug-2019-thinking-task",
+      "paperKey": "uthaug-2019-naturalistic",
+      "substances": ["5-meo-dmt"],
+      "sections": ["benefits"],
+      "kind": "result",
+      "statement": "圖片概念測驗以共同關聯解題與其他聯想評估聚斂及發散思考。",
+      "source": {
+        "pdfPage": 6,
+        "section": "Picture Concept Test",
+        "quote": "Picture Concept Task\nA creativity task with non-verbal stimuli was used, i.e., the\nPCT (Kuypers et al. 2016). The PCT was composed of\nstimuli from the Wechsler Preschool and Primary Scale\nof Intelligence and the Wech sler Intelligence Scale for\nChildren. Each stimulus contains between 4 and 12 color\npictures shown in two or three rows. The participants are\ninstructed to find an association between one of the pic-\ntures of each row. They are asked to provide the correct\nsolution as there is only one correct answer. The correct\nanswers are taken as the dependent measure of convergent\nthinking. To assess divergent thinking, the participants\nwere asked to provide as many alternative associations as\npossible by sticking to the rule: 1 item per row. This is the\nregular instruction included in the measures of divergent\nthinking, and it is used to calculate several parameters, i.e.,\noriginality, fluency, and the ratio of both, which reflect\nquantity and quality of divergent thinking. Fluency is de-\nfined as the number of alternative associations. Originality\nis calculated by evaluating the originality of the alternative\nassociation relative to those provided by all other partici-\npants in a session. Alternative answers were uniquely re-\nported by a single participant received an originality score\nof 2. Answers that were shared with a single participant\nwere valued as 1, and answers that were shared by 3 or\nmore participants were rated as zero. Mean originality\n(creativity) scores and ratio originality scores, weighed\nfor fluency (originality/fluency), were used as measures\nof divergent thinking. Three parallel versions of the PCT\nwere used at baseline and the two follow-up measures after\nthe session to avoid learning effects. Each parallel version\nconsisting of 17 stimuli were shown, and participants had\n30 s per stimulus."
+      },
+      "study": {
+        "design": "prospective-observational",
+        "context": "naturalistic-use",
+        "population": "歐洲自然情境吸入含 5-MeO-DMT 蟾蜍分泌物的成人；75 人參加基線，42 人完成前後評估，24 人完成四週追蹤",
+        "sampleSize": 42,
+        "exposure": "單次吸入含 5-MeO-DMT 的乾燥蟾蜍分泌物",
+        "comparator": "各自使用前基線；無隨機或未使用對照組",
+        "timeframe": "使用前、使用後 24 小時內及四週",
+        "overlapFamily": "uthaug-2019-naturalistic-cohort"
+      },
+      "result": null,
+      "limitations": [
+        "無對照組且有追蹤流失，不能把前後變化視為藥物因果效果。",
+        "使用蟾蜍分泌物，劑量與成分不完全標準化；認知測驗亦可能受練習影響。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "uthaug-2019-convergent",
+      "paperKey": "uthaug-2019-naturalistic",
+      "substances": ["5-meo-dmt"],
+      "sections": ["benefits", "related"],
+      "kind": "result",
+      "statement": "聚斂思考正確解題數在 24 小時內及四週高於基線。",
+      "source": {
+        "pdfPage": 7,
+        "section": "Picture Concept Test",
+        "quote": "Picture Concept Test\nThe mixed model analysis revealed a significant main effect of\nsession (F\n2,31.609 = 5.34; p = 0.010) and country (F2,31.76 =\n4.50; p = 0.019) on convergent thinking. Separate contrasts\nrevealed that the number of correct solutions increased signif-\nicantly after the inhalation of the vapor from dried toad secre-\ntion containing 5-MeO-DMT sub-acutely (p = 0.021; Hedges’\ng = 0.66), and 4 weeks later ( p =0 . 0 0 2 ;H e d g e s’ g =1 . 3 2 ) ,a s\ncompared with baseline. The mean (SE) convergent thinking\nscores were significantly higher (p = 0.003) in the Dutch 12.6\n(0.5) and Czech sample 11.1 (0.6) as compared with the\nSpanish sample 9.4 (0.7). There was no interaction between\nsession and country. Finally, none of the divergent thinking\nPsychopharmacology (2019) 236:2653–2666 2659"
+      },
+      "study": {
+        "design": "prospective-observational",
+        "context": "naturalistic-use",
+        "population": "歐洲自然情境吸入含 5-MeO-DMT 蟾蜍分泌物的成人；75 人參加基線，42 人完成前後評估，24 人完成四週追蹤",
+        "sampleSize": 42,
+        "exposure": "單次吸入含 5-MeO-DMT 的乾燥蟾蜍分泌物",
+        "comparator": "各自使用前基線；無隨機或未使用對照組",
+        "timeframe": "使用前、使用後 24 小時內及四週",
+        "overlapFamily": "uthaug-2019-naturalistic-cohort"
+      },
+      "result": null,
+      "limitations": [
+        "無對照組且有追蹤流失，不能把前後變化視為藥物因果效果。",
+        "使用蟾蜍分泌物，劑量與成分不完全標準化；認知測驗亦可能受練習影響。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "uthaug-2019-divergent-null",
+      "paperKey": "uthaug-2019-naturalistic",
+      "substances": ["5-meo-dmt"],
+      "sections": ["benefits"],
+      "kind": "result",
+      "statement": "發散思考各參數未受主要因子或交互作用顯著影響；承接第 7 頁末段。",
+      "source": {
+        "pdfPage": 9,
+        "section": "Picture Concept Test (continued)",
+        "quote": "parameters were affected by any of the main factors or their\ninteraction."
+      },
+      "study": {
+        "design": "prospective-observational",
+        "context": "naturalistic-use",
+        "population": "歐洲自然情境吸入含 5-MeO-DMT 蟾蜍分泌物的成人；75 人參加基線，42 人完成前後評估，24 人完成四週追蹤",
+        "sampleSize": 42,
+        "exposure": "單次吸入含 5-MeO-DMT 的乾燥蟾蜍分泌物",
+        "comparator": "各自使用前基線；無隨機或未使用對照組",
+        "timeframe": "使用前、使用後 24 小時內及四週",
+        "overlapFamily": "uthaug-2019-naturalistic-cohort"
+      },
+      "result": null,
+      "limitations": [
+        "無對照組且有追蹤流失，不能把前後變化視為藥物因果效果。",
+        "使用蟾蜍分泌物，劑量與成分不完全標準化；認知測驗亦可能受練習影響。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "tap-2024-adverse-events",
+      "paperKey": "tap-2024-alcohol-review",
+      "substances": ["5-meo-dmt"],
+      "sections": ["risks"],
+      "kind": "result",
+      "statement": "綜述記錄恐懼、焦慮、混亂、顫抖、噁心、嘔吐、頭痛及胸腹壓迫感。",
+      "source": {
+        "pdfPage": 2,
+        "section": "3 | Incilius alvarius",
+        "quote": "An overview of observational studies shows that the acute\neffects of 5-MeO-DMT are associated with mild to moderate physio-\nlogical and psychological adverse events (e.g., fear, sadness, anxiety,\nconfusion, fatigue, crying, paranoia, trembling, vomiting, nausea, head-\nache, pressure on the chest or abdomen, and loss of body percep-\ntion).\n45"
+      },
+      "study": {
+        "design": "literature-review",
+        "context": "review",
+        "population": "綜述所整理的既有人體、動物或機制文獻；非本篇原始受試者樣本",
+        "sampleSize": null,
+        "exposure": "5-MeO-DMT 相關研究",
+        "comparator": "依納入來源而異",
+        "timeframe": "綜述發表時的文獻"
+      },
+      "result": null,
+      "limitations": ["文獻綜述，未在本篇進行酒精使用障礙介入試驗。"],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "ragnhildstveit-2023-interactions",
+      "paperKey": "ragnhildstveit-2023-ptsd",
+      "substances": ["5-meo-dmt"],
+      "sections": ["risks"],
+      "kind": "background",
+      "statement": "背景回顧整理與 MAOI 併用的血清素毒性及死亡風險。",
+      "source": {
+        "pdfPage": 2,
+        "section": "Introduction / Pharmacology",
+        "quote": "Use of 5-MeO-DMT with MAO \ninhibitors (MAOIs), such as antidepressants, can augment and \nprolong neurochemical and behavioral effects, by blocking \nbiotransformation of 5-MeO-DMT and increasing its exposure (18). \nNonetheless, MAOIs can induce serotonergic toxicity ( 19), or \n‘serotonin syndrome’ , a potentially life-threatening drug reaction \ncaused by excess serotonin in the brain ( 20). This can present as \nshivering or diarrhea, as well as muscle rigidity, high fever, and \nepileptic seizure. Combining 5-MeO-DMT with harmala alkaloids, \nshort-term MAOIs found in ayahuasca, can also produce toxic \ninteractions, and even death (21)."
+      },
+      "study": {
+        "design": "literature-review",
+        "context": "review",
+        "population": "綜述所整理的既有人體、動物或機制文獻；非本篇原始受試者樣本",
+        "sampleSize": null,
+        "exposure": "5-MeO-DMT 相關研究",
+        "comparator": "依納入來源而異",
+        "timeframe": "綜述發表時的文獻"
+      },
+      "result": null,
+      "limitations": [
+        "單一自然情境病例，非受控試驗；無法排除同時用藥、支持條件或自然病程的影響。",
+        "三個月出現夜驚，與給藥的因果關係未確定。",
+        "保留表 2 原報總分；總分／平均分對應的項目數有疑義，不重新換算成療效百分比。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "ragnhildstveit-2023-acute-events",
+      "paperKey": "ragnhildstveit-2023-ptsd",
+      "substances": ["5-meo-dmt"],
+      "sections": ["risks"],
+      "kind": "result",
+      "statement": "個案給藥後輕微噁心、血壓心率上升及強烈主觀感受。",
+      "source": {
+        "pdfPage": 4,
+        "section": "Results / Therapeutic intervention",
+        "quote": "Mild nausea \nwas reported, which resolved within 30 min. There were slight \nincreases in systolic blood pressure (126.00 ± 3.54), diastolic blood \npressure (89.00 ± 4.24), and heart rate (81.50 ± 4.95), whereas oxygen \nsaturation (97.50 ± 0.71) remained stable. See Table 1  and Figure 2 . \nOverall, no drug-related, serious adverse events occurred. However, \nthe subject reported “profoundly strong” subjective effects. She \ndescribed being “instantly blasted” into another dimension."
+      },
+      "study": {
+        "design": "case-report",
+        "context": "naturalistic-use",
+        "population": "一名 23 歲慢性難治型 PTSD 女性；自發尋求介入，非受控臨床試驗",
+        "sampleSize": 1,
+        "exposure": "在家中由引導者與臨床人員支持，單次吸入含 5-MeO-DMT 的蟾蜍分泌物",
+        "comparator": "個案自身基線；無對照組",
+        "timeframe": "使用前及 24 小時、1、3、6、12 個月",
+        "overlapFamily": "ragnhildstveit-2023-single-case"
+      },
+      "result": null,
+      "limitations": [
+        "單一自然情境病例，非受控試驗；無法排除同時用藥、支持條件或自然病程的影響。",
+        "三個月出現夜驚，與給藥的因果關係未確定。",
+        "保留表 2 原報總分；總分／平均分對應的項目數有疑義，不重新換算成療效百分比。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "ragnhildstveit-2023-night-terrors",
+      "paperKey": "ragnhildstveit-2023-ptsd",
+      "substances": ["5-meo-dmt"],
+      "sections": ["risks"],
+      "kind": "result",
+      "statement": "三個月出現夜驚，與 5-MeO-DMT 因果關係未能確定。",
+      "source": {
+        "pdfPage": 8,
+        "section": "Discussion",
+        "quote": "Of note, the subject partially regressed at 3-months follow-up. She \nreported new onset of night terrors, the nature of which could not \nbe  recalled. These night terrors reflect higher scores across all \nmeasures at this time point, relative to the others. A phenomenon \nknown as ‘reactivation’ , similar to flashbacks, is commonly reported \nby 5-MeO-DMT users (22, 48). This involves re-experiencing parts of \na drug-induced state post-administration, which can occur days, \nweeks, or even months later (49, 50). Additionally, the probability of \n5-MeO-DMT reactivation increases with being female, dosing in a \nstructured group format, and having a stronger mystical experience \n(48). All three of these factors applied to this case study. As such, the \nsubject may have endured a reactivation event following 5-MeO-\nDMT, presenting as negatively-valenced night terrors. Alternatively, \nthe benefits of 5-MeO-DMT may have only lasted for three months. \nDespite the partial regression, scores across all measures remained \nbelow clinical thresholds, with symptoms naturally remitting \novertime. The onset of night terrors was not considered a ‘serious \nadverse event’ , as its association with 5-MeO-DMT could not be \ndefinitively concluded. It neither was life-threatening, required \nintervention or hospitalization, resulted in persistent or significant \ndisability, nor led to the subject’s death."
+      },
+      "study": {
+        "design": "case-report",
+        "context": "naturalistic-use",
+        "population": "一名 23 歲慢性難治型 PTSD 女性；自發尋求介入，非受控臨床試驗",
+        "sampleSize": 1,
+        "exposure": "在家中由引導者與臨床人員支持，單次吸入含 5-MeO-DMT 的蟾蜍分泌物",
+        "comparator": "個案自身基線；無對照組",
+        "timeframe": "使用前及 24 小時、1、3、6、12 個月",
+        "overlapFamily": "ragnhildstveit-2023-single-case"
+      },
+      "result": null,
+      "limitations": [
+        "單一自然情境病例，非受控試驗；無法排除同時用藥、支持條件或自然病程的影響。",
+        "三個月出現夜驚，與給藥的因果關係未確定。",
+        "保留表 2 原報總分；總分／平均分對應的項目數有疑義，不重新換算成療效百分比。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "ragnhildstveit-2023-design",
+      "paperKey": "ragnhildstveit-2023-ptsd",
+      "substances": ["5-meo-dmt"],
+      "sections": ["therapy", "related"],
+      "kind": "result",
+      "statement": "23 歲難治型 PTSD 女性，有多種既往治療；支持人員在自然情境追蹤一年。",
+      "source": {
+        "pdfPage": 3,
+        "section": "Diagnostic assessment",
+        "quote": "Diagnostic assessment\nThe subject was diagnosed with PTSD at 19 years of age. This was \nprovided by her treating psychiatrist who, at the time, administered \nthe Structured Clinical Interview for DSM-5 (SCID-5) ( 32), \nspecifically the PTSD Module. The interview revealed a chronic course \nwith severe PTSD symptoms and comorbid depression. Four years \nlater, the subject pursued 5-MeO-DMT, independent from her \npsychiatrist, supported by a trauma-informed facilitator. The facilitator \nhad extensive experience with 5-MeO-DMT, who advised on dosing \nand guided her experience. A licensed clinician, likewise, supported \nthe subject in this pursuit. The clinician administered assessments, \nmonitored her experience, and completed follow-ups. Assessments \nincluded the PTSD Checklist for DSM-5 [PCL-5; ( 33)], the Beck \nHopelessness Scale [BHS; (34)] and the Clinical Global Impressions \n[CGI; ( 35)] questionnaire. These were used to track the subject’s \nprogress over time, administered prior to 5-MeO-DMT dosing (i.e., \nat baseline), and again 24 h-, 1 month-, 3 months-, 6 months-, and \n12 months later (i.e., at follow-ups). For safety purposes, the clinician \ntook vital signs before, during, and after 5-MeO-DMT dosing. This \nconsisted of blood pressure (mmHg), heart rate (bpm), and peripheral \noxygen saturation (SpO 2). To assess acute, subjective effects, the \nMystical Experiences Questionnaire [MEQ-30; (36)] was administered \n3 h post-dosing. The clinician observed the subject for a total of 5 h \nafter her 5-MeO-DMT experience, and conducted follow-ups via \nphone 24, 36, and 72 h later, before switching to once a month."
+      },
+      "study": {
+        "design": "case-report",
+        "context": "naturalistic-use",
+        "population": "一名 23 歲慢性難治型 PTSD 女性；自發尋求介入，非受控臨床試驗",
+        "sampleSize": 1,
+        "exposure": "在家中由引導者與臨床人員支持，單次吸入含 5-MeO-DMT 的蟾蜍分泌物",
+        "comparator": "個案自身基線；無對照組",
+        "timeframe": "使用前及 24 小時、1、3、6、12 個月",
+        "overlapFamily": "ragnhildstveit-2023-single-case"
+      },
+      "result": null,
+      "limitations": [
+        "單一自然情境病例，非受控試驗；無法排除同時用藥、支持條件或自然病程的影響。",
+        "三個月出現夜驚，與給藥的因果關係未確定。",
+        "保留表 2 原報總分；總分／平均分對應的項目數有疑義，不重新換算成療效百分比。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "ragnhildstveit-2023-home-intervention",
+      "paperKey": "ragnhildstveit-2023-ptsd",
+      "substances": ["5-meo-dmt"],
+      "sections": ["therapy"],
+      "kind": "result",
+      "statement": "介入在家中發生，單次吸入含 5-MeO-DMT 的蟾蜍分泌物。",
+      "source": {
+        "pdfPage": 4,
+        "section": "Therapeutic intervention",
+        "quote": "Therapeutic intervention\n5-MeO-DMT was obtained and administered by the subject. The \nexperience occurred in the comfort of her home. Guided by the \nfacilitator, she first set an intention for the experience. “I want to \nunderstand and accept the roots of my trauma. ” This was designed to \nhelp navigate potentially difficult psychedelic states and material, by \nre-centering the subject’s attention. Next, she engaged in body scan \nmeditation, a specific form of mindfulness practice. This involved \ndeep breathing and mind–body awareness, aimed at relaxation. The \nsubject then inhaled 50 mg of vaporized bufotoxin, derived from the \nSonoran Desert Toad (Incilius alvarius), slowly and consistently. This \nwas estimated to contain 10–15 mg of 5-MeO-DMT [20–30% of total \ndried weight (38)]. Using a torch lighter, the bufotoxin was heated in \na glass vial until its contents were vaporized. She held the dose for 10 s, \nexhaled slowly and consistently, and lied down with an eye mask on. \nAmbient music played in the background. The onset of effects was \nrapid (15–30 s), with peak effects lasting 10–15 min, resolving within \n25–30 min. After the effects had subsided, the subject re-engaged in \nbody scan meditation. She then discussed her experience with the \nfacilitator, integrating newfound insights. Finally, the clinician \nreviewed the subject’s vital signs and asked about her experience, \nrecording any undesirable reactions. Three hours later, the clinician \nadministered the MEQ-30.\nFollow-up and outcomes\n5-MeO-DMT was generally tolerated by the subject."
+      },
+      "study": {
+        "design": "case-report",
+        "context": "naturalistic-use",
+        "population": "一名 23 歲慢性難治型 PTSD 女性；自發尋求介入，非受控臨床試驗",
+        "sampleSize": 1,
+        "exposure": "在家中由引導者與臨床人員支持，單次吸入含 5-MeO-DMT 的蟾蜍分泌物",
+        "comparator": "個案自身基線；無對照組",
+        "timeframe": "使用前及 24 小時、1、3、6、12 個月",
+        "overlapFamily": "ragnhildstveit-2023-single-case"
+      },
+      "result": null,
+      "limitations": [
+        "單一自然情境病例，非受控試驗；無法排除同時用藥、支持條件或自然病程的影響。",
+        "三個月出現夜驚，與給藥的因果關係未確定。",
+        "保留表 2 原報總分；總分／平均分對應的項目數有疑義，不重新換算成療效百分比。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "ragnhildstveit-2023-pcl5",
+      "paperKey": "ragnhildstveit-2023-ptsd",
+      "substances": ["5-meo-dmt"],
+      "sections": ["therapy", "related"],
+      "kind": "result",
+      "statement": "表 2 PCL-5 原報總分：基線 72、翌日 18、三個月 35、一年 22。",
+      "source": {
+        "pdfPage": 6,
+        "section": "Table 2",
+        "quote": "PCL-5 Factors Baseline 24 Hours 1 Month 3 Months 6 Months 12 Months\nThought Intrusion 19 (3.80 ± 0.45) 6 (1.20 ± 0.84) 5 (1.00 ± 0.71) 8 (1.60 ± 0.89) 7 (1.40 ± 0.55) 5 (1.00 ± 0.71)\nStimuli Avoidance 7 (3.50 ± 0.71) 3 (1.50 ± 0.71) 2 (1.00 ± 0.00) 5 (2.50 ± 0.71) 2 (1.00 ± 1.41) 2 (1.00 ± 0.00)\nNegative Concept 26 (3.71 ± 0.49) 5 (0.71 ± 0.76) 8 (1.10 ± 0.69) 11 (1.60 ± 0.53) 9 (1.30 ± 0.49) 8 (1.10 ± 0.69)\nAltered Reactivity 20 (4.00 ± 0.00) 4 (0.80 ± 0.45) 8 (1.60 ± 0.55) 11 (2.20 ± 0.84) 8 (1.60 ± 0.89) 7 (1.40 ± 0.55)\nSymptom Severity 72 (3.79 ± 0.42) 18 (0.95 ± 0.71) 23 (1.21 ± 0.63) 35 (1.84 ± 0.76) 26 (1.37 ± 0.68) 22 (1.16 ± 0.60)"
+      },
+      "study": {
+        "design": "case-report",
+        "context": "naturalistic-use",
+        "population": "一名 23 歲慢性難治型 PTSD 女性；自發尋求介入，非受控臨床試驗",
+        "sampleSize": 1,
+        "exposure": "在家中由引導者與臨床人員支持，單次吸入含 5-MeO-DMT 的蟾蜍分泌物",
+        "comparator": "個案自身基線；無對照組",
+        "timeframe": "使用前及 24 小時、1、3、6、12 個月",
+        "overlapFamily": "ragnhildstveit-2023-single-case"
+      },
+      "result": null,
+      "limitations": [
+        "單一自然情境病例，非受控試驗；無法排除同時用藥、支持條件或自然病程的影響。",
+        "三個月出現夜驚，與給藥的因果關係未確定。",
+        "保留表 2 原報總分；總分／平均分對應的項目數有疑義，不重新換算成療效百分比。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "davis-2023-program",
+      "paperKey": "davis-2023-veterans",
+      "substances": ["5-meo-dmt"],
+      "sections": ["therapy", "related"],
+      "kind": "result",
+      "statement": "三天方案依序使用 ibogaine 及 5-MeO-DMT，搭配準備與整合會談；86 人基線，71 人一個月追蹤。",
+      "source": {
+        "pdfPage": 4,
+        "section": "Treatment / Procedure",
+        "quote": "prospective clinical program evaluation data at four \ntimepoints (baseline/pre-treatment, one-, three-, and \nsix-months after treatment). The current study obtained \nthese data to analyze outcomes of this program to \ndetermine whether treatment is effective in this SOFV \npopulation. Data from the proposed study will substan -\ntially advance understanding of the effectiveness of psy -\nchedelic-assisted therapies with ibogaine and 5-MeO- \nDMT for the treatment of cognitive and mental health \nproblems among SOFV, with implications for all \ntrauma-exposed populations.\nMethod\nClinical program\nParticipants for this study were English-speaking US \nSOFV that received treatment at atherapeutic program \nin Mexico that provides psychedelic-assisted therapy \nwith ibogaine and 5-MeO-DMT. Participants were \nreferred to the clinical program via word of mouth \nand were required to complete a comprehensive medical \nand psychological screening before enrolling to ensure \nsafety and appropriateness for participation. Details \nregarding eligibility criteria are detailed in our previous \nreport ( 33 ) and provided in the supplementary materials \n(see S1–1). Briefly, this evaluation included medical and \npsychiatric history including current and past medica -\ntions, treatment history, and traumatic brain injury \n(TBI), a blood panel, urine drug screen, and ECG.\nThe clinical program took place in a residential \nenvironment in Mexico, and the retreats lasted 3 days. \nDuring the first day, a program therapist hosted a group \nibogaine preparation session wherein they explained the \nrange of effects one may experience from ibogaine, \nencouraged participants to identify their intentions for \nthe experience, and advised on mindfulness techniques \none might use during the session. Next, retreat attendees \ncompleted a urine toxicology screen and alcohol tests in \norder to verify they had not consumed any contraindi -\ncated substances, and if they passed this test, they were \nthen administered a single oral dose (10 mg/kg) of ibo -\ngaine hydrochloride (99% purity) in a group setting \nwith two to five other attendees. All attendees were \ninstructed to lay on a bed in a supine position and \nreceived continuous cardiac and blood pressure mon -\nitoring and intravenous saline and electrolytes during \nthe ibogaine session. On the second day, attendees were \nasked to spend most of the day integrating or reflecting \non their ibogaine experience. Attendees could choose to \ndo this introspectively or in conversation with other \nattendees or program staff. Support was provided by \nclinical program staff through one-on-one meetings \nand group integration sessions. On the third day, \na program therapist hosted a group 5-MeO-DMT pre -\nparation session, which was similar in structure and \ncontent to the ibogaine preparation session. Then, par -\nticipants were administered inhaled 5-MeO-DMT, \nwhich was administered in three incremental doses \nstarting at 5 mg, 15 mg, and 30 mg (for a total of 50  \nmg) and was administered to one participant at a time. \nAttendees may have received a fourth (30 mg) or fifth \ndose (45 mg) if they had not reach observed peak effects \nas evidenced by an altered state of consciousness or \nemotional catharsis. Afterward, attendees were invited \nto integrate or reflect on their 5-MeO-DMT experience \nboth individually and with the group of other attendees.\nProcedure for clinical program data collection by \nclinic staff\nFrom September 2019 to March 2021, clinical program \nevaluation surveys were sent to individuals attending \nthe psychedelic-assisted clinical program. After enrol -\nling in the program, attendees were sent an initial pre- \nretreat survey prior to their weekend-long retreat. \nParticipants who completed the pre-retreat survey \nprior to attending and completed their retreat with the \nclinical program were also sent follow-up surveys 1-, 3-, \nand 6-months after the date of their treatment. Program \nevaluation surveys were collected through \nSurveyGizmo/Alchemer by a staff member who was \nnot otherwise involved in their retreat experience. \nAttendees did not receive compensation.\nEvaluable data for the clinical chart review study\nThe data that were collected from the surveys adminis -\ntered as part of routine clinical practice at the program \nand were subsequently accessed by the research team for \na retrospective chart review study (approved by the \nInstitutional Review Board at Ohio State University). \nBecause this study is a retrospective chart review \nstudy, no consent procedures were required. Data were \nanalyzed to evaluate whether the ibogaine- and 5-MeO- \nDMT-assisted therapy provided benefit across domains \nof mental health, cognitive functioning, and well-being \nin SOFV. According to the program staff, the pre- \ntreatment survey was sent to 99 individuals who were \ntreated in the program during the time frame for this \nchart review period, and 86 completed the pre- \ntreatment and were included in this study. At the sub -\nsequent follow-ups, 71, 62, and 52 attendees completed \nthe 1-, 3- and 6-month surveys, respectively. Of these, \n44 attendees completed the program evaluation surveys \nat all four time points. Because completion of the \nTHE AMERICAN JOURNAL OF DRUG AND ALCOHOL ABUSE\n 589"
+      },
+      "study": {
+        "design": "open-label-program",
+        "context": "clinical-treatment",
+        "population": "86 名曾遭受創傷的男性特種部隊退伍軍人；71 人完成一個月追蹤",
+        "sampleSize": 86,
+        "exposure": "三天方案依序接受 ibogaine 與 5-MeO-DMT，搭配準備及整合會談",
+        "comparator": "方案前基線；未設對照組",
+        "timeframe": "基線及 1、3、6 個月；遺漏值以上次觀察值填補",
+        "overlapFamily": "davis-2023-clinical-program"
+      },
+      "result": null,
+      "limitations": [
+        "非隨機且無對照組；結果來自合併 ibogaine、5-MeO-DMT 與支持會談的整套方案，不能分離單一物質效果。",
+        "追蹤流失及上次觀察值填補會影響結果；未蒐集安全性與不良事件資料。",
+        "表 2 為 partial eta squared；摘要使用 d 標記，不應解讀為 Cohen’s d。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "davis-2023-missing-data",
+      "paperKey": "davis-2023-veterans",
+      "substances": ["5-meo-dmt"],
+      "sections": ["therapy"],
+      "kind": "result",
+      "statement": "採用上次觀察值填補後續遺漏值。",
+      "source": {
+        "pdfPage": 5,
+        "section": "Missing data / Measures",
+        "quote": "program evaluation was voluntary for program atten -\ndees, some attendees missed program evaluation time \npoints. To handle missing data, an intention-to-treat \n(ITT) model was used to generate a conservative esti -\nmate of the overall treatment effect ( 36 ). Specifically, all \nattendees who completed the pre-treatment question -\nnaires were included in the evaluable population, and in \nthe event of missing data at a future time point (1-, 3-, or \n6-months after the retreat), data from the most recently \ncompleted time point were carried over assuming no \nchange."
+      },
+      "study": {
+        "design": "open-label-program",
+        "context": "clinical-treatment",
+        "population": "86 名曾遭受創傷的男性特種部隊退伍軍人；71 人完成一個月追蹤",
+        "sampleSize": 86,
+        "exposure": "三天方案依序接受 ibogaine 與 5-MeO-DMT，搭配準備及整合會談",
+        "comparator": "方案前基線；未設對照組",
+        "timeframe": "基線及 1、3、6 個月；遺漏值以上次觀察值填補",
+        "overlapFamily": "davis-2023-clinical-program"
+      },
+      "result": null,
+      "limitations": [
+        "非隨機且無對照組；結果來自合併 ibogaine、5-MeO-DMT 與支持會談的整套方案，不能分離單一物質效果。",
+        "追蹤流失及上次觀察值填補會影響結果；未蒐集安全性與不良事件資料。",
+        "表 2 為 partial eta squared；摘要使用 d 標記，不應解讀為 Cohen’s d。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "davis-2023-symptoms",
+      "paperKey": "davis-2023-veterans",
+      "substances": ["5-meo-dmt"],
+      "sections": ["therapy", "related"],
+      "kind": "result",
+      "statement": "表 2：整套方案 PCL-5 平均由 35.16 至一個月 18.44；憂鬱焦慮自評也較低。",
+      "source": {
+        "pdfPage": 6,
+        "section": "Table 2",
+        "quote": "PCL-5 35.16 (15.36) 18.44 (16.23) 17.77 (13.98) 18.41 (15.08) 60.14*** BL >1 m = 3 m = 6 m .414\nPHQ2 2.88 (1.88) 1.34 (1.59) 1.42 (1.56) 1.50 (1.54) 32.30*** BL >1 m = 3 m = 6 m .275\nGAD2 2.79 (1.74) 1.34 (1.52) 1.43 (1.43) 1.57 (1.55) 32.46*** BL >1 m = 3 m = 6 m .276"
+      },
+      "study": {
+        "design": "open-label-program",
+        "context": "clinical-treatment",
+        "population": "86 名曾遭受創傷的男性特種部隊退伍軍人；71 人完成一個月追蹤",
+        "sampleSize": 86,
+        "exposure": "三天方案依序接受 ibogaine 與 5-MeO-DMT，搭配準備及整合會談",
+        "comparator": "方案前基線；未設對照組",
+        "timeframe": "基線及 1、3、6 個月；遺漏值以上次觀察值填補",
+        "overlapFamily": "davis-2023-clinical-program"
+      },
+      "result": null,
+      "limitations": [
+        "非隨機且無對照組；結果來自合併 ibogaine、5-MeO-DMT 與支持會談的整套方案，不能分離單一物質效果。",
+        "追蹤流失及上次觀察值填補會影響結果；未蒐集安全性與不良事件資料。",
+        "表 2 為 partial eta squared；摘要使用 d 標記，不應解讀為 Cohen’s d。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "tap-2024-aud-mechanisms",
+      "paperKey": "tap-2024-alcohol-review",
+      "substances": ["5-meo-dmt"],
+      "sections": ["therapy", "related"],
+      "kind": "result",
+      "statement": "酒精使用障礙機制綜述提出負向情緒、心理彈性、正念與執行控制的研究假說。",
+      "source": {
+        "pdfPage": 1,
+        "section": "Abstract",
+        "quote": "Abstract\nAlcohol use disorder (AUD) remains one of the most prevalent psychiatric disorders\nworldwide with high economic costs. Current treatment options show modest effi-\ncacy and relapse rates are high. Furthermore, there are increases in the treatment\ngap and few new medications have been approved in the past 20 years. Recently,\npsychedelic-assisted therapy with psilocybin and lysergic acid diethylamide has gar-\nnered significant attention in the treatment of AUD. Yet, they require significant\namounts of therapist input due to prolonged subjective effects ( /C244–12 h) leading to\nhigh costs and impeding implementation. Accordingly, there is an increasing interest\nin the rapid and short-acting psychedelic 5-methoxy- N,N-dimethyltryptamine (5-\nMeO-DMT). This paper offers a first look at potential therapeutic mechanisms for\nAUD by reviewing the current literature on 5-MeO-DMT. Primarily, 5-MeO-DMT is\nable to induce mystical experiences and ego-dissolution together with increases in\npsychological flexibility and mindfulness. This could decrease AUD symptoms\nthrough the alleviation of psychiatric mood-related comorbidities consistent with the\nnegative reinforcement and self-medication paradigms. In addition, preliminary evi-\ndence indicates that 5-MeO-DMT modulates neural oscillations that might subserve\nego-dissolution (increases in gamma), psychological flexibility and mindfulness\n(increases in theta), and the reorganization of executive control networks (increases\nin coherence across frequencies) that could improve emotion regulation and\ninhibition. Finally, animal studies show that 5-MeO-DMT is characterized by neuro-\nplasticity, anti-inflammation, 5-HT\n2A receptor agonism, and downregulation of meta-\nbotropic glutamate receptor 5 with clinical implications for AUD and psychiatric\nmood-related comorbidities. The paper concludes with several recommendations for\nfuture research to establish the purported therapeutic mechanisms of action."
+      },
+      "study": {
+        "design": "literature-review",
+        "context": "review",
+        "population": "綜述所整理的既有人體、動物或機制文獻；非本篇原始受試者樣本",
+        "sampleSize": null,
+        "exposure": "5-MeO-DMT 相關研究",
+        "comparator": "依納入來源而異",
+        "timeframe": "綜述發表時的文獻"
+      },
+      "result": null,
+      "limitations": ["文獻綜述，未在本篇進行酒精使用障礙介入試驗。"],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "batalla-2023-hypothesis",
+      "paperKey": "batalla-2023-mechanisms",
+      "substances": ["5-meo-dmt"],
+      "sections": ["related"],
+      "kind": "result",
+      "statement": "綜述探討 sigma-1、粒線體及表觀遺傳調控的機制假說，非已確立療效。",
+      "source": {
+        "pdfPage": 3,
+        "section": "Abstract",
+        "quote": "Abstract: The sigma -1 receptor S1R is a chaperone that resides mainly at the mitochondrion -associated \nendoplasmic reticulum ER membrane MAM, it is considered a “pluripotent modulator” in living systems, plays \na c ritical role in maintaining neuronal homeostasis and a cts as a dynamic pluripotent modulator in living \nsystems. Given its specific localization at the MAM, S1R plays a major role regulating mitochondrial function, \nit is a therapeutic target in mental and n eurodegenerative diseases including Alzheimer’s diseas e, Parkinson’s \ndisease. N,N Dimethyl Tryptamine DMT is the S1R endogen agonists and we review the role of all -natural 5-\nmethoxi-N,N-dimethyltryptamine 5 -MeO-DMT S1R agonist that produces high levels of ego dissolution or \noceanic boundlessness  higher ratings of satisfaction with life and lower ratings of depression and stress. In vitro \nthe 5 -Meo-DMT shows strong modulation of synaptic and cellular plasticity in neurons. 5 -MeO-DMT \nneuropharmacological S1R  agonist is implicated in cellular bioenergetics activ ation, antiapoptotic and \nmitochondrial regulation of epigenetic landscape in neurons. S1R has been considered as a controller of cell \nsurvival and differentiation in neurons. The pharmacological benefit s of all-natural 5-MeO-DMT are currently \nunder researc h. This review compendia results, highlighting the key molecular mechanisms of S1Rs on \nmitochondrial functions and epigenetic modifications involved in the health and sickness phenotype \ndevelopment, and describe the possible pharmacological use of all -natural 5-MeO-DMT to “rescue” patients \nfrom sickness phenotype through mitochondrial activation. We focus on all -natural 5 -MeO-DMT its clinical \ntherapeutic implications benefit long -term effects on mental h ealth and well -being of the patient possibly \nreprogramming and remodeling the epigenome, particularly in mental and neurodegenerative diseases."
+      },
+      "study": {
+        "design": "literature-review",
+        "context": "review",
+        "population": "綜述所整理的既有人體、動物或機制文獻；非本篇原始受試者樣本",
+        "sampleSize": null,
+        "exposure": "5-MeO-DMT 相關研究",
+        "comparator": "依納入來源而異",
+        "timeframe": "綜述發表時的文獻"
+      },
+      "result": null,
+      "limitations": [
+        "機制綜述與假說，不能視為精神或神經退化疾病的臨床療效證據。"
+      ],
+      "reviewStatus": "reviewed"
+    }
+  ]
+}

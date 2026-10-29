@@ -182,3 +182,25 @@
 .grecaptcha-badge { 
   visibility: hidden !important;
 }
+
+.home-shader-scrim {
+  background: linear-gradient(90deg, #f7f7f7ed 0%, #f7f7f7b3 30%, #f7f7f700 75%),
+    linear-gradient(0deg, #f7f7f7cc 0%, #f7f7f700 65%),
+    linear-gradient(180deg, #f7f7f780 0%, #f7f7f700 160px);
+}
+
+.dark .home-shader-scrim {
+  background: linear-gradient(90deg, #18181bed 0%, #18181bb3 30%, #18181b00 75%),
+    linear-gradient(0deg, #18181bcc 0%, #18181b00 65%),
+    linear-gradient(180deg, #18181bc9 0%, #18181b00 160px);
+}
+
+@media (max-width: 639px) {
+  .home-shader-scrim {
+    background: linear-gradient(0deg, #f7f7f7f2 0%, #f7f7f7d9 32%, #f7f7f700 100%);
+  }
+
+  .dark .home-shader-scrim {
+    background: linear-gradient(0deg, #18181bf2 0%, #18181bd9 32%, #18181b00 100%);
+  }
+}

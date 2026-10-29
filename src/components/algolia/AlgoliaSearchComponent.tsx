@@ -3,7 +3,6 @@
 import { useEffect, useState } from 'react'
 import { InstantSearchNext } from 'react-instantsearch-nextjs'
 import Link from 'next/link'
-import { usePathname } from 'next/navigation'
 
 import { AlgoliaLogoIcon, SearchIcon } from '../Icons'
 import SearchButton from '../SearchButton'
@@ -27,8 +26,6 @@ const AlgoliaSearchComponent = ({
   searchIconClassName,
 }: SearchButtonProps): JSX.Element => {
   const [open, setOpen] = useState(false)
-  const pathname = usePathname()
-  const isRoot = pathname === '/'
 
   useEffect(() => {
     const down = (e: KeyboardEvent) => {
@@ -51,6 +48,7 @@ const AlgoliaSearchComponent = ({
       <Button
         variant='ghost'
         size='icon'
+        aria-label='搜尋資料庫'
         className={cn('md:hidden', searchIconClassName)}
         onClick={() => setOpen(true)}
       >

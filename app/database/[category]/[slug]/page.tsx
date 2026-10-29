@@ -1,5 +1,5 @@
 import { Suspense } from 'react'
-import { Metadata, ResolvingMetadata } from 'next'
+import { Metadata } from 'next'
 import Image from 'next/image'
 import Link from 'next/link'
 import { notFound } from 'next/navigation'
@@ -14,7 +14,12 @@ import { Badge } from '@/components/ui/badge'
 import { Button } from '@/components/ui/button'
 import { Separator } from '@/components/ui/separator'
 import { LANGUAGE_MAP } from '@/config/general'
-import { IMAGE_PLACEHOLDER, SITE_URL } from '@/constants/constants'
+import {
+  IMAGE_PLACEHOLDER,
+  SITE_NAME,
+  SITE_OG_IMAGES,
+  SITE_URL,
+} from '@/constants/constants'
 import { capitalizeFirstLetter } from '@/lib/utils'
 import { RecordType } from '@/types'
 import { resolveMetaTag } from '@/utilities/metaTag'
@@ -37,16 +42,11 @@ export async function generateStaticParams(): Promise<
   }))
 }
 
-export async function generateMetadata(
-  { params }: ParamsType,
-  parent: ResolvingMetadata,
-): Promise<Metadata> {
+export async function generateMetadata({
+  params,
+}: ParamsType): Promise<Metadata> {
   const records = await getAllRecords()
   const record = records.find((record) => record.slug === params.slug)
-
-  const parentData = (await parent) as unknown as Metadata
-  const parentOpenGraph = parentData.openGraph
-  const parentTwitter = parentData.twitter
 
   return {
     title: record.title,
@@ -58,7 +58,9 @@ export async function generateMetadata(
     },
     openGraph: {
       title: record.title,
-      images: parentOpenGraph.images,
+      url: `${SITE_URL}/database/${params.category}/${params.slug}`,
+      siteName: SITE_NAME,
+      images: [SITE_OG_IMAGES.database],
       description:
         record.metaDescription ||
         '從啟靈藥物的基本知識到減害資訊，涵蓋研究、安全性、作用效果等各方面專業知識的資料庫',
@@ -66,7 +68,7 @@ export async function generateMetadata(
     twitter: {
       card: 'summary_large_image',
       title: record.title,
-      images: parentTwitter.images,
+      images: [SITE_OG_IMAGES.database],
       description:
         record.metaDescription ||
         '從啟靈藥物的基本知識到減害資訊，涵蓋研究、安全性、作用效果等各方面專業知識的資料庫',

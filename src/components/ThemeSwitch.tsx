@@ -30,8 +30,8 @@ const ThemeSwitch = (): JSX.Element => {
 
   return (
     <>
-      <label className='sr-only'>Theme</label>
       <button
+        aria-label='淺色模式'
         aria-checked={isChecked}
         type='button'
         role='switch'

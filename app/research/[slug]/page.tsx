@@ -64,13 +64,17 @@ export async function generateMetadata({
       url: `${SITE_URL}/research/${filterPaper?.slug}`,
       description: abstractString,
       siteName: SITE_NAME,
-      images: [`/api/og-research?title=${filterPaper.title}`],
+      images: [
+        `${SITE_URL}/api/og-research?title=${encodeURIComponent(filterPaper.title)}`,
+      ],
     },
     twitter: {
       card: 'summary_large_image',
       title: filterPaper?.title,
       description: abstractString,
-      images: [`/api/og-research?title=${filterPaper.title}`],
+      images: [
+        `${SITE_URL}/api/og-research?title=${encodeURIComponent(filterPaper.title)}`,
+      ],
     },
   }
 }

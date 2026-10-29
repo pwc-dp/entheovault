@@ -33,6 +33,50 @@ export const Dmt = ({ className }: Props): JSX.Element => {
   )
 }
 
+export const FiveMeoDmt = ({ className }: Props): JSX.Element => {
+  return (
+    <svg
+      viewBox='-30 -58 266 197'
+      version='1.1'
+      xmlns='http://www.w3.org/2000/svg'
+      className={cn('h-32 w-48', className)}
+    >
+      <path
+        d='M74.7 46.8 50.1 73.2 14.7 65 4.2 30.6 28.9 4.1 64 12.2 74.7 46.8 107.4 62l31.8-17.5 30.7 18.6 18.5-10.2m13.2-19.4.4-24m12.7 43.9 17.8 10.9M19.9 59.7 11.7 32.2M31 11.2l27.9 6.5m8.4 27.4L47.7 65.9M97.2 92.4l3.1-26.5m7.1-3.9L103 97.8l-23.7 4.6M60.6 91.7 50.1 73.2'
+        fill='none'
+        stroke='currentColor'
+        strokeWidth={1.25}
+      />
+      <path
+        d='M28.9 4.1 21 -21 M7 -34 -17 -42'
+        fill='none'
+        stroke='currentColor'
+        strokeWidth={1.25}
+      />
+      <text
+        x='5'
+        y='-22'
+        fontFamily='Helvetica'
+        fontSize='26'
+        fill='currentColor'
+      >
+        O
+      </text>
+      <g fontFamily='Helvetica' fontSize='26' fill='currentColor'>
+        <text x='58' y='115'>
+          N
+        </text>
+        <text x='58' y='136'>
+          H
+        </text>
+        <text x='192' y='55'>
+          N
+        </text>
+      </g>
+    </svg>
+  )
+}
+
 export const Lsd = ({ className }: Props): JSX.Element => {
   return (
     <svg

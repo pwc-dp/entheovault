@@ -1,0 +1,1622 @@
+{
+  "schemaVersion": 1,
+  "slug": "mdma",
+  "revision": 9,
+  "updatedAt": "2026-10-28",
+  "scopeNote": "依九篇已核對文獻撰寫，新增 Wolfgang 等人 2025 年綜述所整理的 PTSD 第三期及其他疾病早期試驗、安全性與認知資料。這些較新人體結果依綜述轉述，未冒稱已獨立讀取其引用的原始試驗。保留 2015 年綜述的年代範圍及既有自然使用、動物研究；不將 PTSD 共病憂鬱改善當作原發憂鬱症療效。未查核此綜述之後的監管或試驗狀態。",
+  "papers": [
+    {
+      "key": "jones-2023-race-mde",
+      "doi": "10.1177/02698811221127304",
+      "title": "Race and ethnicity moderate the associations between lifetime psychedelic use (MDMA/ecstasy and psilocybin) and major depressive episodes",
+      "authors": ["Grant M Jones"],
+      "journal": "Journal of Psychopharmacology",
+      "year": 2023,
+      "slug": "race-and-ethnicity-moderate-the-associations-between-lifetime-psychedelic-use-mdmaecstasy-and-psilocybin-and-major-depressive-episodes",
+      "source": {
+        "filename": "10.1177:02698811221127304.pdf",
+        "sha256": "6a0c2cec58089901bf6818239581f84d2c2e1c1e5b055bc1e42b192afc433654",
+        "pdfPageCount": 9
+      }
+    },
+    {
+      "key": "jones-nock-2022-distress",
+      "doi": "10.1177/02698811211058923",
+      "title": "MDMA/ecstasy use and psilocybin use are associated with lowered odds of psychological distress and suicidal thoughts in a sample of US adults",
+      "authors": ["Grant M Jones", "Matthew K Nock"],
+      "journal": "Journal of Psychopharmacology",
+      "year": 2022,
+      "slug": "mdmaecstasy-use-and-psilocybin-use-are-associated-with-lowered-odds-of-psychological-distress-and-suicidal-thoughts-in-a-sample-of-us-adults",
+      "source": {
+        "filename": "10.1177:02698811211058923.pdf",
+        "sha256": "48b6a7106e040eb67a3d6ffed382f3d3e5dda85a5550a5f781d5899525a48251",
+        "pdfPageCount": 11
+      }
+    },
+    {
+      "key": "mccardle-2004-cognition",
+      "doi": "10.1007/s00213-004-1791-0",
+      "title": "Chronic MDMA (ecstasy) use, cognition and mood",
+      "authors": [
+        "K. McCardle",
+        "S. Luebbers",
+        "J. D. Carter",
+        "R. J. Croft",
+        "C. Stough"
+      ],
+      "journal": "Psychopharmacology",
+      "year": 2004,
+      "slug": "chronic-mdma-ecstasy-use-cognition-and-mood",
+      "source": {
+        "filename": "10.1007:s00213-004-1791-0.pdf",
+        "sha256": "af019d5d78aeadc56875fb6a7a1441df9d4fb133c71faf8a6d27f9e9a0432fc7",
+        "pdfPageCount": 6
+      }
+    },
+    {
+      "key": "taurah-2014-polydrug",
+      "doi": "10.1007/s00213-013-3288-1",
+      "title": "Depression, impulsiveness, sleep, and memory in past and present polydrug users of 3,4-methylenedioxymethamphetamine (MDMA, ecstasy)",
+      "authors": ["Lynn Taurah", "Chris Chandler", "Geoff Sanders"],
+      "journal": "Psychopharmacology",
+      "year": 2014,
+      "slug": "depression-impulsiveness-sleep-and-memory-in-past-and-present-polydrug-users-of-34-methylenedioxymethamphetamine-mdma-ecstasy",
+      "source": {
+        "filename": "10.1007:s00213-013-3288-1.pdf",
+        "sha256": "0016c39e1f8066f507b292b917480f33ed5995ef6bf47a2f9f7c21905b6647f6",
+        "pdfPageCount": 15
+      }
+    },
+    {
+      "key": "huizink-2006-temporality",
+      "doi": "10.1136/bmj.38743.539398.3a",
+      "title": "Symptoms of anxiety and depression in childhood and use of MDMA: prospective, population based study",
+      "authors": [
+        "Anja C Huizink",
+        "Robert F Ferdinand",
+        "Jan van der Ende",
+        "Frank C Verhulst"
+      ],
+      "journal": "BMJ",
+      "year": 2006,
+      "slug": "symptoms-of-anxiety-and-depression-in-childhood-and-use-of-mdma-prospective-population-based-study",
+      "source": {
+        "filename": "10.1136:bmj.38743.539398.3A.pdf",
+        "sha256": "5b9cd6470346840b9fc064fc37133bd93634768039a8067210d6f4873e26c064",
+        "pdfPageCount": 4
+      }
+    },
+    {
+      "key": "patel-titheradge-2015-review",
+      "doi": "10.1177/2045125315583786",
+      "title": "MDMA for the treatment of mood disorder: all talk no substance?",
+      "authors": ["Rachel Patel", "Daniel Titheradge"],
+      "journal": "Therapeutic Advances in Psychopharmacology",
+      "year": 2015,
+      "slug": "mdma-for-the-treatment-of-mood-disorder-all-talk-no-substance",
+      "source": {
+        "filename": "10.1177:2045125315583786.pdf",
+        "sha256": "4ee12500311ecf0a6fe694e150bb690968f94d836fccaa14ea0be8235467aed3",
+        "pdfPageCount": 10
+      }
+    },
+    {
+      "key": "guillot-2007-review",
+      "doi": "10.1080/02791072.2007.10399862",
+      "title": "Is Recreational Ecstasy (MDMA) Use Associated with Higher Levels of Depressive Symptoms?",
+      "authors": ["Casey Guillot"],
+      "journal": "Journal of Psychoactive Drugs",
+      "year": 2007,
+      "slug": "is-recreational-ecstasy-mdma-use-associated-with-higher-levels-of-depressive-symptoms",
+      "source": {
+        "filename": "10.1080:02791072.2007.10399862.pdf",
+        "sha256": "030f0c2af88b190be7bc3ffcbbc19b5659eefe62001b04f2a82bd689af329179",
+        "pdfPageCount": 10
+      }
+    },
+    {
+      "key": "pantoni-2022-dose-effects",
+      "doi": "10.1007/s00213-022-06086-9",
+      "title": "MDMA and memory, addiction, and depression: dose-effect analysis",
+      "authors": [
+        "Madeline M. Pantoni",
+        "Jinah L. Kim",
+        "Kaitlin R. Van Alstyne",
+        "Stephan G. Anagnostaras"
+      ],
+      "journal": "Psychopharmacology",
+      "year": 2022,
+      "slug": "mdma-and-memory-addiction-and-depression-dose-effect-analysis",
+      "source": {
+        "filename": "10.1007:s00213-022-06126-4.pdf",
+        "sha256": "f8ff7445b00cb0de52ccc270c2eea8b324c693d4ae08f7f9d006c45465bef276",
+        "pdfPageCount": 15
+      }
+    },
+    {
+      "key": "wolfgang-2025-mdma-therapy",
+      "doi": "10.1176/appi.ajp.20230681",
+      "title": "MDMA and MDMA-Assisted Therapy",
+      "authors": [
+        "Aaron S. Wolfgang",
+        "Gregory A. Fonzo",
+        "Joshua C. Gray",
+        "John H. Krystal",
+        "Adrienne Grzenda",
+        "Alik S. Widge",
+        "Nina V. Kraguljac",
+        "William M. McDonald",
+        "Carolyn I. Rodriguez",
+        "Charles B. Nemeroff"
+      ],
+      "journal": "American Journal of Psychiatry",
+      "year": 2025,
+      "slug": "mdma-and-mdma-assisted-therapy",
+      "source": {
+        "filename": "10.1176:appi.ajp.2023068.pdf",
+        "sha256": "60ce7b7ec3a60611857f1ad22e3cda5ba369041c0092c970d84e52041a2f2cee",
+        "pdfPageCount": 25
+      }
+    }
+  ],
+  "evidence": [
+    {
+      "key": "jones-2023-subgroup-null",
+      "paperKey": "jones-2023-race-mde",
+      "substances": ["mdma", "psilocybin"],
+      "sections": ["benefits", "risks", "therapy"],
+      "kind": "result",
+      "statement": "保留此族群未觀察到較低勝算的結果；不得把其他族群的結果概括至所有人。",
+      "source": {
+        "pdfPage": 1,
+        "section": "Abstract / Results",
+        "quote": "For Non-Hispanic Racial Minority participants, MDMA/ecstasy and psilocybin use did not confer lowered odds of any MDE outcomes."
+      },
+      "study": {
+        "design": "cross-sectional-survey",
+        "context": "naturalistic-use",
+        "population": "美國 NSDUH 成年受訪者；按研究中的種族與族裔分組",
+        "sampleSize": 596187,
+        "exposure": "終生 MDMA/ecstasy 或 psilocybin 使用史",
+        "comparator": "同族群內沒有相應物質終生使用史者",
+        "timeframe": "調查年份 2005–2019；結果涵蓋終生及過去一年重鬱發作",
+        "overlapFamily": "nsduh-adult-surveys"
+      },
+      "result": null,
+      "limitations": [
+        "橫斷面資料無法建立因果與時間先後。",
+        "終生使用為二元自陳，無法確定頻率、劑量或近期使用。",
+        "與另一篇 NSDUH 分析有資料年份重疊，不能直接合併樣本數。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "jones-2023-causality-limit",
+      "paperKey": "jones-2023-race-mde",
+      "substances": ["mdma", "psilocybin"],
+      "sections": ["benefits", "risks", "therapy"],
+      "kind": "limitation",
+      "statement": "橫斷面關聯，不能解讀成治療效果或因果關係。",
+      "source": {
+        "pdfPage": 5,
+        "section": "Limitations",
+        "quote": "these findings are correlational and cross-sectional and thus cannot be used to draw causal conclusions."
+      },
+      "study": {
+        "design": "cross-sectional-survey",
+        "context": "naturalistic-use",
+        "population": "美國 NSDUH 成年受訪者；按研究中的種族與族裔分組",
+        "sampleSize": 596187,
+        "exposure": "終生 MDMA/ecstasy 或 psilocybin 使用史",
+        "comparator": "同族群內沒有相應物質終生使用史者",
+        "timeframe": "調查年份 2005–2019；結果涵蓋終生及過去一年重鬱發作",
+        "overlapFamily": "nsduh-adult-surveys"
+      },
+      "result": null,
+      "limitations": [
+        "橫斷面資料無法建立因果與時間先後。",
+        "終生使用為二元自陳，無法確定頻率、劑量或近期使用。",
+        "與另一篇 NSDUH 分析有資料年份重疊，不能直接合併樣本數。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "jones-nock-2022-mdma-ideation",
+      "paperKey": "jones-nock-2022-distress",
+      "substances": ["mdma", "psilocybin", "lsd"],
+      "sections": ["benefits", "risks", "therapy"],
+      "kind": "result",
+      "statement": "終生 MDMA/ecstasy 使用與過去一年自殺意念較低勝算的關聯；非介入試驗。",
+      "source": {
+        "pdfPage": 1,
+        "section": "Abstract / Results",
+        "quote": "Lifetime MDMA/ecstasy use was associated with reduced odds of past year suicidal thinking (10% reduced odds; odds ratio (OR) = 0.90; 95% confidence interval, CI = (0.84–0.97); p < 0.01)"
+      },
+      "study": {
+        "design": "cross-sectional-survey",
+        "context": "naturalistic-use",
+        "population": "美國 NSDUH 成年受訪者",
+        "sampleSize": 484732,
+        "exposure": "終生 MDMA/ecstasy、psilocybin 或 LSD 使用史",
+        "comparator": "沒有相應物質終生使用史者",
+        "timeframe": "調查年份 2008–2019；結果涵蓋過去一個月或一年",
+        "overlapFamily": "nsduh-adult-surveys"
+      },
+      "result": {
+        "outcome": "過去一年自殺意念",
+        "measure": "OR",
+        "estimate": 0.9,
+        "ciLower": 0.84,
+        "ciUpper": 0.97,
+        "confidenceLevel": 95
+      },
+      "limitations": [
+        "自然使用史與結果的關聯不等同於介入療效。",
+        "無法確立使用物質與心理健康結果的時間先後。",
+        "自陳 MDMA/ecstasy 使用不能確認物質純度與劑量。",
+        "與其他 NSDUH 分析有資料年份重疊。",
+        "統計解讀（編輯註）：勝算是事件發生機率與未發生機率的比值；此處的 OR 比較有、無 MDMA/ecstasy 終生使用史者的自殺意念勝算，不能解讀為個人用藥後的機率或絕對風險變化。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "jones-nock-2022-lsd-ideation",
+      "paperKey": "jones-nock-2022-distress",
+      "substances": ["lsd"],
+      "sections": ["benefits", "risks", "therapy"],
+      "kind": "result",
+      "statement": "同篇對 LSD 的關聯方向不同，不能沿用 MDMA 的結論。",
+      "source": {
+        "pdfPage": 1,
+        "section": "Abstract / Results",
+        "quote": "LSD) was associated with increased odds of past year suicidal thinking"
+      },
+      "study": {
+        "design": "cross-sectional-survey",
+        "context": "naturalistic-use",
+        "population": "美國 NSDUH 成年受訪者",
+        "sampleSize": 484732,
+        "exposure": "終生 MDMA/ecstasy、psilocybin 或 LSD 使用史",
+        "comparator": "沒有相應物質終生使用史者",
+        "timeframe": "調查年份 2008–2019；結果涵蓋過去一個月或一年",
+        "overlapFamily": "nsduh-adult-surveys"
+      },
+      "result": null,
+      "limitations": [
+        "自然使用史與結果的關聯不等同於介入療效。",
+        "無法確立使用物質與心理健康結果的時間先後。",
+        "自陳 MDMA/ecstasy 使用不能確認物質純度與劑量。",
+        "與其他 NSDUH 分析有資料年份重疊。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "jones-nock-2022-design-limit",
+      "paperKey": "jones-nock-2022-distress",
+      "substances": ["mdma", "psilocybin", "lsd"],
+      "sections": ["benefits", "risks", "therapy"],
+      "kind": "limitation",
+      "statement": "保留橫斷面設計限制，不能推論作用機制或因果。",
+      "source": {
+        "pdfPage": 8,
+        "section": "Limitations",
+        "quote": "NSDUH data, given its cross-sectional design, is limited in what it can tell us about mechanisms."
+      },
+      "study": {
+        "design": "cross-sectional-survey",
+        "context": "naturalistic-use",
+        "population": "美國 NSDUH 成年受訪者",
+        "sampleSize": 484732,
+        "exposure": "終生 MDMA/ecstasy、psilocybin 或 LSD 使用史",
+        "comparator": "沒有相應物質終生使用史者",
+        "timeframe": "調查年份 2008–2019；結果涵蓋過去一個月或一年",
+        "overlapFamily": "nsduh-adult-surveys"
+      },
+      "result": null,
+      "limitations": [
+        "自然使用史與結果的關聯不等同於介入療效。",
+        "無法確立使用物質與心理健康結果的時間先後。",
+        "自陳 MDMA/ecstasy 使用不能確認物質純度與劑量。",
+        "與其他 NSDUH 分析有資料年份重疊。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "mccardle-2004-memory-association",
+      "paperKey": "mccardle-2004-cognition",
+      "substances": ["mdma"],
+      "sections": ["risks"],
+      "kind": "result",
+      "statement": "組間認知表現差異；不能直接外推為臨床 MDMA 輔助治療造成的副作用。",
+      "source": {
+        "pdfPage": 1,
+        "section": "Abstract / Results",
+        "quote": "displayed poorer delayed recall and verbal learning than controls after accounting statistically for the effects of cannabis and depression."
+      },
+      "study": {
+        "design": "observational-group-comparison",
+        "context": "naturalistic-use",
+        "population": "17 名有 MDMA 使用史者與 15 名對照者",
+        "sampleSize": 32,
+        "exposure": "既往自然情境 MDMA 使用",
+        "comparator": "沒有 MDMA 使用史的對照組",
+        "timeframe": "單次認知與情緒評估，回溯使用史",
+        "overlapFamily": null
+      },
+      "result": null,
+      "limitations": [
+        "樣本小，且不是隨機介入研究。",
+        "自然使用者可能有其他物質使用與既有差異，統計調整不等於消除所有混雜。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "taurah-2014-sample",
+      "paperKey": "taurah-2014-polydrug",
+      "substances": ["mdma"],
+      "sections": ["risks"],
+      "kind": "result",
+      "statement": "997 是全體樣本數，不是單一 MDMA 組的人數。",
+      "source": {
+        "pdfPage": 1,
+        "section": "Abstract / Methods",
+        "quote": "A sample of 997 participants (52 % male) was recruited to four control groups"
+      },
+      "study": {
+        "design": "observational-group-comparison",
+        "context": "naturalistic-use",
+        "population": "目前或過去 ecstasy 多重物質使用者及四組對照者",
+        "sampleSize": 997,
+        "exposure": "目前或過去 ecstasy 使用史",
+        "comparator": "不使用藥物、酒精／尼古丁、大麻相關及非 ecstasy 多重物質使用組",
+        "timeframe": "單次評估；過去使用者回報停用 4–9 年",
+        "overlapFamily": null
+      },
+      "result": null,
+      "limitations": [
+        "回溯使用史、可能的取樣偏差與多重物質使用限制因果解讀。",
+        "目前與過去使用者的比較不等同於同一批人的長期追蹤。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "taurah-2014-causality-limit",
+      "paperKey": "taurah-2014-polydrug",
+      "substances": ["mdma"],
+      "sections": ["risks"],
+      "kind": "limitation",
+      "statement": "研究作者明示無法推論因果；正文需保留此限制。",
+      "source": {
+        "pdfPage": 9,
+        "section": "Limitations of the research",
+        "quote": "conclusions regarding cause and effect cannot be drawn."
+      },
+      "study": {
+        "design": "observational-group-comparison",
+        "context": "naturalistic-use",
+        "population": "目前或過去 ecstasy 多重物質使用者及四組對照者",
+        "sampleSize": 997,
+        "exposure": "目前或過去 ecstasy 使用史",
+        "comparator": "不使用藥物、酒精／尼古丁、大麻相關及非 ecstasy 多重物質使用組",
+        "timeframe": "單次評估；過去使用者回報停用 4–9 年",
+        "overlapFamily": null
+      },
+      "result": null,
+      "limitations": [
+        "回溯使用史、可能的取樣偏差與多重物質使用限制因果解讀。",
+        "目前與過去使用者的比較不等同於同一批人的長期追蹤。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "huizink-2006-later-use",
+      "paperKey": "huizink-2006-temporality",
+      "substances": ["mdma"],
+      "sections": ["risks", "related"],
+      "kind": "result",
+      "statement": "兒童期症狀與日後 MDMA 使用的關聯，不能把方向寫反。",
+      "source": {
+        "pdfPage": 3,
+        "section": "Results",
+        "quote": "increased risk on later MDMA use (hazard ratio 2.22, 95% confidence interval 1.20 to 4.11, P = 0.01)."
+      },
+      "study": {
+        "design": "prospective-population-cohort",
+        "context": "naturalistic-use",
+        "population": "荷蘭 Zuid-Holland 由兒童期追蹤至成年的族群樣本",
+        "sampleSize": 1580,
+        "exposure": "兒童期焦慮／憂鬱症狀",
+        "comparator": "兒童期相應症狀量表未達偏離範圍者",
+        "timeframe": "1983–1997，追蹤 14 年；結果為日後 MDMA 使用",
+        "overlapFamily": null
+      },
+      "result": {
+        "outcome": "日後 MDMA 使用",
+        "measure": "HR",
+        "estimate": 2.22,
+        "ciLower": 1.2,
+        "ciUpper": 4.11,
+        "confidenceLevel": 95
+      },
+      "limitations": [
+        "暴露是兒童期症狀，結果是日後使用 MDMA；不得倒置方向。",
+        "這是前瞻性觀察研究，不能據此估計 MDMA 治療效果或藥物造成憂鬱的程度。",
+        "統計解讀（編輯註）：危險比比較追蹤期間仍未發生事件者，在各時點發生事件的相對速率；此處的事件是開始使用 MDMA，不是憂鬱發作，HR 也不是累積使用機率的比值。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "patel-2015-insufficient-evidence",
+      "paperKey": "patel-titheradge-2015-review",
+      "substances": ["mdma"],
+      "sections": ["benefits", "risks", "therapy"],
+      "kind": "limitation",
+      "statement": "僅代表這篇 2015 年綜述當時的證據判斷；不能自動改寫為今日結論。",
+      "source": {
+        "pdfPage": 1,
+        "section": "Abstract / Conclusions",
+        "quote": "experimental evidence and safety analysis are insufficient to confirm or reject this theory at present."
+      },
+      "study": {
+        "design": "literature-review",
+        "context": "review",
+        "population": "綜述既有動物、人體實驗與臨床研究；無獨立受試者樣本",
+        "sampleSize": null,
+        "exposure": "MDMA 藥理、心理作用及治療應用的既有文獻",
+        "comparator": "依綜述中的原始研究而異",
+        "timeframe": "2015 年發表的綜述",
+        "overlapFamily": null
+      },
+      "result": null,
+      "limitations": [
+        "這是 2015 年綜述當時的證據判斷，不能直接代表今日全部研究。",
+        "綜述中的原始研究未在此視為獨立取得及重新分析。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "guillot-2007-comparator-context",
+      "paperKey": "guillot-2007-review",
+      "substances": ["mdma"],
+      "sections": ["risks"],
+      "kind": "result",
+      "statement": "保留比較組背景與綜述層級；不能把此數字當成新的獨立試驗結果。",
+      "source": {
+        "pdfPage": 2,
+        "section": "Abstract",
+        "quote": "only three studies ultimately have revealed significantly higher depression scores in comparison to cannabis or polydrug controls."
+      },
+      "study": {
+        "design": "literature-review",
+        "context": "review",
+        "population": "綜述娛樂性 ecstasy 使用與憂鬱症狀的研究；無獨立受試者樣本",
+        "sampleSize": null,
+        "exposure": "娛樂性 ecstasy 使用的既有研究",
+        "comparator": "未使用藥物者、大麻使用者或其他多重物質使用者",
+        "timeframe": "2007 年發表的綜述",
+        "overlapFamily": null
+      },
+      "result": null,
+      "limitations": [
+        "這是 2007 年的文獻綜述，研究方法與比較組差異限制解讀。",
+        "綜述納入的研究數不是受試者人數，不應重複計算原始研究。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "patel-2015-identity",
+      "paperKey": "patel-titheradge-2015-review",
+      "substances": ["mdma"],
+      "sections": ["basics"],
+      "kind": "background",
+      "statement": "MDMA 是 3,4-methylenedioxymethamphetamine 的縮寫。",
+      "source": {
+        "pdfPage": 1,
+        "section": "Introduction",
+        "quote": "3,4-Methylene-dioxymethamphetamine (MDMA), the active component of ‘ecstasy’"
+      },
+      "study": {
+        "design": "literature-review",
+        "context": "review",
+        "population": "綜述既有動物、人體實驗與臨床研究；無獨立受試者樣本",
+        "sampleSize": null,
+        "exposure": "MDMA 藥理、心理作用及治療應用的既有文獻",
+        "comparator": "依綜述中的原始研究而異",
+        "timeframe": "2015 年發表的綜述",
+        "overlapFamily": null
+      },
+      "result": null,
+      "limitations": [
+        "這是 2015 年綜述當時的證據判斷，不能直接代表今日全部研究。",
+        "綜述中的原始研究未在此視為獨立取得及重新分析。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "patel-2015-serotonin",
+      "paperKey": "patel-titheradge-2015-review",
+      "substances": ["mdma"],
+      "sections": ["basics"],
+      "kind": "background",
+      "statement": "綜述描述 MDMA 促進單胺類神經傳導物質釋放，包括透過血清素轉運體促進血清素釋放。",
+      "source": {
+        "pdfPage": 2,
+        "section": "MDMA pharmacology / Positive indications",
+        "quote": "inducing a rapid, dose-dependent, nonexocytic monoamine release into the synapse [Schmidt, 1987; Rudnick and Wall, 1992; Rothman and Baumann, 2002]. These finding have been recapitulated in conscious rats [Baumann et al. 2005]. Of the monoamines, MDMA has highest efficacy for 5-HT release via the serotonin reuptake transporter (SERT)"
+      },
+      "study": {
+        "design": "literature-review",
+        "context": "review",
+        "population": "綜述既有動物、人體實驗與臨床研究；無獨立受試者樣本",
+        "sampleSize": null,
+        "exposure": "MDMA 藥理、心理作用及治療應用的既有文獻",
+        "comparator": "依綜述中的原始研究而異",
+        "timeframe": "2015 年發表的綜述",
+        "overlapFamily": null
+      },
+      "result": null,
+      "limitations": [
+        "這是 2015 年綜述當時的證據判斷，不能直接代表今日全部研究。",
+        "綜述中的原始研究未在此視為獨立取得及重新分析。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "jones-nock-2022-history",
+      "paperKey": "jones-nock-2022-distress",
+      "substances": ["mdma"],
+      "sections": ["history"],
+      "kind": "background",
+      "statement": "Jones 與 Nock 的背景介紹記載，Merck 於 1912 年首次合成 MDMA。",
+      "source": {
+        "pdfPage": 1,
+        "section": "Introduction",
+        "quote": "MDMA was first synthesized in 1912 by Merck"
+      },
+      "study": {
+        "design": "cross-sectional-survey",
+        "context": "naturalistic-use",
+        "population": "美國 NSDUH 成年受訪者",
+        "sampleSize": 484732,
+        "exposure": "終生 MDMA/ecstasy、psilocybin 或 LSD 使用史",
+        "comparator": "沒有相應物質終生使用史者",
+        "timeframe": "調查年份 2008–2019；結果涵蓋過去一個月或一年",
+        "overlapFamily": "nsduh-adult-surveys"
+      },
+      "result": null,
+      "limitations": [
+        "自然使用史與結果的關聯不等同於介入療效。",
+        "無法確立使用物質與心理健康結果的時間先後。",
+        "自陳 MDMA/ecstasy 使用不能確認物質純度與劑量。",
+        "與其他 NSDUH 分析有資料年份重疊。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "patel-2015-therapy-context",
+      "paperKey": "patel-titheradge-2015-review",
+      "substances": ["mdma"],
+      "sections": ["history", "therapy"],
+      "kind": "background",
+      "statement": "2015 年綜述已討論 MDMA 作為 PTSD 心理治療輔助的研究。",
+      "source": {
+        "pdfPage": 1,
+        "section": "Introduction",
+        "quote": "MDMA is already in clinical trials for anxiety disorders such as post-traumatic stress disorder (PTSD), as an adjunct to psychotherapy"
+      },
+      "study": {
+        "design": "literature-review",
+        "context": "review",
+        "population": "綜述既有動物、人體實驗與臨床研究；無獨立受試者樣本",
+        "sampleSize": null,
+        "exposure": "MDMA 藥理、心理作用及治療應用的既有文獻",
+        "comparator": "依綜述中的原始研究而異",
+        "timeframe": "2015 年發表的綜述",
+        "overlapFamily": null
+      },
+      "result": null,
+      "limitations": [
+        "這是 2015 年綜述當時的證據判斷，不能直接代表今日全部研究。",
+        "綜述中的原始研究未在此視為獨立取得及重新分析。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "patel-2015-naturalistic-limit",
+      "paperKey": "patel-titheradge-2015-review",
+      "substances": ["mdma"],
+      "sections": ["basics", "risks", "therapy"],
+      "kind": "limitation",
+      "statement": "回溯、自陳與其他物質使用限制自然使用者資料向治療情境的外推。",
+      "source": {
+        "pdfPage": 2,
+        "section": "Introduction",
+        "quote": "Data from recreational users are also inadequate, restricted by retrospective design that cannot rule out premorbid differences, as well as reliance on self-reported variables of time and dose."
+      },
+      "study": {
+        "design": "literature-review",
+        "context": "review",
+        "population": "綜述既有動物、人體實驗與臨床研究；無獨立受試者樣本",
+        "sampleSize": null,
+        "exposure": "MDMA 藥理、心理作用及治療應用的既有文獻",
+        "comparator": "依綜述中的原始研究而異",
+        "timeframe": "2015 年發表的綜述",
+        "overlapFamily": null
+      },
+      "result": null,
+      "limitations": [
+        "這是 2015 年綜述當時的證據判斷，不能直接代表今日全部研究。",
+        "綜述中的原始研究未在此視為獨立取得及重新分析。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "taurah-2014-results",
+      "paperKey": "taurah-2014-polydrug",
+      "substances": ["mdma"],
+      "sections": ["risks"],
+      "kind": "result",
+      "statement": "這項觀察比較中，目前與過去 ecstasy 多重物質使用者在多項心理測量的表現較對照組差。",
+      "source": {
+        "pdfPage": 1,
+        "section": "Abstract / Results",
+        "quote": "the MDMA and EX-MDMA groups recorded greater deficits than all the control groups on ten of the 13 psychometric measures."
+      },
+      "study": {
+        "design": "observational-group-comparison",
+        "context": "naturalistic-use",
+        "population": "目前或過去 ecstasy 多重物質使用者及四組對照者",
+        "sampleSize": 997,
+        "exposure": "目前或過去 ecstasy 使用史",
+        "comparator": "不使用藥物、酒精／尼古丁、大麻相關及非 ecstasy 多重物質使用組",
+        "timeframe": "單次評估；過去使用者回報停用 4–9 年",
+        "overlapFamily": null
+      },
+      "result": null,
+      "limitations": [
+        "回溯使用史、可能的取樣偏差與多重物質使用限制因果解讀。",
+        "目前與過去使用者的比較不等同於同一批人的長期追蹤。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "patel-2015-acute-empathy",
+      "paperKey": "patel-titheradge-2015-review",
+      "substances": ["mdma"],
+      "sections": ["basics"],
+      "kind": "background",
+      "statement": "綜述描述 MDMA 的急性作用包括同理心感受增加。",
+      "source": {
+        "pdfPage": 7,
+        "section": "Conclusion",
+        "quote": "There is no doubt that MDMA acutely causes feelings of empathy in almost all users."
+      },
+      "study": {
+        "design": "literature-review",
+        "context": "review",
+        "population": "綜述既有動物、人體實驗與臨床研究；無獨立受試者樣本",
+        "sampleSize": null,
+        "exposure": "MDMA 藥理、心理作用及治療應用的既有文獻",
+        "comparator": "依綜述中的原始研究而異",
+        "timeframe": "2015 年發表的綜述",
+        "overlapFamily": null
+      },
+      "result": null,
+      "limitations": [
+        "這是 2015 年綜述當時的證據判斷，不能直接代表今日全部研究。",
+        "綜述中的原始研究未在此視為獨立取得及重新分析。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "patel-2015-volunteer-effects",
+      "paperKey": "patel-titheradge-2015-review",
+      "substances": ["mdma"],
+      "sections": ["basics", "risks"],
+      "kind": "result",
+      "statement": "綜述轉述三個實驗室共 220 名健康受試者的分析，記錄親近感等主觀變化，以及心率與血壓上升。",
+      "source": {
+        "pdfPage": 5,
+        "section": "Human volunteer studies",
+        "quote": "Kirkpatrick and colleagues undertook an analysis of data of the effects of MDMA across three different laboratories, with 220 healthy volunteers [Kirkpatrick et al. 2014a]. They demonstrated consistent subjective effects, as well as physical changes. The subjective effects were assessed using visual analogue scales and covered perception of a drug effect, liking of drug effect, closeness to others and feelings of anxiety. Significant positive shifts were demonstrated on each of these factors. Physical changes related to an increase in both heart rate and blood pressure"
+      },
+      "study": {
+        "design": "literature-review",
+        "context": "review",
+        "population": "綜述轉述三個實驗室共 220 名健康受試者的資料分析；綜述本身無獨立受試者樣本",
+        "sampleSize": null,
+        "exposure": "原始研究中的 MDMA 給藥；以視覺類比量表及生理測量評估",
+        "comparator": "依綜述所引用的實驗室研究而異；此段未逐項列明",
+        "timeframe": "給藥後的急性主觀與生理反應；由 2015 年綜述轉述",
+        "overlapFamily": null
+      },
+      "result": null,
+      "limitations": [
+        "這是 2015 年綜述當時的證據判斷，不能直接代表今日全部研究。",
+        "綜述中的原始研究未在此視為獨立取得及重新分析。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "patel-2015-psychotherapy-history",
+      "paperKey": "patel-titheradge-2015-review",
+      "substances": ["mdma"],
+      "sections": ["history"],
+      "kind": "background",
+      "statement": "綜述記載 1986 年的文獻已討論 MDMA 作為心理治療輔助的潛力。",
+      "source": {
+        "pdfPage": 6,
+        "section": "Psychotherapy adjuncts",
+        "quote": "In 1986, Grinspoon and Bakalar discussed the history of drug use for the enhancement of psychotherapy and highlighted MDMA as one of the most promising agents of interest [Grinspoon and Bakalar, 1986]."
+      },
+      "study": {
+        "design": "literature-review",
+        "context": "review",
+        "population": "綜述既有動物、人體實驗與臨床研究；無獨立受試者樣本",
+        "sampleSize": null,
+        "exposure": "MDMA 藥理、心理作用及治療應用的既有文獻",
+        "comparator": "依綜述中的原始研究而異",
+        "timeframe": "2015 年發表的綜述",
+        "overlapFamily": null
+      },
+      "result": null,
+      "limitations": [
+        "這是 2015 年綜述當時的證據判斷，不能直接代表今日全部研究。",
+        "綜述中的原始研究未在此視為獨立取得及重新分析。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "patel-2015-emotional-memory",
+      "paperKey": "patel-titheradge-2015-review",
+      "substances": ["mdma"],
+      "sections": ["benefits"],
+      "kind": "result",
+      "statement": "綜述轉述健康受試者的情緒記憶實驗：以影像與主觀評分評估個人回憶；給藥期間負面回憶較不負面，正面回憶更鮮明且情緒更強烈。",
+      "source": {
+        "pdfPage": 5,
+        "section": "Human volunteer studies / Emotional memories",
+        "quote": "Nutt’s group looked at the effects of a modest MDMA dose on the recall of emotionally important memories, using functional magnetic resonance imaging (fMRI) and subjective ratings [Carhart-Harris et al. 2014a. De Wit’s group investigated the effects of MDMA on the perception of social rejection using a computer simulated task and subjective ratings [Frye et al. 2014a]. In both studies, MDMA was shown to enhance positivity. In the work by Nutt’s group, participants reported that during the use of MDMA, worst memories, such as the death of a close friend, were significantly less negative, whilst favourite memories were more positive, vivid and emotionally intense."
+      },
+      "study": {
+        "design": "literature-review",
+        "context": "review",
+        "population": "綜述整理的健康受試者情緒記憶實驗；原始研究樣本數未在此段列明",
+        "sampleSize": null,
+        "exposure": "MDMA 給藥期間回想個人經驗，以 fMRI 與主觀評分評估",
+        "comparator": "此段綜述未詳述原始研究比較組安排",
+        "timeframe": "給藥期間的回憶感受；由 2015 年綜述轉述",
+        "overlapFamily": null
+      },
+      "result": null,
+      "limitations": [
+        "這是 2015 年綜述當時的證據判斷，不能直接代表今日全部研究。",
+        "綜述中的原始研究未在此視為獨立取得及重新分析。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "patel-2015-social-rejection",
+      "paperKey": "patel-titheradge-2015-review",
+      "substances": ["mdma"],
+      "sections": ["benefits"],
+      "kind": "result",
+      "statement": "綜述轉述以電腦模擬社交排斥及主觀評分進行的健康受試者實驗，MDMA 給藥期間對排斥的主觀反應較弱。",
+      "source": {
+        "pdfPage": 5,
+        "section": "Human volunteer studies / Social rejection",
+        "quote": "De Wit’s group investigated the effects of MDMA on the perception of social rejection using a computer simulated task and subjective ratings [Frye et al. 2014a]. In both studies, MDMA was shown to enhance positivity. In the work by Nutt’s group, participants reported that during the use of MDMA, worst memories, such as the death of a close friend, were significantly less negative, whilst favourite memories were more positive, vivid and emotionally intense. In the study by De Wit’s group, enhanced positivity is demonstrated by a decreased subjective response to rejection."
+      },
+      "study": {
+        "design": "literature-review",
+        "context": "review",
+        "population": "綜述整理的健康受試者社交排斥實驗；原始研究樣本數未在此段列明",
+        "sampleSize": null,
+        "exposure": "MDMA 給藥期間進行電腦模擬社交排斥作業及主觀評分",
+        "comparator": "此段綜述未詳述原始研究比較組安排",
+        "timeframe": "給藥期間的主觀反應；由 2015 年綜述轉述",
+        "overlapFamily": null
+      },
+      "result": null,
+      "limitations": [
+        "這是 2015 年綜述當時的證據判斷，不能直接代表今日全部研究。",
+        "綜述中的原始研究未在此視為獨立取得及重新分析。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "patel-2015-overdose-reactions",
+      "paperKey": "patel-titheradge-2015-review",
+      "substances": ["mdma"],
+      "sections": ["risks"],
+      "kind": "background",
+      "statement": "綜述描述 MDMA 過量可能造成高體溫，進一步出現肌肉分解、高血鉀與器官衰竭。",
+      "source": {
+        "pdfPage": 2,
+        "section": "Introduction / Safety",
+        "quote": "In humans, MDMA overdose can produce hyperthermia, with subsequent muscle break down resulting in hyperkalaemia and organ failure [Carvalho et al. 2012]."
+      },
+      "study": {
+        "design": "literature-review",
+        "context": "review",
+        "population": "綜述描述的人類 MDMA 過量情境；無獨立受試者樣本",
+        "sampleSize": null,
+        "exposure": "MDMA 過量使用",
+        "comparator": "此段並非受控比較試驗",
+        "timeframe": "過量使用的急性身體反應；2015 年綜述",
+        "overlapFamily": null
+      },
+      "result": null,
+      "limitations": [
+        "這是 2015 年綜述當時的證據判斷，不能直接代表今日全部研究。",
+        "綜述中的原始研究未在此視為獨立取得及重新分析。",
+        "此證據描述過量使用，沒有提供受控給藥的發生率或絕對風險估計。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "patel-2015-ptsd-protocol",
+      "paperKey": "patel-titheradge-2015-review",
+      "substances": ["mdma"],
+      "sections": ["history", "therapy"],
+      "kind": "background",
+      "statement": "綜述描述難治型 PTSD 試驗，把 MDMA 輔助會談與未給藥的心理治療會談交錯安排。",
+      "source": {
+        "pdfPage": 6,
+        "section": "Psychotherapy adjuncts",
+        "quote": "Modern trials of MDMA as an augmentation strategy in cognitive therapies have been initiated with treatment-resistant PTSD patients. PTSD is an anxiety disorder, related and often comorbid with depression, and the protocols from the groups researching the efficacy of MDMA assisted psychotherapy in PTSD could be translated into work on depression. Current protocols consist of a number of MDMA-assisted sessions interspersed with nondrug based psychotherapy sessions, with an overnight inpatient stay following MDMA assisted-sessions to ensure safety [Oehen et al. 2013]."
+      },
+      "study": {
+        "design": "literature-review",
+        "context": "review",
+        "population": "綜述描述的難治型 PTSD 臨床試驗患者；綜述無獨立受試者樣本",
+        "sampleSize": null,
+        "exposure": "MDMA 輔助會談與未給藥心理治療會談交錯進行",
+        "comparator": "此段描述治療流程，未列出原始試驗各比較組結果",
+        "timeframe": "2015 年綜述整理的早期試驗流程",
+        "overlapFamily": null
+      },
+      "result": null,
+      "limitations": [
+        "這是 2015 年綜述當時的證據判斷，不能直接代表今日全部研究。",
+        "綜述中的原始研究未在此視為獨立取得及重新分析。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "patel-2015-review-scope",
+      "paperKey": "patel-titheradge-2015-review",
+      "substances": ["mdma"],
+      "sections": ["therapy", "related"],
+      "kind": "background",
+      "statement": "綜述檢視 MDMA 作為快速抗憂鬱藥物或心理治療輔助的構想，整理藥理、心理、行為與安全性證據。",
+      "source": {
+        "pdfPage": 1,
+        "section": "Abstract / Background, Aims and Method",
+        "quote": "It has been suggested that 3,4-methylenedioxymethamphetamine (MDMA) could play a part in the treatment of depression, either as a rapid-onset pharmacological agent or as an adjunct to psychotherapy. Whilst these hypotheses are in keeping with the monoamine theory of depression and the principles surrounding psychotherapy, explicit experimental evidence of an antidepressant effect of MDMA has rarely been established. Aims: To address the hypothesis surrounding MDMA as a rapid-onset antidepressant by examining pharmacological, psychological and behavioural studies. We consider whether this therapy could be safe by looking at the translation of neurotoxicity data from animals to humans. Method: A literature review of the evidence supporting this hypothesis was performed."
+      },
+      "study": {
+        "design": "literature-review",
+        "context": "review",
+        "population": "綜述既有動物、人體實驗與臨床研究；無獨立受試者樣本",
+        "sampleSize": null,
+        "exposure": "MDMA 藥理、心理作用及治療應用的既有文獻",
+        "comparator": "依綜述中的原始研究而異",
+        "timeframe": "2015 年發表的綜述",
+        "overlapFamily": null
+      },
+      "result": null,
+      "limitations": [
+        "這是 2015 年綜述當時的證據判斷，不能直接代表今日全部研究。",
+        "綜述中的原始研究未在此視為獨立取得及重新分析。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "jones-2023-white-mde",
+      "paperKey": "jones-2023-race-mde",
+      "substances": ["mdma"],
+      "sections": ["benefits"],
+      "kind": "result",
+      "statement": "白人受訪者的 MDMA/ecstasy 使用史與較低重鬱發作勝算相關；原文所列 aOR 範圍同時涵蓋 MDMA 與 psilocybin，不能當成 MDMA 的單一效果值。",
+      "source": {
+        "pdfPage": 1,
+        "section": "Abstract / Results",
+        "quote": "For White participants, MDMA/ecstasy use and psilocybin use each were associated with lowered odds of all three MDE outcomes (adjusted odds ratio (aOR) range: 0.82–0.92)."
+      },
+      "study": {
+        "design": "cross-sectional-survey",
+        "context": "naturalistic-use",
+        "population": "美國 NSDUH 成年受訪者；按研究中的種族與族裔分組",
+        "sampleSize": 596187,
+        "exposure": "終生 MDMA/ecstasy 或 psilocybin 使用史",
+        "comparator": "同族群內沒有相應物質終生使用史者",
+        "timeframe": "調查年份 2005–2019；結果涵蓋終生及過去一年重鬱發作",
+        "overlapFamily": "nsduh-adult-surveys"
+      },
+      "result": null,
+      "limitations": [
+        "橫斷面資料無法建立因果與時間先後。",
+        "終生使用為二元自陳，無法確定頻率、劑量或近期使用。",
+        "與另一篇 NSDUH 分析有資料年份重疊，不能直接合併樣本數。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "guillot-2007-review-counts",
+      "paperKey": "guillot-2007-review",
+      "substances": ["mdma"],
+      "sections": ["risks", "related"],
+      "kind": "result",
+      "statement": "綜述檢視 ecstasy 使用與憂鬱症狀，22 項研究中 11 項最初報告較高分數；與大麻或多重物質使用者比較時，只有三項研究仍有顯著較高分數。",
+      "source": {
+        "pdfPage": 2,
+        "section": "Abstract",
+        "quote": "The purpose of this review is to evaluate the evidence for a relationship between recreational Ecstasy use and higher levels of depressive symptoms. Eleven out of 22 studies initially have reported significantly higher depression scores in Ecstasy users in comparison to control participants. However, only three studies ultimately have revealed significantly higher depression scores in comparison to cannabis or polydrug controls."
+      },
+      "study": {
+        "design": "literature-review",
+        "context": "review",
+        "population": "綜述娛樂性 ecstasy 使用與憂鬱症狀的研究；無獨立受試者樣本",
+        "sampleSize": null,
+        "exposure": "娛樂性 ecstasy 使用的既有研究",
+        "comparator": "未使用藥物者、大麻使用者或其他多重物質使用者",
+        "timeframe": "2007 年發表的綜述",
+        "overlapFamily": null
+      },
+      "result": null,
+      "limitations": [
+        "這是 2007 年的文獻綜述，研究方法與比較組差異限制解讀。",
+        "綜述納入的研究數不是受試者人數，不應重複計算原始研究。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "pantoni-2022-fear-memory",
+      "paperKey": "pantoni-2022-dose-effects",
+      "substances": ["mdma"],
+      "sections": ["risks"],
+      "kind": "result",
+      "statement": "小鼠訓練前腹腔注射 3 或 10 mg/kg MDMA 後，未給藥的長期情境與聲音測驗僵直反應較少；0.01–1 mg/kg 各組與食鹽水組的差異未達統計顯著。",
+      "source": {
+        "pdfPage": 5,
+        "section": "Results / Fear conditioning；研究對象與方法見 PDF 第3–4頁",
+        "quote": "Compared to saline controls, only mice given 10 mg/kg MDMA exhibited reduced freezing during the post-shock test (p < 0.001; all other p values > 0.05), and only mice previously given 3 or 10 mg/kg MDMA exhibited reduced freezing during the context (p values ≤ 0.03; all other p values > 0.1) and tone (p values ≤ 0.01; all other p values > 0.06) tests."
+      },
+      "study": {
+        "design": "animal-dose-ranging",
+        "context": "preclinical-animal",
+        "population": "至少 10 週齡的雌雄 129B6 雜交小鼠（C57BL/6J × 129S1/SvImJ）",
+        "sampleSize": 184,
+        "exposure": "訓練前 30 分鐘腹腔注射 0、0.01、0.05、0.1、0.5、1、3 或 10 mg/kg MDMA，再進行聲音與電擊配對訓練",
+        "comparator": "腹腔注射生理食鹽水的對照組",
+        "timeframe": "訓練後第7天未給藥的情境測驗、第8天未給藥的聲音測驗；同時記錄訓練當日短期測驗",
+        "overlapFamily": "pantoni-2022-mice-cohort"
+      },
+      "result": null,
+      "limitations": [
+        "臨床前小鼠實驗；結果不直接表示人類療效、安全劑量或人類成癮風險。",
+        "以腹腔注射給藥，不等同於人體口服給藥。",
+        "184 隻小鼠全部參與恐懼制約，其中 45 隻於六週後參與成癮相關測驗、79 隻於八週後參與強迫游泳測驗；各實驗樣本不可加總為獨立受試動物。",
+        "PDF 檔名使用更正公告 DOI 10.1007/s00213-022-06126-4；正文與引用依原始研究 DOI 10.1007/s00213-022-06086-9。更正公告說明原先誤刊未校正清樣，已替換為校正版。",
+        "結果以僵直反應測量恐懼記憶，不等同於人體日常記憶或 PTSD 症狀。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "pantoni-2022-sensitization",
+      "paperKey": "pantoni-2022-dose-effects",
+      "substances": ["mdma"],
+      "sections": ["risks"],
+      "kind": "result",
+      "statement": "45 隻小鼠接受 7 次隔日訓練；10 mg/kg 組從第一次至第七次的活動增加較食鹽水組明顯，0.1、1 mg/kg 組的差異未達統計顯著。",
+      "source": {
+        "pdfPage": 6,
+        "section": "Results / Behavioral sensitization；方法見 PDF 第4頁",
+        "quote": "Lastly, there were significant group differences in the development of sensitization as measured by the difference in average activity on day 7 versus day 1 (locomotion, F(3, 41) = 4.42, p = 0.009; stereotypy, F(3, 41) = 3.57, p = 0.02; verticality, F(3, 41) = 4.32, p = 0.01; Fig. 2c, f, i). Only mice receiving 10 mg/ kg MDMA exhibited a significant increase in locomotor (p = 0.002; all other p values > 0.5), stereotyped (p = 0.03; all other p values > 0.3), and vertical (p = 0.04; all other p values > 0.1) activity from day 1 to day 7 when compared to saline controls."
+      },
+      "study": {
+        "design": "animal-dose-ranging",
+        "context": "preclinical-animal",
+        "population": "至少 10 週齡的雌雄 129B6 雜交小鼠（C57BL/6J × 129S1/SvImJ）",
+        "sampleSize": 45,
+        "exposure": "重新分組為 0、0.1、1、10 mg/kg；隔日進行 7 次藥物與環境配對，記錄運動、刻板與垂直活動",
+        "comparator": "腹腔注射生理食鹽水的對照組",
+        "timeframe": "恐懼制約實驗六週後，以第一次至第七次訓練的活動量差值評估行為敏化",
+        "overlapFamily": "pantoni-2022-mice-cohort"
+      },
+      "result": null,
+      "limitations": [
+        "臨床前小鼠實驗；結果不直接表示人類療效、安全劑量或人類成癮風險。",
+        "以腹腔注射給藥，不等同於人體口服給藥。",
+        "184 隻小鼠全部參與恐懼制約，其中 45 隻於六週後參與成癮相關測驗、79 隻於八週後參與強迫游泳測驗；各實驗樣本不可加總為獨立受試動物。",
+        "PDF 檔名使用更正公告 DOI 10.1007/s00213-022-06126-4；正文與引用依原始研究 DOI 10.1007/s00213-022-06086-9。更正公告說明原先誤刊未校正清樣，已替換為校正版。",
+        "行為敏化為成癮相關行為指標，不是直接測量成癮診斷。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "pantoni-2022-place-preference-null",
+      "paperKey": "pantoni-2022-dose-effects",
+      "substances": ["mdma"],
+      "sections": ["risks"],
+      "kind": "result",
+      "statement": "完成 7 次訓練 24 小時後，小鼠在未給藥的條件性環境偏好測驗中，各組偏好均未達統計顯著。",
+      "source": {
+        "pdfPage": 6,
+        "section": "Results / Conditioned place preference；方法見 PDF 第4頁",
+        "quote": "Twenty-four hours after the last training day, mice were tested off drug for conditioned place preference. Mice were allowed free access to both sides and place preference was measured by the difference in distance traveled and time spent on the drug-paired side versus the unpaired side. There were no significant group differences in distance traveled (F(3, 41) = 0.48, p = 0.7; Fig. 3a) or time spent (F(3, 41) = 0.18, p = 0.91; Fig. 3b) between sides. Additionally, none of the groups exhibited place preference in locomotor activity (one sample two-tailed t -test against hypothesized μ = 0; t(9–11) values < 1, p values > 0.4) or time spent (t(9–11) values < 1.4, p values > 1)."
+      },
+      "study": {
+        "design": "animal-dose-ranging",
+        "context": "preclinical-animal",
+        "population": "至少 10 週齡的雌雄 129B6 雜交小鼠（C57BL/6J × 129S1/SvImJ）",
+        "sampleSize": 45,
+        "exposure": "沿用成癮相關測驗的 0、0.1、1、10 mg/kg 分組；未給藥時測量在藥物配對與未配對環境中的時間與移動距離",
+        "comparator": "腹腔注射生理食鹽水的對照組",
+        "timeframe": "第七次訓練後24小時、未給藥時測量環境偏好",
+        "overlapFamily": "pantoni-2022-mice-cohort"
+      },
+      "result": null,
+      "limitations": [
+        "臨床前小鼠實驗；結果不直接表示人類療效、安全劑量或人類成癮風險。",
+        "以腹腔注射給藥，不等同於人體口服給藥。",
+        "184 隻小鼠全部參與恐懼制約，其中 45 隻於六週後參與成癮相關測驗、79 隻於八週後參與強迫游泳測驗；各實驗樣本不可加總為獨立受試動物。",
+        "PDF 檔名使用更正公告 DOI 10.1007/s00213-022-06126-4；正文與引用依原始研究 DOI 10.1007/s00213-022-06086-9。更正公告說明原先誤刊未校正清樣，已替換為校正版。",
+        "未達統計顯著不能解讀成完全沒有獎賞性或完全沒有成癮可能。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "pantoni-2022-forced-swim",
+      "paperKey": "pantoni-2022-dose-effects",
+      "substances": ["mdma"],
+      "sections": ["therapy"],
+      "kind": "result",
+      "statement": "79 隻小鼠在腹腔注射後 30 分鐘接受強迫游泳測驗；3、10 mg/kg 組的不動時間較短，0.1、0.5、1 mg/kg 組與食鹽水組的差異未達統計顯著。",
+      "source": {
+        "pdfPage": 7,
+        "section": "Results / Forced swim test；方法見 PDF 第3、5頁",
+        "quote": "Forced swim test The effects of MDMA (0–10 mg/kg, i.p.) on depressive-like behavior were examined using the forced swim test. Mice underwent a 6-min on-drug test and time spent immobile was scored during the last 4 min of testing. MDMA dose-dependently modulated immobility (F(5, 73) = 13.13, p < 0.001; Fig. 4b). Only mice given 3 or 10 mg/kg MDMA exhibited reduced immobility relative to saline controls (p values < 0.001; all other p values > 0.5)."
+      },
+      "study": {
+        "design": "animal-dose-ranging",
+        "context": "preclinical-animal",
+        "population": "至少 10 週齡的雌雄 129B6 雜交小鼠（C57BL/6J × 129S1/SvImJ）",
+        "sampleSize": 79,
+        "exposure": "重新分組為 0、0.1、0.5、1、3、10 mg/kg；腹腔注射 30 分鐘後接受 6 分鐘強迫游泳測驗，計算最後 4 分鐘的不動時間",
+        "comparator": "腹腔注射生理食鹽水的對照組",
+        "timeframe": "恐懼制約實驗八週後進行；測量給藥當下的急性行為反應",
+        "overlapFamily": "pantoni-2022-mice-cohort"
+      },
+      "result": null,
+      "limitations": [
+        "臨床前小鼠實驗；結果不直接表示人類療效、安全劑量或人類成癮風險。",
+        "以腹腔注射給藥，不等同於人體口服給藥。",
+        "184 隻小鼠全部參與恐懼制約，其中 45 隻於六週後參與成癮相關測驗、79 隻於八週後參與強迫游泳測驗；各實驗樣本不可加總為獨立受試動物。",
+        "PDF 檔名使用更正公告 DOI 10.1007/s00213-022-06126-4；正文與引用依原始研究 DOI 10.1007/s00213-022-06086-9。更正公告說明原先誤刊未校正清樣，已替換為校正版。",
+        "強迫游泳測驗中的不動時間是動物抗憂鬱藥物篩選指標，不是人類憂鬱症療效。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "wolfgang-2025-classification",
+      "paperKey": "wolfgang-2025-mdma-therapy",
+      "substances": ["mdma"],
+      "sections": ["basics"],
+      "kind": "background",
+      "statement": "治療研究劑量的 MDMA 與經典啟靈物質不同，主要正向情緒及情感連結，通常不明顯產生視覺現象與自我消融。",
+      "source": {
+        "pdfPage": 2,
+        "section": "History / Classification and Subjective Effects",
+        "quote": "MDMA at therapeutic doses does not markedly produce \nthe aforementioned subjective effects that are characteristic \nof classical psychedelics (Figure 3) ( 20 ). Although MDMA at \ntherapeutic doses is potentially associated with mild tran -\nsient depersonalization or derealization phenomena, it does \nnot produce visual perceptual phenomena or panic reactions \nthat are more strongly associated with classical psychedelics \n( 21 ). MDMA instead produces a state of positive mood, well- \nbeing, and extroversion that is not attenuated by the sero -\ntonin (5HT)\n2A/C \nantagonist ket anserin ( 22 ). Thus, MDMA \nshould not be considered a classical psychedelic because \n5HT\n2A \nagonism is the primary mechanism of action charac -\nteristic of classical psychedelics ( 23 ), and the subjective effects \nof MDMA are not attenuated by a 5HT\n2A \nantagonist ( 22 )."
+      },
+      "study": {
+        "design": "literature-review",
+        "context": "review",
+        "population": "綜述整合健康受試者、PTSD 及其他疾病患者的研究；各證據鍵另記子研究條件",
+        "sampleSize": null,
+        "exposure": "MDMA 或 MDMA 搭配準備、給藥及整合會談；依所述子研究而異",
+        "comparator": "安慰劑或常規治療；部分資料為非隨機觀察比較",
+        "timeframe": "依子研究，從急性作用、兩天後、療程結束到九個月",
+        "overlapFamily": "wolfgang-2025-review-primary-studies"
+      },
+      "result": null,
+      "limitations": [
+        "本來源是敘述性綜述，未獨立讀取或再次驗證所引原始臨床試驗；綜述不是新增一組獨立受試者。",
+        "娛樂性 ecstasy 使用、健康成人實驗與搭配心理治療的患者試驗，不直接互推療效或風險。",
+        "試驗可能有盲法不足、期待效應、族群篩選、樣本數與長期對照追蹤限制。",
+        "PDF 首頁與內頁表格將第三期主要評估寫為末次給藥後約四週；本版依此綜述轉述，尚未核對原始試驗的評估時程。",
+        "正文不從不同試驗換算 MDMA-AT 與 SSRI 或其他心理治療的療效優劣，也不把不再符合診斷當作完全緩解。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "wolfgang-2025-prosocial",
+      "paperKey": "wolfgang-2025-mdma-therapy",
+      "substances": ["mdma"],
+      "sections": ["basics"],
+      "kind": "background",
+      "statement": "綜述描述 MDMA 的親社會作用包括信任與自我慈悲增加。",
+      "source": {
+        "pdfPage": 1,
+        "section": "Abstract and introduction",
+        "quote": "Unlike other psychedelics, \nMDMA uniquely induces prosocial subjective effects of \nheightened trust and self-compassion while maintaining \nego functioning as well as cognitive and perceptual lucidity."
+      },
+      "study": {
+        "design": "literature-review",
+        "context": "review",
+        "population": "綜述整合健康受試者、PTSD 及其他疾病患者的研究；各證據鍵另記子研究條件",
+        "sampleSize": null,
+        "exposure": "MDMA 或 MDMA 搭配準備、給藥及整合會談；依所述子研究而異",
+        "comparator": "安慰劑或常規治療；部分資料為非隨機觀察比較",
+        "timeframe": "依子研究，從急性作用、兩天後、療程結束到九個月",
+        "overlapFamily": "wolfgang-2025-review-primary-studies"
+      },
+      "result": null,
+      "limitations": [
+        "本來源是敘述性綜述，未獨立讀取或再次驗證所引原始臨床試驗；綜述不是新增一組獨立受試者。",
+        "娛樂性 ecstasy 使用、健康成人實驗與搭配心理治療的患者試驗，不直接互推療效或風險。",
+        "試驗可能有盲法不足、期待效應、族群篩選、樣本數與長期對照追蹤限制。",
+        "PDF 首頁與內頁表格將第三期主要評估寫為末次給藥後約四週；本版依此綜述轉述，尚未核對原始試驗的評估時程。",
+        "正文不從不同試驗換算 MDMA-AT 與 SSRI 或其他心理治療的療效優劣，也不把不再符合診斷當作完全緩解。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "wolfgang-2025-history",
+      "paperKey": "wolfgang-2025-mdma-therapy",
+      "substances": ["mdma"],
+      "sections": ["history"],
+      "kind": "background",
+      "statement": "1977 年 Shulgin 將 MDMA 介紹給 Zeff；1985 年美國列為 Schedule I，1986 年 MAPS 成立並贊助後續 PTSD 二、三期試驗。",
+      "source": {
+        "pdfPage": 2,
+        "section": "History / Classification and Subjective Effects",
+        "quote": "In 1977, Shulgin introduced it to retired Army \nLieutenant Colonel Leo Zeff , an Oakland, California psy -\nchotherapist with years of experience in MDA-assisted \ntherapy throughout the 1960s. Zeff went on to train ap -\nproximately 150 therapists and legally treat over 4,000 pa -\ntients with MDMA-AT until 1985, when MDMA was \ndeclared a Schedule I substance with no accepted medical \nuse due to the rise of its use in recreational settings ( 5 ).\nThe first report of the clinical use of MDMA was also \npublished in 1985, and it involved a summary of proceedings \nfrom a gathering of 35 clinicians and researchers experi -\nenced in the use of MDMA ( 10 ). The report described that \nMDMA “reduced defensiveness and fear of emotional injury , \nthereby facilitating more direct express ion of feelings and \nopinions, and enabling people to receive both praise and \ncriticism with more acceptance than usual. . . Many subjects \nexperienced the classic retrieval of lost traumatic memories, \nfollow ed by the relief of emotional symptoms ( 10 ).”\nGiven that by 1985 MDMA had been used for therapeutic \npurposes to treat various psychiatric conditions for over a \ndecade, court proceedings were initiated to determine if \nthere was a more appropriate scheduling for MDMA than a \nSchedule I substance with “no accepted medical use.” \nSupporting data included clinical findings of safety and ef -\nficacy presented by MDMA-AT therapists ( 11 ). The DEA \nadministrative law judge presiding over the case ultimately \ndetermined that “the evidence of record requires MDMA to \nbe placed in Schedule III” ( 12 ) – meaning that MDMA has an \naccepted medical use and low to moderate risk of physical \ndependence or high psychological dependence ( 13 ). Despite \nthis ruling, the DEA determined in 1986 that MDMA should \nremain Schedule I with no accepted medical use for reasons \nthat remain unclear .\nThe Multidisciplinary Association for Psychedelic Studies \n(MAPS), a nonprofit orga nization, was subsequently founded \nin 1986 by Rick Doblin in response to the DEA Schedule I \ndetermination. The primary effort of MAPS has been building \nan evidence base to ward FDA-approval of MDMA-AT for \nPTSD. All the randomized placebo- controlled Phase 2 and \n3 studies conducted of MDMA-AT for PTSD ha ve thus far \nbeen sponsored by MAPS (Figure 1). The MAPS Public Benefit \nCorporation, which was their drug development entity , was \nrebranded as Lyko s Therapeutics prior to their submission of \nthe New Drug Application in early 2024."
+      },
+      "study": {
+        "design": "literature-review",
+        "context": "review",
+        "population": "綜述整合健康受試者、PTSD 及其他疾病患者的研究；各證據鍵另記子研究條件",
+        "sampleSize": null,
+        "exposure": "MDMA 或 MDMA 搭配準備、給藥及整合會談；依所述子研究而異",
+        "comparator": "安慰劑或常規治療；部分資料為非隨機觀察比較",
+        "timeframe": "依子研究，從急性作用、兩天後、療程結束到九個月",
+        "overlapFamily": "wolfgang-2025-review-primary-studies"
+      },
+      "result": null,
+      "limitations": [
+        "本來源是敘述性綜述，未獨立讀取或再次驗證所引原始臨床試驗；綜述不是新增一組獨立受試者。",
+        "娛樂性 ecstasy 使用、健康成人實驗與搭配心理治療的患者試驗，不直接互推療效或風險。",
+        "試驗可能有盲法不足、期待效應、族群篩選、樣本數與長期對照追蹤限制。",
+        "PDF 首頁與內頁表格將第三期主要評估寫為末次給藥後約四週；本版依此綜述轉述，尚未核對原始試驗的評估時程。",
+        "正文不從不同試驗換算 MDMA-AT 與 SSRI 或其他心理治療的療效優劣，也不把不再符合診斷當作完全緩解。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "wolfgang-2025-extinction",
+      "paperKey": "wolfgang-2025-mdma-therapy",
+      "substances": ["mdma"],
+      "sections": ["benefits"],
+      "kind": "result",
+      "statement": "人體威脅制約後、消退訓練前給藥的研究中，MDMA 組兩天後保留消退學習者比例較安慰劑高。",
+      "source": {
+        "pdfPage": 5,
+        "section": "Pharmacology and Neuroscience",
+        "quote": "Likewise , in humans, MDMA administered after threat \nconditioning and prior to extin ction training results in a \ngreater proportion of individuals demonstrating extinction \nretention 2 days later relative to inactive placebo ( 51 )."
+      },
+      "study": {
+        "design": "literature-review",
+        "context": "review",
+        "population": "綜述轉述的人體威脅制約與消退實驗",
+        "sampleSize": null,
+        "exposure": "建立威脅制約後、消退訓練前給予 MDMA",
+        "comparator": "不含活性成分的安慰劑",
+        "timeframe": "消退保留測驗於兩天後",
+        "overlapFamily": "wolfgang-2025-review-primary-studies"
+      },
+      "result": null,
+      "limitations": [
+        "本來源是敘述性綜述，未獨立讀取或再次驗證所引原始臨床試驗；綜述不是新增一組獨立受試者。",
+        "娛樂性 ecstasy 使用、健康成人實驗與搭配心理治療的患者試驗，不直接互推療效或風險。",
+        "試驗可能有盲法不足、期待效應、族群篩選、樣本數與長期對照追蹤限制。",
+        "PDF 首頁與內頁表格將第三期主要評估寫為末次給藥後約四週；本版依此綜述轉述，尚未核對原始試驗的評估時程。",
+        "正文不從不同試驗換算 MDMA-AT 與 SSRI 或其他心理治療的療效優劣，也不把不再符合診斷當作完全緩解。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "wolfgang-2025-hyponatremia",
+      "paperKey": "wolfgang-2025-mdma-therapy",
+      "substances": ["mdma"],
+      "sections": ["risks"],
+      "kind": "result",
+      "statement": "娛樂性 ecstasy 使用中的低血鈉與抗利尿激素釋放、水分滯留及過量飲水有關，嚴重者可能癲癇或死亡。",
+      "source": {
+        "pdfPage": 6,
+        "section": "Safety: Hyponatremia",
+        "quote": "Hyponatremia and its sequelae are another cause of mor -\nbidity and mortality related to Ecstasy use in nonclinical \nsettings, with 26 total reports in the literature ( 76 ). This is \ndue to MDMA-induced syndrome of inappropriate anti -\ndiuretic hormone (SIADH) combined with voluntary com -\npensatory overhydration, as many recreational users will \noverhydrate in an attempt to address the commonly known \nrisk of hyperthermia without proper a wareness of the risk of \nhyponatremia ( 82 ). MDMA releases antidiuretic hormone \n(ADH), which leads to fluid retention and decreased serum \nsodium concentration ( 83 ). When this is combined with \ncompensatory overhydration to combat dehydration, indi -\nviduals can develop dangerously low sodium concentrations \nthat can ultimately lead to seizures and death."
+      },
+      "study": {
+        "design": "literature-review",
+        "context": "review",
+        "population": "娛樂性 ecstasy 使用的毒性案例與藥理背景",
+        "sampleSize": null,
+        "exposure": "非臨床 ecstasy 使用合併過量補水",
+        "comparator": "藥理與病例資料，非隨機風險比較",
+        "timeframe": "急性毒性",
+        "overlapFamily": "wolfgang-2025-review-primary-studies"
+      },
+      "result": null,
+      "limitations": [
+        "本來源是敘述性綜述，未獨立讀取或再次驗證所引原始臨床試驗；綜述不是新增一組獨立受試者。",
+        "娛樂性 ecstasy 使用、健康成人實驗與搭配心理治療的患者試驗，不直接互推療效或風險。",
+        "試驗可能有盲法不足、期待效應、族群篩選、樣本數與長期對照追蹤限制。",
+        "PDF 首頁與內頁表格將第三期主要評估寫為末次給藥後約四週；本版依此綜述轉述，尚未核對原始試驗的評估時程。",
+        "正文不從不同試驗換算 MDMA-AT 與 SSRI 或其他心理治療的療效優劣，也不把不再符合診斷當作完全緩解。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "wolfgang-2025-clinical-cognition",
+      "paperKey": "wolfgang-2025-mdma-therapy",
+      "substances": ["mdma"],
+      "sections": ["risks"],
+      "kind": "result",
+      "statement": "三項施行神經認知測驗的 PTSD 試驗，在 MDMA 輔助治療療程後未觀察到神經認知變化。",
+      "source": {
+        "pdfPage": 8,
+        "section": "Safety: Neurocognition",
+        "quote": "All three clinical trials of MDMA-AT for PTSD that in -\ncluded a neurocognitive battery ( 106 , 109 , 119 ) show ed no \nchange in neurocognition after a course of treatment ( 1 )."
+      },
+      "study": {
+        "design": "literature-review",
+        "context": "review",
+        "population": "綜述所述三項有神經認知測驗的 PTSD 試驗",
+        "sampleSize": null,
+        "exposure": "研究療程的 MDMA 輔助治療",
+        "comparator": "療程前後神經認知測量；綜述此段未報告具體量化組間結果",
+        "timeframe": "療程完成後",
+        "overlapFamily": "wolfgang-2025-review-primary-studies"
+      },
+      "result": null,
+      "limitations": [
+        "本來源是敘述性綜述，未獨立讀取或再次驗證所引原始臨床試驗；綜述不是新增一組獨立受試者。",
+        "娛樂性 ecstasy 使用、健康成人實驗與搭配心理治療的患者試驗，不直接互推療效或風險。",
+        "試驗可能有盲法不足、期待效應、族群篩選、樣本數與長期對照追蹤限制。",
+        "PDF 首頁與內頁表格將第三期主要評估寫為末次給藥後約四週；本版依此綜述轉述，尚未核對原始試驗的評估時程。",
+        "正文不從不同試驗換算 MDMA-AT 與 SSRI 或其他心理治療的療效優劣，也不把不再符合診斷當作完全緩解。",
+        "未觀察到測驗變化不代表排除罕見或長期神經毒性。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "wolfgang-2025-protocol",
+      "paperKey": "wolfgang-2025-mdma-therapy",
+      "substances": ["mdma"],
+      "sections": ["therapy"],
+      "kind": "background",
+      "statement": "療程包括準備、給藥與整合會談；第三期使用三次相隔約一個月給藥，綜述描述一般療程為兩至三次。",
+      "source": {
+        "pdfPage": 10,
+        "section": "MDMA-Assisted Therapy: Treatment Course",
+        "quote": "MDMA-AT primarily consists of three distinct types of \nsessions: preparatory , MDMA, and integration sessions. A \ntreatment course involves two to three MDMA sessions. \nEach MDMA session is 6–8 hours long and is approximately \n1 month (±1 week) apart. Preceding the first MDMA session \nare three 90-minute preparatory sessions designed to edu -\ncate the participant about the treatment, build a therapeutic \nalliance, and establish therapeutic aims.\nEach MDMA session is follow ed by three 90-minute \nintegration sessions for a total of six to nine integration \nsessions per course of treatment. The first of each trio of \nintegration sessions occurs the morning after the MDMA \nsession. The second and third integration sessions follow at \napproximately 1-week intervals but prior to the ne xt MDMA \nsession.\nEach MDMA session involves two doses of MDMA. The \nfirst dose of each MDMA session is a full dose ranging from \n75–125 mg (80–120 mg in the most recent phase 3 trials and \nlikely in real-w orld clinical implementation). The second \nsupplemental dose is half of the initial dose and is offered \n90–120 minutes after the initial dose as an option based on \ntolerability , patient preference , and therapist clinical judg -\nment. In MDMA-AT clinical trials, participants w ere offered \nand in nearly all cases accepted the supplemental dose. The \npurpose of the timing and dosage of the supplemental dose is \nto extend the peak effect of the MDMA."
+      },
+      "study": {
+        "design": "literature-review",
+        "context": "review",
+        "population": "MDMA 輔助治療研究療程，第三期 PTSD 為三次給藥",
+        "sampleSize": null,
+        "exposure": "準備會談、給藥會談與每次給藥後三次整合會談；首劑 80–120 mg 並可補半劑",
+        "comparator": "第三期對照為安慰劑搭配心理治療",
+        "timeframe": "給藥會談約相隔一個月，每次六至八小時；全療程約三至四個月",
+        "overlapFamily": "wolfgang-2025-review-primary-studies"
+      },
+      "result": null,
+      "limitations": [
+        "本來源是敘述性綜述，未獨立讀取或再次驗證所引原始臨床試驗；綜述不是新增一組獨立受試者。",
+        "娛樂性 ecstasy 使用、健康成人實驗與搭配心理治療的患者試驗，不直接互推療效或風險。",
+        "試驗可能有盲法不足、期待效應、族群篩選、樣本數與長期對照追蹤限制。",
+        "PDF 首頁與內頁表格將第三期主要評估寫為末次給藥後約四週；本版依此綜述轉述，尚未核對原始試驗的評估時程。",
+        "正文不從不同試驗換算 MDMA-AT 與 SSRI 或其他心理治療的療效優劣，也不把不再符合診斷當作完全緩解。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "wolfgang-2025-ptsd-outcomes",
+      "paperKey": "wolfgang-2025-mdma-therapy",
+      "substances": ["mdma"],
+      "sections": ["therapy"],
+      "kind": "result",
+      "statement": "綜述整理兩項第三期試驗，末次給藥後約四週不再符合 PTSD 診斷者依序為 MDMA／安慰劑 67%／32%、71%／48%；此指標不同於完全緩解。",
+      "source": {
+        "pdfPage": 11,
+        "section": "MDMA-AT for PTSD: Efficacy",
+        "quote": "Efficacy . Nearly 300 study participants ha ve received \nMDMA-AT for PTSD across eight randomized placebo- \ncontrolled clinical trials (Table 1) ( 2 , 3 , 86 , 106 , 108 , 109 , \n119 , 154 ). Participants had a diagnosis of PTSD for 14–18 years \non a verage, and the illness for nearly all was resistant to \nprevious therapies ( 1 – 3 ).\nAt the primary study endpoint (approximately 4 weeks \nafter the last of three MDMA doses) across both phase \n3 multicenter clinical trials, 67%–71% of individuals lost the \ndiagnosis of PTSD after a course of MDMA-AT versus \n32%–48% with placebo-assisted therapy (between -group: \nCohen’s d=0.70–0.91; within-group: d=1.95–2.1; Figure 4) \n( 2 , 3 ). In phase 2 studies, loss of diagnosis rates signifi -\ncantly further improve at 1-year follo w-up ( 129 ) and re -\nmain durable, with 74% no longer meeting diagnostic \ncriteria for PTSD nearly 4 years later (Figure 4) ( 153 ).\nRemission (defined as loss of PTSD diagnosis and \nClinician-Administered PTSD Scale for DSM-5 total score ≤\n11) was achieved by 33% of the active group and 5% of the \nplacebo group in the first phase 3 trial ( 2 ) as well as 46% of the \nactive group and 21% of the placebo group in the second \nphase 3 trial ( 3 )."
+      },
+      "study": {
+        "design": "literature-review",
+        "context": "review",
+        "population": "兩項多中心第三期 PTSD 隨機試驗，病程平均 14–18 年且多有既往治療無效",
+        "sampleSize": null,
+        "exposure": "三次 MDMA 輔助會談搭配準備與整合心理治療",
+        "comparator": "不含活性成分的安慰劑搭配心理治療",
+        "timeframe": "綜述所列主要評估為最後一次給藥後約四週",
+        "overlapFamily": "wolfgang-2025-review-primary-studies"
+      },
+      "result": null,
+      "limitations": [
+        "本來源是敘述性綜述，未獨立讀取或再次驗證所引原始臨床試驗；綜述不是新增一組獨立受試者。",
+        "娛樂性 ecstasy 使用、健康成人實驗與搭配心理治療的患者試驗，不直接互推療效或風險。",
+        "試驗可能有盲法不足、期待效應、族群篩選、樣本數與長期對照追蹤限制。",
+        "PDF 首頁與內頁表格將第三期主要評估寫為末次給藥後約四週；本版依此綜述轉述，尚未核對原始試驗的評估時程。",
+        "正文不從不同試驗換算 MDMA-AT 與 SSRI 或其他心理治療的療效優劣，也不把不再符合診斷當作完全緩解。",
+        "表1的第三期隨機人數為 46/44 及 53/51；失去診斷結果依分析可用人數為 28/42 對 12/37、37/52 對 20/42。各分析分母不同，不以隨機人數自行換算。",
+        "表1與圖4第二項第三期對照組末次分析分母有 42 與43 的差別；正文使用綜述一致列出的四捨五入百分比。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "wolfgang-2025-comorbid-depression",
+      "paperKey": "wolfgang-2025-mdma-therapy",
+      "substances": ["mdma"],
+      "sections": ["therapy"],
+      "kind": "result",
+      "statement": "PTSD 試驗的共病憂鬱：四項二期合併改善未顯著，第一項三期顯著，第二項三期收集但未報告此結果。",
+      "source": {
+        "pdfPage": 7,
+        "section": "Safety: Psychiatric Conditions",
+        "quote": "In contrast, there was a nonsignificant improvement in \ndepression over an entire treatment course when pooling all \nfour phase 2 clinical trials of MDMA-AT that measured \ndepression ( 1 ), and significant improvements in depression \nwere found in the first phase 3 multisite clinical trial ( 2 ). \nDepression symptom outcomes were collected but not re -\nported for the second phase 3 clinical trial ( 3 )."
+      },
+      "study": {
+        "design": "literature-review",
+        "context": "review",
+        "population": "PTSD 試驗患者的共病憂鬱症狀",
+        "sampleSize": null,
+        "exposure": "MDMA 輔助心理治療",
+        "comparator": "試驗對照組；綜述未在此段提供詳細分數",
+        "timeframe": "整個療程的憂鬱症狀變化",
+        "overlapFamily": "wolfgang-2025-review-primary-studies"
+      },
+      "result": null,
+      "limitations": [
+        "本來源是敘述性綜述，未獨立讀取或再次驗證所引原始臨床試驗；綜述不是新增一組獨立受試者。",
+        "娛樂性 ecstasy 使用、健康成人實驗與搭配心理治療的患者試驗，不直接互推療效或風險。",
+        "試驗可能有盲法不足、期待效應、族群篩選、樣本數與長期對照追蹤限制。",
+        "PDF 首頁與內頁表格將第三期主要評估寫為末次給藥後約四週；本版依此綜述轉述，尚未核對原始試驗的評估時程。",
+        "正文不從不同試驗換算 MDMA-AT 與 SSRI 或其他心理治療的療效優劣，也不把不再符合診斷當作完全緩解。",
+        "不是原發重鬱症隨機治療試驗；不把 PTSD 共病症狀結果當作一般抗憂鬱療效。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "wolfgang-2025-alcohol",
+      "paperKey": "wolfgang-2025-mdma-therapy",
+      "substances": ["mdma"],
+      "sections": ["therapy"],
+      "kind": "result",
+      "statement": "BIMA 開放式研究 14 人接受兩次 MDMA-AT，與另一項常規治療觀察研究14人非隨機比較；排毒後九個月飲酒每週超過14單位者為21%及75%。",
+      "source": {
+        "pdfPage": 13,
+        "section": "MDMA-AT for Other Conditions",
+        "quote": "Alcohol use disorder . The Bristol Imperial MDMA in Alco -\nholism Study (BIMA) is the first study of MDMA-AT for a \nsubstance use disorder . Fourteen individuals with alcohol \nuse disorder who recently detoxed from alcohol received \ntwo sessions of open-label MDMA-AT with an initial dose of \n125 mg of MDMA and a supplemental half dose 2 hours later . \nThe open-label MDMA-AT group was compared with a \nseparately conducted observational study of a similar pop -\nulation of 14 different individuals who received treatment as \nusual. Nine months post -detox, 75% of the observational \ngroup w ere drinking >14 units of alcohol w eekly , whereas \n21% of the MDMA-AT group met the same criteria ( 110 )."
+      },
+      "study": {
+        "design": "literature-review",
+        "context": "review",
+        "population": "戒酒排毒後的酒精使用障礙患者；14 人開放式方案，另14人為另一研究的觀察比較組",
+        "sampleSize": null,
+        "exposure": "兩次 MDMA 輔助治療，首劑125 mg並於兩小時補半劑",
+        "comparator": "另一項觀察研究的常規治療，非同試驗隨機分派",
+        "timeframe": "排毒後九個月",
+        "overlapFamily": "wolfgang-2025-review-primary-studies"
+      },
+      "result": null,
+      "limitations": [
+        "本來源是敘述性綜述，未獨立讀取或再次驗證所引原始臨床試驗；綜述不是新增一組獨立受試者。",
+        "娛樂性 ecstasy 使用、健康成人實驗與搭配心理治療的患者試驗，不直接互推療效或風險。",
+        "試驗可能有盲法不足、期待效應、族群篩選、樣本數與長期對照追蹤限制。",
+        "PDF 首頁與內頁表格將第三期主要評估寫為末次給藥後約四週；本版依此綜述轉述，尚未核對原始試驗的評估時程。",
+        "正文不從不同試驗換算 MDMA-AT 與 SSRI 或其他心理治療的療效優劣，也不把不再符合診斷當作完全緩解。",
+        "組間百分比來自不同研究、非隨機比較；不得直接視為可歸因於 MDMA 的治療差值。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "wolfgang-2025-social-anxiety",
+      "paperKey": "wolfgang-2025-mdma-therapy",
+      "substances": ["mdma"],
+      "sections": ["therapy"],
+      "kind": "result",
+      "statement": "自閉症成人社交焦慮小型雙盲隨機試驗納入12人；綜述分析記 MDMA 7人、安慰劑4人，兩次會談後社交焦慮改善較安慰劑大。",
+      "source": {
+        "pdfPage": 13,
+        "section": "MDMA-AT for Other Conditions",
+        "quote": "Anxiety . A small double-blind, randomized, placebo -controlled \nclinical trial (RCT) of MDMA-AT to treat social anxiety in \n12 adults with autism spectrum disorder found that social \nanxiety significantly improved after tw o MDMA-AT sessions of \n75–125 mg (plus a supplemental half dose 2 hours later) of \nMDMA (N=7) compared to inactive placebo (N=4) ( 105 )."
+      },
+      "study": {
+        "design": "literature-review",
+        "context": "review",
+        "population": "12 名自閉症成人社交焦慮試驗；綜述比較分析人數為7與4",
+        "sampleSize": null,
+        "exposure": "兩次 MDMA 輔助治療，首劑75–125 mg並補半劑",
+        "comparator": "不含活性成分的安慰劑",
+        "timeframe": "兩次輔助會談後",
+        "overlapFamily": "wolfgang-2025-review-primary-studies"
+      },
+      "result": null,
+      "limitations": [
+        "本來源是敘述性綜述，未獨立讀取或再次驗證所引原始臨床試驗；綜述不是新增一組獨立受試者。",
+        "娛樂性 ecstasy 使用、健康成人實驗與搭配心理治療的患者試驗，不直接互推療效或風險。",
+        "試驗可能有盲法不足、期待效應、族群篩選、樣本數與長期對照追蹤限制。",
+        "PDF 首頁與內頁表格將第三期主要評估寫為末次給藥後約四週；本版依此綜述轉述，尚未核對原始試驗的評估時程。",
+        "正文不從不同試驗換算 MDMA-AT 與 SSRI 或其他心理治療的療效優劣，也不把不再符合診斷當作完全緩解。",
+        "招募／隨機總人數12與此段分析7+4不同；未讀原始試驗，不推測未納入分析原因。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "wolfgang-2025-illness-anxiety",
+      "paperKey": "wolfgang-2025-mdma-therapy",
+      "substances": ["mdma"],
+      "sections": ["therapy"],
+      "kind": "result",
+      "statement": "重大疾病相關焦慮／心理困擾18人隨機試驗中，MDMA13人、安慰劑5人，兩次會談後焦慮改善的組間差異未達顯著。",
+      "source": {
+        "pdfPage": 13,
+        "section": "MDMA-AT for Other Conditions",
+        "quote": "Another RCT investigated two sessions of MDMA-AT for \n18 individuals with anxiety or psychological distress related to a \nlife-threatening illness comparing 125 mg (plus a supplemental \nhalf-dose 2 hours later) of MDMA (N=13) and inactive placebo \n(N=5) ( 111 ). Reductions in anxiety between arms were not \nstatistically significant (p=0.056) ( 111 )."
+      },
+      "study": {
+        "design": "literature-review",
+        "context": "review",
+        "population": "18 名重大疾病相關焦慮或心理困擾患者",
+        "sampleSize": null,
+        "exposure": "兩次 MDMA 輔助治療，首劑125 mg並補半劑",
+        "comparator": "安慰劑搭配治療；MDMA組13人、安慰劑組5人",
+        "timeframe": "兩次治療會談後",
+        "overlapFamily": "wolfgang-2025-review-primary-studies"
+      },
+      "result": null,
+      "limitations": [
+        "本來源是敘述性綜述，未獨立讀取或再次驗證所引原始臨床試驗；綜述不是新增一組獨立受試者。",
+        "娛樂性 ecstasy 使用、健康成人實驗與搭配心理治療的患者試驗，不直接互推療效或風險。",
+        "試驗可能有盲法不足、期待效應、族群篩選、樣本數與長期對照追蹤限制。",
+        "PDF 首頁與內頁表格將第三期主要評估寫為末次給藥後約四週；本版依此綜述轉述，尚未核對原始試驗的評估時程。",
+        "正文不從不同試驗換算 MDMA-AT 與 SSRI 或其他心理治療的療效優劣，也不把不再符合診斷當作完全緩解。",
+        "p=0.056 未達統計顯著，不等同證明無效。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "wolfgang-2025-review-scope",
+      "paperKey": "wolfgang-2025-mdma-therapy",
+      "substances": ["mdma"],
+      "sections": ["related"],
+      "kind": "background",
+      "statement": "綜述區分娛樂性使用與受控 MDMA 輔助治療，討論藥理、臨床研究、安全性與未來方向。",
+      "source": {
+        "pdfPage": 1,
+        "section": "Abstract and introduction",
+        "quote": "This review primarily aims to dis -\ntinguish evidence of recreational use in nonclinical settings \nversus MDMA-AT using pharmaceutical-grade MDMA in \ncontrolled clinical settings. This review further describes the \nputative neurobiological mechanisms of MDMA underlying \nits therapeutic effects, the clinical evidence of MDMA-AT, \nconsiderations at the level of public health and policy, and \nfuture research directions."
+      },
+      "study": {
+        "design": "literature-review",
+        "context": "review",
+        "population": "綜述整合健康受試者、PTSD 及其他疾病患者的研究；各證據鍵另記子研究條件",
+        "sampleSize": null,
+        "exposure": "MDMA 或 MDMA 搭配準備、給藥及整合會談；依所述子研究而異",
+        "comparator": "安慰劑或常規治療；部分資料為非隨機觀察比較",
+        "timeframe": "依子研究，從急性作用、兩天後、療程結束到九個月",
+        "overlapFamily": "wolfgang-2025-review-primary-studies"
+      },
+      "result": null,
+      "limitations": [
+        "本來源是敘述性綜述，未獨立讀取或再次驗證所引原始臨床試驗；綜述不是新增一組獨立受試者。",
+        "娛樂性 ecstasy 使用、健康成人實驗與搭配心理治療的患者試驗，不直接互推療效或風險。",
+        "試驗可能有盲法不足、期待效應、族群篩選、樣本數與長期對照追蹤限制。",
+        "PDF 首頁與內頁表格將第三期主要評估寫為末次給藥後約四週；本版依此綜述轉述，尚未核對原始試驗的評估時程。",
+        "正文不從不同試驗換算 MDMA-AT 與 SSRI 或其他心理治療的療效優劣，也不把不再符合診斷當作完全緩解。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "wolfgang-2025-long-term-limit",
+      "paperKey": "wolfgang-2025-mdma-therapy",
+      "substances": ["mdma"],
+      "sections": ["therapy"],
+      "kind": "limitation",
+      "statement": "超過末次給藥兩個月後缺乏盲法安慰劑對照長期資料；既有長期追蹤不足以估計可歸因的長期療效。",
+      "source": {
+        "pdfPage": 15,
+        "section": "Limitations",
+        "quote": "Although long-term follow-up data at 1 and 4 years \nsuggests the treatment effect of MDMA-AT for PTSD is \ndurable ( 129 , 153 ), no blinded, placebo-controlled data exi st \nbeyond 2 months after the final dosing session. All phase \n2 and 3 participants w ere unblinded after the primary out -\ncome measure 1–2 months after their final dosing session, \nand those who received placebo were offered to crossover to \nopen-label MDMA-AT. One-third to nearly half of partici -\npants who received placebo no longer met criteria for PTSD \nafter a course of treatment ( 2 , 3 ), and PTSD is kno wn to \ngradually improve in many individuals even without treat -\nment ( 164 ). Thus, without blinded, placebo -controlled \nlong-term follow-up data, reliable conclusions cannot yet \nbe drawn about the long-term durability and magnitude of \ntreatment effects."
+      },
+      "study": {
+        "design": "literature-review",
+        "context": "review",
+        "population": "綜述整合健康受試者、PTSD 及其他疾病患者的研究；各證據鍵另記子研究條件",
+        "sampleSize": null,
+        "exposure": "MDMA 或 MDMA 搭配準備、給藥及整合會談；依所述子研究而異",
+        "comparator": "安慰劑或常規治療；部分資料為非隨機觀察比較",
+        "timeframe": "依子研究，從急性作用、兩天後、療程結束到九個月",
+        "overlapFamily": "wolfgang-2025-review-primary-studies"
+      },
+      "result": null,
+      "limitations": [
+        "本來源是敘述性綜述，未獨立讀取或再次驗證所引原始臨床試驗；綜述不是新增一組獨立受試者。",
+        "娛樂性 ecstasy 使用、健康成人實驗與搭配心理治療的患者試驗，不直接互推療效或風險。",
+        "試驗可能有盲法不足、期待效應、族群篩選、樣本數與長期對照追蹤限制。",
+        "PDF 首頁與內頁表格將第三期主要評估寫為末次給藥後約四週；本版依此綜述轉述，尚未核對原始試驗的評估時程。",
+        "正文不從不同試驗換算 MDMA-AT 與 SSRI 或其他心理治療的療效優劣，也不把不再符合診斷當作完全緩解。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "wolfgang-2025-entactogen",
+      "paperKey": "wolfgang-2025-mdma-therapy",
+      "substances": ["mdma"],
+      "sections": ["basics"],
+      "kind": "background",
+      "statement": "綜述將 MDMA 歸類為非經典啟靈物質，較精確稱為 empathogen 或 entactogen，並討論內在自我慈悲。",
+      "source": {
+        "pdfPage": 4,
+        "section": "Classification and Subjective Effects",
+        "quote": "Thus, MDMA is better classified as a nonclassical psy -\nchedelic and more specifically , an empathogen or entactogen \n(Figure 2). Empathogen refers to a core feature of MDMA to \n“generate empathy .” Entactogen is the more widely accepted \nterm referring to the way in which MDMA allows an indi -\nvidual to “touch within” through a lens of inner -directed self- \ncompassion ( 31 ). MDMA’s entactogenic characteristics are \nthought to be a core feature of its therapeutic effects when \npaired with psychotherapy ( 32 )."
+      },
+      "study": {
+        "design": "literature-review",
+        "context": "review",
+        "population": "綜述整合健康受試者、PTSD 及其他疾病患者的研究；各證據鍵另記子研究條件",
+        "sampleSize": null,
+        "exposure": "MDMA 或 MDMA 搭配準備、給藥及整合會談；依所述子研究而異",
+        "comparator": "安慰劑或常規治療；部分資料為非隨機觀察比較",
+        "timeframe": "依子研究，從急性作用、兩天後、療程結束到九個月",
+        "overlapFamily": "wolfgang-2025-review-primary-studies"
+      },
+      "result": null,
+      "limitations": [
+        "本來源是敘述性綜述，未獨立讀取或再次驗證所引原始臨床試驗；綜述不是新增一組獨立受試者。",
+        "娛樂性 ecstasy 使用、健康成人實驗與搭配心理治療的患者試驗，不直接互推療效或風險。",
+        "試驗可能有盲法不足、期待效應、族群篩選、樣本數與長期對照追蹤限制。",
+        "PDF 首頁與內頁表格將第三期主要評估寫為末次給藥後約四週；本版依此綜述轉述，尚未核對原始試驗的評估時程。",
+        "正文不從不同試驗換算 MDMA-AT 與 SSRI 或其他心理治療的療效優劣，也不把不再符合診斷當作完全緩解。"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "key": "wolfgang-2025-ptsd-design",
+      "paperKey": "wolfgang-2025-mdma-therapy",
+      "substances": ["mdma"],
+      "sections": ["therapy"],
+      "kind": "background",
+      "statement": "綜述表1列出兩項第三期隨機試驗，皆三次給藥，MDMA 80–120 mg 與安慰劑比較。",
+      "source": {
+        "pdfPage": 12,
+        "section": "Table 1: Phase 3 trial designs",
+        "quote": "Mitchell et al., 2021 \n(Phase 3) ( 2 ) \nRCT; three closed-label MDMA sessions, no open-label cross-over; \nprimary outcome: CAPS-5 1 month after third closed-label MDMA \nsession. \n80–120 and 0\ni \n80–120 mg: 46 \n0 mg: 44 \nMitchell et al., 2023 \n(Phase 3) ( 3 ) \nRCT; three closed-label MDMA sessions, no open-label cross-over; \nprimary outcome: CAPS-5 1 month after third closed-label MDMA \nsession. \n80–120 and 0\ni \n80–120 mg: 53 \n0 mg: 51 \na"
+      },
+      "study": {
+        "design": "literature-review",
+        "context": "review",
+        "population": "兩項多中心第三期 PTSD 隨機試驗，病程平均 14–18 年且多有既往治療無效",
+        "sampleSize": null,
+        "exposure": "三次 MDMA 輔助會談搭配準備與整合心理治療",
+        "comparator": "不含活性成分的安慰劑搭配心理治療",
+        "timeframe": "綜述所列主要評估為最後一次給藥後約四週",
+        "overlapFamily": "wolfgang-2025-review-primary-studies"
+      },
+      "result": null,
+      "limitations": [
+        "本來源是敘述性綜述，未獨立讀取或再次驗證所引原始臨床試驗；綜述不是新增一組獨立受試者。",
+        "娛樂性 ecstasy 使用、健康成人實驗與搭配心理治療的患者試驗，不直接互推療效或風險。",
+        "試驗可能有盲法不足、期待效應、族群篩選、樣本數與長期對照追蹤限制。",
+        "PDF 首頁與內頁表格將第三期主要評估寫為末次給藥後約四週；本版依此綜述轉述，尚未核對原始試驗的評估時程。",
+        "正文不從不同試驗換算 MDMA-AT 與 SSRI 或其他心理治療的療效優劣，也不把不再符合診斷當作完全緩解。"
+      ],
+      "reviewStatus": "reviewed"
+    }
+  ]
+}
