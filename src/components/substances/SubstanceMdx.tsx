@@ -32,7 +32,7 @@ export default function SubstanceMdx({
           href={`#ref-${reference.paper.key}`}
           data-evidence={occurrence.evidenceKeys.join(' ')}
           aria-label={`參考文獻 ${occurrence.number}：${reference.paper.authors[0]}，${reference.paper.year}`}
-          className='inline-flex min-h-6 min-w-6 scroll-mt-36 items-center justify-center rounded-sm font-medium text-foreground underline-offset-4 hover:underline focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2'
+          className='inline-flex min-h-6 min-w-6 scroll-mt-36 items-center justify-center rounded-sm font-medium text-muted-foreground underline-offset-4 transition-colors hover:text-foreground hover:underline focus-visible:text-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2'
         >
           [{occurrence.number}]
         </a>

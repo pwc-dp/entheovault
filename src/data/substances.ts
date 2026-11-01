@@ -4,10 +4,11 @@ export const substanceGuides = [
     name: 'LSD',
     chineseName: '麥角酸二乙醯胺',
     fullName: 'Lysergic acid diethylamide',
-    category: '經典迷幻物質',
-    description: '從知覺與意識的變化，認識 LSD 的研究歷程。',
+    category: '經典啟靈物質',
+    description:
+      '認識 LSD（麥角酸二乙醯胺）的基本作用與研究歷史，了解主觀經驗、腦部活動、潛在治療用途及風險與副作用。',
     basics: [
-      'LSD 是一種以麥角相關化合物為基礎合成的物質，通常被歸入經典迷幻物質。它會改變感官經驗與時間知覺。',
+      'LSD 是一種以麥角相關化合物為基礎合成的物質，通常被歸入經典啟靈物質。它會改變感官經驗與時間知覺。',
       '理解 LSD 時，需要同時考慮物質本身、個人的心理狀態，以及經驗發生的環境。',
     ],
     history:
@@ -24,10 +25,11 @@ export const substanceGuides = [
     chineseName: '亞甲二氧基甲基安非他命',
     fullName: '3,4-Methylenedioxymethamphetamine',
     category: '促進情感連結的精神活性物質',
-    description: '從情緒與人際連結，理解 MDMA 與心理治療研究。',
+    description:
+      '認識 MDMA 的作用與研究歷史，了解 MDMA 輔助心理治療對創傷後壓力症的臨床研究，以及情緒、記憶與使用風險的研究結果。',
     basics: [
       'MDMA 是一種合成的精神活性物質，會影響血清素、正腎上腺素與多巴胺等神經傳導系統。',
-      '它常被描述為促進同理與情感連結的物質，其作用特徵與 LSD、psilocybin 等經典迷幻物質有所不同。',
+      '它常被描述為促進同理與情感連結的物質，其作用特徵與 LSD、psilocybin 等經典啟靈物質有所不同。',
     ],
     history:
       'MDMA 於 1912 年由 Merck 首次合成。1970 年代，它逐漸進入部分心理治療工作者的實務與討論，之後也成為臨床研究的對象。',
@@ -42,10 +44,11 @@ export const substanceGuides = [
     name: 'Psilocybin',
     chineseName: '裸蓋菇素',
     fullName: 'Psilocybin',
-    category: '經典迷幻物質',
-    description: '從真菌中的天然化合物，走進當代意識與臨床研究。',
+    category: '經典啟靈物質',
+    description:
+      '認識 Psilocybin（裸蓋菇素）的作用與研究歷史，了解憂鬱症、癌症相關心理困擾及酒精使用障礙的研究結果，以及風險與副作用。',
     basics: [
-      'Psilocybin 是存在於多種真菌中的天然化合物，通常被歸入經典迷幻物質。它可能改變感官與時間知覺。',
+      'Psilocybin 是存在於多種真菌中的天然化合物，通常被歸入經典啟靈物質。它可能改變感官與時間知覺。',
       '討論時應區分 psilocybin 這個化合物、含有它的真菌，以及研究使用的製劑與支持條件。',
     ],
     history:
@@ -61,8 +64,9 @@ export const substanceGuides = [
     name: '5-MeO-DMT',
     chineseName: '5-甲氧基-N,N-二甲基色胺',
     fullName: '5-Methoxy-N,N-dimethyltryptamine',
-    category: '血清素性迷幻物質',
-    description: '認識 5-MeO-DMT 的短暫主觀作用、自然情境觀察與治療研究。',
+    category: '血清素性啟靈物質',
+    description:
+      '認識 5-MeO-DMT 的基本作用與研究歷史，了解主觀經驗、情緒變化與潛在治療用途的研究，以及風險與副作用。',
   },
 ] as const
 

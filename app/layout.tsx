@@ -26,7 +26,7 @@ const Toaster = dynamic(
   { ssr: false },
 )
 
-const siteDescription = `${SITE_NAME_ZH} ${SITE_NAME} – 致力於推廣啟靈物質的研究、治療與應用。平台收錄研究論文、教育資源與專業見解，旨在推動大眾深入理解啟靈藥物對心理健康、個人成長與社會福祉的正向影響。本資料庫由台灣啟靈意識研究學會維護與管理。`
+const siteDescription = `${SITE_NAME_ZH} ${SITE_NAME} 以啟靈物質的科學研究與公共教育為核心，收錄研究論文、教育資源與專業見解，協助大眾理解啟靈物質對心理健康、個人成長與社會福祉的潛在影響，以及相關風險。本資料庫由台灣啟靈意識研究學會維護與管理。`
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),

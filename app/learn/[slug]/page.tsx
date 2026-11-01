@@ -4,7 +4,6 @@ import Link from 'next/link'
 import { notFound } from 'next/navigation'
 
 import { getSubstancePapers } from '@/api/substancePapers'
-import GuideDisclaimer from '@/components/GuideDisclaimer'
 import SubstanceHeroBackground from '@/components/substances/SubstanceHeroBackground'
 import SubstanceMdx from '@/components/substances/SubstanceMdx'
 import { FiveMeoDmt, Lsd, Mdma, Psilocybin } from '@/components/SubstancesSvg'
@@ -103,13 +102,10 @@ export default async function SubstancePage({
               >
                 {substance.category}
               </Badge>
-              <p className='max-w-2xl text-lg leading-8 text-muted-foreground'>
-                {substance.description}
-              </p>
             </div>
             <figure>
               <Card>
-                <CardContent className='space-y-4 p-6 text-center'>
+                <CardContent className='p-6 text-center'>
                   <div
                     role='img'
                     aria-label={`${substance.name} 化學結構`}
@@ -117,9 +113,6 @@ export default async function SubstancePage({
                   >
                     <Molecule className='h-full w-full max-w-44 sm:h-full sm:w-full' />
                   </div>
-                  <figcaption className='text-sm text-muted-foreground'>
-                    化學結構
-                  </figcaption>
                 </CardContent>
               </Card>
             </figure>
@@ -128,7 +121,6 @@ export default async function SubstancePage({
           <Separator />
         </div>
       </div>
-      <GuideDisclaimer />
       <div className='grid gap-8 lg:grid-cols-[200px_minmax(0,1fr)] lg:gap-12'>
         <SubstanceToc chapters={guide ? substanceSections : undefined} />
         <article className='min-w-0 max-w-3xl space-y-12 text-base leading-8 sm:text-lg'>
