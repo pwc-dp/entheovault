@@ -26,19 +26,20 @@ const Toaster = dynamic(
   { ssr: false },
 )
 
-const siteDescription = `${SITE_NAME_ZH} ${SITE_NAME} 以啟靈物質的科學研究與公共教育為核心，收錄研究論文、教育資源與專業見解，協助大眾理解啟靈物質對心理健康、個人成長與社會福祉的潛在影響，以及相關風險。本資料庫由台灣啟靈意識研究學會維護與管理。`
+const siteTitle = `${SITE_NAME_ZH}\u00A0${SITE_NAME}`
+const siteDescription = `${siteTitle} 以啟靈物質的科學研究與公共教育為核心，收錄研究論文、教育資源與專業見解，協助大眾理解啟靈物質對心理健康、個人成長與社會福祉的潛在影響，以及相關風險。本資料庫由台灣啟靈意識研究學會維護與管理。`
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
   keywords: SITE_META_KEYWORDS,
   title: {
-    default: `${SITE_NAME_ZH} ${SITE_NAME}`,
+    default: siteTitle,
     template: `%s – ${SITE_NAME_ZH} ${SITE_NAME}`,
   },
   description: siteDescription,
   openGraph: {
     title: {
-      default: `${SITE_NAME_ZH} ${SITE_NAME} – 通往啟靈研究與知識之門`,
+      default: `${siteTitle} – 通往啟靈研究與知識之門`,
       template: `%s – ${SITE_NAME_ZH} ${SITE_NAME}`,
     },
     description: siteDescription,
@@ -51,7 +52,7 @@ export const metadata: Metadata = {
   twitter: {
     card: 'summary_large_image',
     title: {
-      default: `${SITE_NAME_ZH} ${SITE_NAME} – 通往啟靈研究與知識之門`,
+      default: `${siteTitle} – 通往啟靈研究與知識之門`,
       template: `%s – ${SITE_NAME_ZH} ${SITE_NAME}`,
     },
     description: siteDescription,
